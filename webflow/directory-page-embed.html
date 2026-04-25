@@ -14,6 +14,27 @@
        Body:     Source Sans Pro, Inter, system-ui, sans-serif
   */
 
+  /* ===== Layout: clear the fixed site navbar ===== */
+  .dir-home__hero { padding-top: 7rem; }
+  @media (max-width: 991px) { .dir-home__hero { padding-top: 5.5rem; } }
+  @media (max-width: 479px) { .dir-home__hero { padding-top: 4.5rem; } }
+
+  /* ===== /directory hero typography (override Webflow defaults) ===== */
+  body .dir-home .dir-home__title { font-family: "Playfair Display", Georgia, serif; color: #376c74; }
+  body .dir-home .dir-home__h2 { font-family: "Playfair Display", Georgia, serif; color: #376c74; }
+  body .dir-home .dir-home__lead { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; color: #1a1f36; }
+  body .dir-home .dir-home__eyebrow { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; color: #af8264; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600; }
+  body .dir-home .dir-home__hero-meta { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; color: #5a727c; }
+  body .dir-home .dir-home__cat h3 { font-family: "Playfair Display", Georgia, serif; color: #376c74; }
+  body .dir-home .dir-home__cat p { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; color: #1a1f36; }
+  body .dir-home .dir-home__chip { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; }
+  body .dir-home .dir-home__faq-item h3 { font-family: "Playfair Display", Georgia, serif; color: #376c74; }
+  body .dir-home .dir-home__faq-item p { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; color: #1a1f36; }
+  body .dir-home .dir-home__cta h2 { font-family: "Playfair Display", Georgia, serif; color: #fff; }
+  body .dir-home .dir-home__cta p { font-family: "Source Sans Pro", Inter, system-ui, sans-serif; }
+  body .dir-home .dir-home__cta-btn { background: #dda792; color: #fff; border: 1px solid transparent; border-radius: 4px; transition: background 0.15s, color 0.15s, border-color 0.15s; }
+  body .dir-home .dir-home__cta-btn:hover { background: transparent; color: #af8264; border-color: #af8264; }
+
   /* ===== /directory hero search bar ===== */
   .dir-home__search { display: block; width: 100%; max-width: 720px; font-family: "Source Sans Pro", Inter, system-ui, sans-serif; }
   .dir-home__search form { display: flex !important; flex-wrap: wrap; gap: 0.5rem; align-items: stretch; margin: 0; }
@@ -28,14 +49,16 @@
   .dir-home__search form input[type="search"]:focus {
     outline: none; border-color: #376c74; box-shadow: 0 0 0 3px rgba(55,108,116,0.18);
   }
-  .dir-home__search form input[type="submit"] {
+  body .dir-home__search form input[type="submit"],
+  body .dir-home__search form input.w-button[type="submit"] {
     flex: 0 0 auto; padding: 0.875rem 1.75rem; font-size: 1rem; font-weight: 600;
     font-family: "Source Sans Pro", Inter, system-ui, sans-serif;
     background: #dda792; color: #fff; border: 1px solid transparent; border-radius: 4px; cursor: pointer;
     transition: background 0.15s, color 0.15s, border-color 0.15s;
     line-height: 1.4; letter-spacing: 0.01em;
   }
-  .dir-home__search form input[type="submit"]:hover {
+  body .dir-home__search form input[type="submit"]:hover,
+  body .dir-home__search form input.w-button[type="submit"]:hover {
     background: transparent; color: #af8264; border-color: #af8264;
   }
   .dir-home__search .w-form-done, .dir-home__search .w-form-fail { display: none !important; }

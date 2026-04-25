@@ -3,19 +3,20 @@
      so it powers BOTH /directory and /search with the same baked index.
      (Alternatively, paste into a Page-level Embed on each of those two pages.) -->
 <style>
-  /* Load brand fonts (matches the rest of modernthyroidclinic.com). Split per @import to avoid HTML-escape gotchas. */
-  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
-  @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+  /* Brand fonts:
+     The live site already loads Roboto via Webflow Designer's font settings.
+     We do NOT @import here — Roboto is available; we just inherit/declare it.
+     If a future page is missing Roboto we can re-add the import.
 
-  /* MTC brand tokens (mirrors CSS variables on modernthyroidclinic.com)
+     MTC brand tokens (mirrors CSS variables on modernthyroidclinic.com)
        --teal-dark      #376c74   primary brand teal
        --dark-salmon    #dda792   primary CTA bg (Book Appointment pattern)
        --peru           #af8264   CTA hover border / brown accent
        --cadet-blue     #bad1d5   light teal
        --midnight-blue  #1a1f36   primary text
+       --dark-slate     #144663   alternate dark heading color used on home
        --slate-grey     #5a727c   muted text
-       Headings: Inter, system-ui, sans-serif (matches site .heading-1.banner)
-       Body:     Roboto, system-ui, sans-serif (matches site body)
+       Body+headings: Roboto, sans-serif (matches modernthyroidclinic.com body)
   */
 
   /* ===== Layout: clear the fixed site navbar (high specificity to win over Webflow defaults) ===== */
@@ -31,17 +32,17 @@
   }
 
   /* ===== /directory hero typography (override Webflow defaults) ===== */
-  body .dir-home .dir-home__title { font-family: Inter, system-ui, sans-serif; color: #376c74; }
-  body .dir-home .dir-home__h2 { font-family: Inter, system-ui, sans-serif; color: #376c74; }
+  body .dir-home .dir-home__title { font-family: Roboto, system-ui, sans-serif; color: #376c74; }
+  body .dir-home .dir-home__h2 { font-family: Roboto, system-ui, sans-serif; color: #376c74; }
   body .dir-home .dir-home__lead { font-family: Roboto, system-ui, sans-serif; color: #1a1f36; }
   body .dir-home .dir-home__eyebrow { font-family: Roboto, system-ui, sans-serif; color: #af8264; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600; }
   body .dir-home .dir-home__hero-meta { font-family: Roboto, system-ui, sans-serif; color: #5a727c; }
-  body .dir-home .dir-home__cat h3 { font-family: Inter, system-ui, sans-serif; color: #376c74; }
+  body .dir-home .dir-home__cat h3 { font-family: Roboto, system-ui, sans-serif; color: #376c74; }
   body .dir-home .dir-home__cat p { font-family: Roboto, system-ui, sans-serif; color: #1a1f36; }
   body .dir-home .dir-home__chip { font-family: Roboto, system-ui, sans-serif; }
-  body .dir-home .dir-home__faq-item h3 { font-family: Inter, system-ui, sans-serif; color: #376c74; }
+  body .dir-home .dir-home__faq-item h3 { font-family: Roboto, system-ui, sans-serif; color: #376c74; }
   body .dir-home .dir-home__faq-item p { font-family: Roboto, system-ui, sans-serif; color: #1a1f36; }
-  body .dir-home .dir-home__cta h2 { font-family: Inter, system-ui, sans-serif; color: #fff; }
+  body .dir-home .dir-home__cta h2 { font-family: Roboto, system-ui, sans-serif; color: #fff; }
   body .dir-home .dir-home__cta p { font-family: Roboto, system-ui, sans-serif; }
   body .dir-home .dir-home__cta-btn { background: #dda792; color: #fff; border: 1px solid transparent; border-radius: 4px; transition: background 0.15s, color 0.15s, border-color 0.15s; }
   body .dir-home .dir-home__cta-btn:hover { background: transparent; color: #af8264; border-color: #af8264; }
@@ -102,7 +103,7 @@
   body.mtc-search-page .search-result-items > div:last-child { border-bottom: none; }
   body.mtc-search-page .search-result-items > div > a:first-child {
     display: block; font-weight: 600; color: #376c74; font-size: 1.05rem; margin-bottom: 0.25rem;
-    font-family: Inter, system-ui, sans-serif;
+    font-family: Roboto, system-ui, sans-serif;
     text-decoration: none;
   }
   body.mtc-search-page .search-result-items > div > a:first-child:hover { text-decoration: underline; }
@@ -113,7 +114,7 @@
     margin: 2rem 0 0.5rem; padding-bottom: 0.5rem;
     border-bottom: 1px solid #e3ebed;
     font-size: 1.15rem; font-weight: 700; color: #1a1f36;
-    font-family: Inter, system-ui, sans-serif;
+    font-family: Roboto, system-ui, sans-serif;
   }
   .mtc-no-other-results { color: #5a727c; font-size: 0.95rem; padding: 0.5rem 0 1rem; }
 
@@ -123,7 +124,7 @@
     display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap;
     margin-bottom: 1.25rem; padding-bottom: 0.75rem; border-bottom: 1px solid #e3ebed;
   }
-  .mtc-results__title { font-size: 1.75rem; font-weight: 700; margin: 0; color: #1a1f36; font-family: Inter, system-ui, sans-serif; letter-spacing: -0.01em; }
+  .mtc-results__title { font-size: 1.75rem; font-weight: 700; margin: 0; color: #1a1f36; font-family: Roboto, system-ui, sans-serif; letter-spacing: -0.01em; }
   .mtc-results__count { color: #5a727c; font-size: 0.95rem; }
   .mtc-results__clear { margin-left: auto; color: #376c74; font-size: 0.9rem; text-decoration: underline; cursor: pointer; }
   .mtc-results__clear:hover { color: #af8264; }
@@ -138,7 +139,7 @@
     border-color: #376c74; transform: translateY(-1px);
     box-shadow: 0 4px 12px rgba(55,108,116,0.12);
   }
-  .mtc-results__name { font-weight: 600; color: #376c74; font-size: 1.05rem; line-height: 1.3; font-family: Inter, system-ui, sans-serif; }
+  .mtc-results__name { font-weight: 600; color: #376c74; font-size: 1.05rem; line-height: 1.3; font-family: Roboto, system-ui, sans-serif; }
   .mtc-results__meta { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.45rem; flex-wrap: wrap; }
   .mtc-results__pill {
     display: inline-block; font-size: 0.7rem; font-weight: 600;

@@ -28,27 +28,16 @@ export default {
     const tsHeader = request.headers.get('x-webflow-timestamp') || '';
 
     if (!sigHeader || !tsHeader) {
-      console.log('reject: missing headers', { hasSig: !!sigHeader, hasTs: !!tsHeader });
       return new Response('Missing signature headers', { status: 401 });
     }
 
     const ts = Number(tsHeader);
-    const skewMs = Date.now() - ts;
-    if (!Number.isFinite(ts) || Math.abs(skewMs) > TIMESTAMP_TOLERANCE_MS) {
-      console.log('reject: stale or invalid timestamp', { ts, skewMs });
+    if (!Number.isFinite(ts) || Math.abs(Date.now() - ts) > TIMESTAMP_TOLERANCE_MS) {
       return new Response('Stale or invalid timestamp', { status: 401 });
     }
 
-    const secretLen = (env.WEBFLOW_WEBHOOK_SECRET || '').length;
     const expected = await hmacSha256Hex(env.WEBFLOW_WEBHOOK_SECRET, `${tsHeader}:${rawBody}`);
     if (!constantTimeEqual(sigHeader, expected)) {
-      console.log('reject: signature mismatch', {
-        secretLen,
-        gotSigPrefix: sigHeader.slice(0, 12),
-        expectedSigPrefix: expected.slice(0, 12),
-        bodyLen: rawBody.length,
-        ts: tsHeader,
-      });
       return new Response('Invalid signature', { status: 401 });
     }
 
@@ -59,17 +48,6 @@ export default {
     try { payload = JSON.parse(rawBody); } catch { payload = {}; }
     const trigger = payload?.triggerType || '';
     const directoryCollectionId = '69ec1ea64d23f0cbe5590856';
-
-    // Log the actual shape of the payload so we can verify what Webflow sends.
-    // Visible in `wrangler tail` and the Cloudflare dashboard "Logs" tab.
-    console.log('webhook received', {
-      trigger,
-      collectionIdNested: payload?.payload?.collectionId,
-      collectionIdTopLevel: payload?.collectionId,
-      itemId: payload?.payload?.id || payload?.id,
-      payloadKeys: Object.keys(payload || {}),
-      nestedKeys: Object.keys(payload?.payload || {}),
-    });
 
     const collectionId = payload?.payload?.collectionId || payload?.collectionId;
     const isRelevant =
@@ -86,7 +64,7 @@ export default {
       console.log('ignored', { trigger, collectionId });
       return new Response(`Ignored: ${trigger || 'unknown'} / collection: ${collectionId || 'unknown'}`, { status: 200 });
     }
-    console.log('dispatching to GitHub', { trigger, collectionId });
+    console.log('dispatching', { trigger });
 
     const ghRes = await fetch(`https://api.github.com/repos/${REPO}/dispatches`, {
       method: 'POST',

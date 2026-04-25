@@ -1,0 +1,33 @@
+{
+  "slug": "obesity",
+  "shortDefinition": "Obesity — classified as Class I, II, or III by BMI — is a chronic metabolic disease, not a willpower issue, with deep ties to insulin resistance and hormones.",
+  "fullDefinition": "## What is obesity?\n\nObesity — clinically classified as **Class I**, **Class II**, or **Class III** based on body mass index — is a chronic, complex metabolic disease in which excess body fat reaches a level that affects health. It is not a moral failing or a simple matter of willpower. Decades of research have established obesity as a hormonal and metabolic condition shaped by genetics, environment, biology, sleep, stress, medications, and the modern food landscape — not just calories in versus calories out.\n\nObesity is closely linked with [insulin-resistance], [type-2-diabetes], [polycystic-ovary-syndrome], cardiovascular disease, sleep apnea, fatty liver, hormonal imbalance, and many of the conditions seen at Modern Thyroid Clinic. Treating obesity well requires understanding it as the metabolic disease it is.\n\n## What causes obesity?\n\nObesity develops from a layered combination of factors that overpower the body's normal weight-regulating systems:\n\n- **Genetics and epigenetics** — twin studies show roughly 70 percent heritability of body weight\n- **Insulin resistance** and elevated fasting insulin\n- **Leptin resistance** — the body stops hearing its fullness signals\n- **Hormonal shifts** — perimenopause, postpartum, PCOS\n- **Sleep deprivation** and circadian disruption\n- **Chronic stress** and high cortisol\n- **Ultra-processed food environment**\n- **Medications** — steroids, some antidepressants, antipsychotics, beta-blockers\n- **Thyroid dysfunction** — uncontrolled hypothyroidism\n- **Gut microbiome composition**\n\n## How is obesity diagnosed?\n\nObesity is most commonly defined by **BMI**:\n\n- **Class I**: BMI 30–34.9\n- **Class II**: BMI 35–39.9\n- **Class III**: BMI ≥40\n\nBMI is imperfect — it does not distinguish muscle from fat or account for distribution — so a thorough evaluation also includes waist circumference, body composition when available, [fasting-insulin], [hba1c], a [lipid-panel], thyroid labs, and a careful history of weight trajectory, prior diets, medications, sleep, and hormonal events.\n\n## How is obesity treated?\n\nModern obesity care is multi-tool and individualized:\n\n- **Nutrition strategy** focused on protein, fiber, and stable blood sugar\n- **Strength training** to preserve and build muscle\n- **Sleep, stress, and circadian work**\n- **GLP-1 and dual-agonist medications** — [semaglutide], [tirzepatide], and others — when clinically appropriate\n- **Treatment of contributing hormonal issues** — thyroid, PCOS, perimenopause\n- **Bariatric surgery** for select patients\n\nAt Modern Thyroid Clinic, obesity is treated as a metabolic and hormonal condition, with [glp-1-agonists] and metabolic care offered alongside thyroid and hormone optimization. The goal is sustainable, health-improving weight loss that fits real life — not punishment, not shame, and not another diet.",
+  "commonQuestions": [
+    {
+      "q": "Is BMI the best way to define obesity?",
+      "a": "BMI is a useful screening tool but a blunt one. It does not distinguish muscle mass from fat, does not account for fat distribution, and can misclassify athletes as obese and slim individuals with high visceral fat as healthy. A more complete picture combines BMI with waist circumference, body composition when available, and metabolic labs like fasting insulin, A1c, and lipids. Two people with the same BMI can have very different metabolic health. Clinical context — not BMI alone — should guide treatment decisions."
+    },
+    {
+      "q": "Are GLP-1 medications safe for long-term weight management?",
+      "a": "Current evidence supports long-term use for many patients, with cardiovascular and metabolic benefits beyond weight loss. Like any chronic medication, they require ongoing clinical oversight. Side effects (mostly gastrointestinal early on) and considerations such as muscle preservation, nutrient adequacy, and individual medical history matter. They are most effective when paired with the foundational work — protein, strength training, sleep, stress. A clinician can help you decide whether a GLP-1 fits your goals and how to use it safely as part of a broader plan."
+    },
+    {
+      "q": "Why can't I lose weight even though I eat less?",
+      "a": "Several common reasons. Insulin resistance and elevated fasting insulin block fat release. Underactive thyroid slows metabolism. Chronic dieting reduces resting metabolic rate. Poor sleep and chronic stress raise cortisol and drive visceral fat. Perimenopause shifts where the body stores fat. Some medications cause weight gain independent of intake. And the body's hormonal weight set point is genuinely defended. The fix is rarely \"eat less\" — it is identifying which of these forces are at play and addressing them. A metabolic workup is the right place to start."
+    }
+  ],
+  "keySymptoms": [
+    "Excess body fat, particularly around the abdomen",
+    "Fatigue",
+    "Joint pain, especially knees and hips",
+    "Shortness of breath with mild exertion",
+    "Snoring or sleep apnea",
+    "Skin chafing or fungal infections in folds",
+    "Acid reflux",
+    "Difficulty losing weight despite effort",
+    "Irregular periods",
+    "Mood changes"
+  ],
+  "seoTitle": "Obesity: Causes, Hormonal Drivers & Modern Treatment",
+  "seoDescription": "Obesity is a metabolic and hormonal disease, not a willpower issue. Learn the real drivers and modern treatment options including GLP-1 medications."
+}

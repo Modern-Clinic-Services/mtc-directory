@@ -1,0 +1,39 @@
+{
+  "siteId": "65003933b9af86bc33bf4488",
+  "collectionId": "69ec1ea64d23f0cbe5590856",
+  "displayName": "Directory",
+  "singularName": "Directory Term",
+  "slug": "directory",
+  "urlPattern": "/directory/{slug}",
+  "fields": [
+    { "slug": "name",                  "displayName": "Name",                  "type": "PlainText",  "required": true,  "auto": true },
+    { "slug": "slug",                  "displayName": "Slug",                  "type": "PlainText",  "required": true,  "auto": true },
+    { "slug": "category",              "displayName": "Category",              "type": "Option",     "required": true,  "id": "f3d28a3fb67d79b1d123bef341d83105",
+      "options": {
+        "Condition":   "f1c02f1d8bf8afaf76a5ecb9c0292ff0",
+        "Symptom":     "bbe95138f5cd33f860eec3af225a6335",
+        "Medication":  "22d7c2b4b5279483c33283d9f62dd5ed",
+        "Supplement":  "9998e33f14aa091786fbb8c0a4a60e84",
+        "Lab or Test": "b5c015dce7b8ca8e97b2af94b8919f7b",
+        "Procedure":   "b02ee4dea7f1d8104f800b71719cf6b3",
+        "Concept":     "1deb9855d956e8a918d51167a7a39166"
+      }
+    },
+    { "slug": "first-letter",          "displayName": "First Letter",          "type": "Option",     "required": true,  "id": "d76e2ba634b6b3b3e1d932323f33280d" },
+    { "slug": "aliases",               "displayName": "Aliases",               "type": "PlainText",  "required": false, "id": "7a57a4de2169ca370dd8f4f26957c912" },
+    { "slug": "short-definition",      "displayName": "Short Definition",      "type": "PlainText",  "required": true,  "id": "6af8acd69ef277d1e0e06a0641e377ee" },
+    { "slug": "full-definition",       "displayName": "Full Definition",       "type": "RichText",   "required": true,  "id": "835da093dac648f0fa393d1073e542be" },
+    { "slug": "common-questions",      "displayName": "Common Questions",      "type": "RichText",   "required": false, "id": "e8870aecc16cb5e3dc18ce0514f02643" },
+    { "slug": "key-symptoms",          "displayName": "Key Symptoms",          "type": "PlainText",  "required": false, "id": "2bb294685a744c937464c60087bd1c53" },
+    { "slug": "treated-at-mtc",        "displayName": "Treated At MTC",        "type": "Switch",     "required": false, "id": "0a4ecfec31ea3945b062b86de3201e52" },
+    { "slug": "featured",              "displayName": "Featured",              "type": "Switch",     "required": false, "id": "ef2e61e31a0be2153deb65631bf52e59" },
+    { "slug": "seo-title",             "displayName": "SEO Title",             "type": "PlainText",  "required": true,  "id": "09e397e2a3242dbe3b467bea95256b00" },
+    { "slug": "seo-meta-description",  "displayName": "SEO Meta Description",  "type": "PlainText",  "required": true,  "id": "799c24fab48e0197f96e3e59cbd8ffd4" },
+    { "slug": "schema-json-ld",        "displayName": "Schema JSON-LD",        "type": "RichText",   "required": false, "id": "ade6a99e54247a89acbbb8888a4c687d", "_status": "LEGACY — superseded by schema-markup. Safe to delete from CMS Settings." },
+    { "slug": "schema-markup",         "displayName": "Schema Markup",         "type": "PlainText",  "required": false, "id": "479f8383c910e25ac3e567b434c74ed8", "_status": "ACTIVE — pure JSON @graph (no <script> wrapper). Used by the live JS-injection HTML Embed on the detail template." },
+    { "slug": "publish-date",          "displayName": "Publish Date",          "type": "DateTime",   "required": false, "id": "ad234b927ce2e194609f370532c3d381" },
+    { "slug": "related-terms",         "displayName": "Related Terms",         "type": "MultiReference", "required": false, "id": "e46022902e0976cb91ad1169bd2b7175",
+      "refCollectionId": "69ec1ea64d23f0cbe5590856"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "low-body-temperature",
+  "shortDefinition": "Persistently low body temperature — often below 97.8°F — can reflect hypothyroidism, slowed metabolism, or under-conversion of thyroid hormone.",
+  "fullDefinition": "## What is low body temperature?\n\nA low body temperature — sometimes called **hypothermia** in extreme cases or a **cool basal temperature** in milder, chronic ones — describes a body temperature that runs consistently below 97.8°F (36.6°C) when measured first thing in the morning before getting out of bed. The classic \"normal\" of 98.6°F is an average, not a hard line, but persistently cool readings paired with symptoms tell a story.\n\nMany women in our practice notice they are always cold, take their temperature out of curiosity, and find readings in the 96°F range. This is not a quirk — it is information about metabolic activity.\n\n## What conditions cause low body temperature?\n\nThyroid hormone is the master regulator of metabolic heat production, so thyroid causes dominate:\n\n- **[hypothyroidism]** — the most common cause; low thyroid hormone slows cellular energy production and heat output\n- **Subclinical hypothyroidism** — TSH only mildly elevated but with classic symptoms\n- **Poor T4 to T3 conversion** — even \"normal\" TSH can mask under-conversion at the cellular level\n- **[cold-intolerance]** — closely related symptom\n- **Reverse T3 elevation** — chronic stress and illness can shift hormone toward the inactive form\n\nOther contributors:\n\n- **Adrenal dysfunction** — low cortisol affects temperature regulation\n- **Iron, B12, and vitamin D deficiency**\n- **Chronic caloric restriction** — adaptive thermogenesis lowers metabolic rate\n- **Aging and reduced muscle mass**\n- **Certain medications** — beta-blockers, sedatives\n- **Severe infection or sepsis** — paradoxically presents with low temperature in some cases\n\n## When is low body temperature a red flag?\n\nA temperature below 95°F (35°C) is true hypothermia and a medical emergency. Outside of cold exposure, a sudden drop in body temperature in someone who is ill can signal severe infection, especially in older adults, and warrants urgent care. Confusion, slowed breathing, or extreme drowsiness paired with low temperature in someone with known hypothyroidism could indicate myxedema and requires emergency evaluation. Most chronically low temperatures, by contrast, are not emergencies but deserve workup.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, persistent low body temperature prompts a full thyroid evaluation: TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies, plus iron, ferritin, vitamin D, and B12. We pay particular attention to the Free T3 and reverse T3 ratio — many women with \"normal\" TSH are still under-converting at the cell level. When indicated, optimizing thyroid hormone with **[levothyroxine]** alone or in combination with T3 often raises basal temperature within months. Adequate calories, strength training, stress management, and addressing nutrient deficiencies all support metabolic heat production. Tracking morning temperatures over weeks gives a useful baseline for measuring response to treatment.",
+  "commonQuestions": [
+    {
+      "q": "What temperature is considered too low?",
+      "a": "Healthy basal body temperature in women typically falls between 97.8°F and 98.6°F when measured first thing in the morning. Persistent readings below 97.5°F, especially with symptoms like fatigue, cold hands and feet, weight gain, and constipation, point toward thyroid dysfunction or sluggish metabolism. A single reading isn't meaningful, but a consistent pattern over a week or two is. Below 95°F is hypothermia and a medical emergency that has nothing to do with the chronic-low-temperature pattern most women describe."
+    },
+    {
+      "q": "Can my temperature be low if my TSH is normal?",
+      "a": "Yes — and this is one of the most common scenarios in our practice. TSH measures the brain's signal to the thyroid, not what is actually happening in your cells. Many women have a normal TSH but low Free T3, elevated reverse T3, or both, meaning their cells aren't getting active thyroid hormone. Persistent low body temperature is one of the most reliable clinical clues that thyroid hormone is functionally low even when standard labs look fine. A complete panel sorts this out."
+    },
+    {
+      "q": "How should I track my temperature?",
+      "a": "Use a digital basal thermometer placed under the tongue first thing in the morning, before getting out of bed, eating, or drinking anything. Record for 7-10 consecutive days. Skip the days around ovulation and the luteal phase if you are still menstruating, as temperature naturally rises after ovulation. Bring the log to your appointment. Patterns matter more than single numbers — consistent readings below 97.5°F with symptoms strongly support a metabolic workup."
+    }
+  ],
+  "keySymptoms": [
+    "Morning temperature below 97.5°F",
+    "Always feeling cold",
+    "Cold hands and feet",
+    "Bundling up while others are comfortable",
+    "Slow recovery from being chilled",
+    "Fatigue and sluggishness",
+    "Weight gain"
+  ],
+  "seoTitle": "Low Body Temperature: Thyroid & Metabolic Causes | Modern Thyroid Clinic",
+  "seoDescription": "Persistently low body temperature often reflects hypothyroidism or slow metabolism. Learn causes, tracking, and treatment options."
+}

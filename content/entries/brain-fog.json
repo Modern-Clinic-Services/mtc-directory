@@ -1,0 +1,33 @@
+{
+  "slug": "brain-fog",
+  "shortDefinition": "Brain fog is a cluster of cognitive symptoms — slow thinking, poor concentration, and word-finding difficulty — frequently driven by thyroid, hormonal, and metabolic imbalance.",
+  "fullDefinition": "## What is brain fog?\n\nBrain fog — sometimes called **mental fog** or **cognitive dysfunction** — is the everyday term for cognitive symptoms that don't quite look like dementia but absolutely interfere with how a woman thinks, works, and feels. Common features include slow processing, poor concentration, word-finding difficulty, forgetfulness, mental fatigue, and a sense that your brain is running through molasses.\n\nBrain fog is not a formal diagnosis — it's a symptom. Like fatigue, it's both extremely common and extremely revealing once you find the cause.\n\n## What hormonal conditions cause brain fog?\n\nThe brain depends on stable thyroid hormone, balanced sex hormones, steady blood sugar, and good sleep. Disturb any of those, and cognition suffers. Common drivers include:\n\n- **[Hypothyroidism]** and **[hashimotos-thyroiditis]** — classic causes; the brain has thyroid hormone receptors throughout\n- **[Perimenopause]** and **[menopause]** — fluctuating and declining estrogen affects memory, focus, and word recall\n- **[Insulin-resistance]** and blood-sugar swings\n- **[Adrenal-fatigue]** and HPA axis dysregulation\n- **Vitamin B12 deficiency** — often missed because lab cutoffs are low\n- **Vitamin D deficiency**\n- **Sleep deprivation and sleep apnea**\n- **Chronic stress, anxiety, and depression**\n- **Postpartum hormone shifts**\n- **Long COVID and post-viral inflammation**\n- **Histamine, mast cell, or autoimmune-driven neuroinflammation**\n\n## When is brain fog a red flag?\n\nMost brain fog is reversible and tied to one of the drivers above. Seek prompt medical evaluation if cognitive symptoms include:\n\n- **Sudden onset or rapid progression**\n- **Disorientation, confusion, or trouble with familiar tasks**\n- **Significant memory loss for recent events**\n- **Personality or behavioral changes**\n- **Severe headache, vision changes, or weakness**\n- **Cognitive symptoms after head injury**\n- **Symptoms that meaningfully impair safety (driving, work)**\n\nThese can indicate stroke, dementia, infection, or other neurologic conditions and need urgent care.\n\n## What typically helps?\n\nA root-cause approach almost always shifts brain fog meaningfully. At Modern Thyroid Clinic we typically run a complete thyroid panel (TSH, Free T4, Free T3, reverse T3, antibodies), B12 (with methylmalonic acid when borderline), vitamin D, ferritin, fasting glucose and insulin, HbA1c, hs-CRP, and morning cortisol — and consider sex-hormone testing in perimenopausal women.\n\nFrom there, common levers include:\n\n- **Thyroid hormone optimization**\n- **B12 and vitamin D repletion**\n- **Blood-sugar stabilization** — protein-forward meals, fewer refined carbs\n- **Sleep restoration and screening for sleep apnea**\n- **Targeted perimenopause/menopause hormone support when appropriate**\n- **Stress and HPA axis work**\n- **Anti-inflammatory nutrition**, especially in autoimmune contexts\n- **Movement** — even daily walking improves cognition meaningfully\n\nMost women experience significant improvement once the underlying drivers are identified — brain fog is rarely \"just aging\" and is rarely something you have to live with.",
+  "commonQuestions": [
+    {
+      "q": "Is this just aging or perimenopause?",
+      "a": "Cognitive changes during [perimenopause] are common and real — fluctuating estrogen affects memory, focus, and word recall. But 'just aging' is rarely a complete answer. Many women in their 40s and 50s have a mix of perimenopause plus untreated [hashimotos-thyroiditis], suboptimal Free T3, low B12 or vitamin D, blood-sugar instability, or poor sleep — each of which compounds the others. A thorough evaluation typically reveals 2–4 fixable contributors. Brain fog should not be accepted as inevitable."
+    },
+    {
+      "q": "Could my thyroid be causing this?",
+      "a": "Frequently, yes. The brain has thyroid hormone receptors throughout, and inadequate Free T3 produces slowed thinking, poor concentration, and word-finding problems. Importantly, these symptoms can appear before TSH crosses the standard lab cutoff — particularly in women with elevated TPO antibodies or low Free T3. This is why a TSH-only screen misses many women whose brain fog is genuinely thyroid-driven. A complete panel and optimal-range interpretation often reveals the issue."
+    },
+    {
+      "q": "When should I worry it's something more serious?",
+      "a": "Most brain fog is metabolic and reversible. Red flags that warrant urgent evaluation include sudden onset, rapid progression, disorientation, getting lost in familiar places, significant short-term memory loss, personality changes, severe headache, vision changes, weakness on one side, or any cognitive change after a head injury. These can indicate stroke, dementia, infection, or other neurologic problems and should be evaluated by a physician right away rather than chalked up to hormones."
+    }
+  ],
+  "keySymptoms": [
+    "Slow or sluggish thinking",
+    "Difficulty concentrating or focusing",
+    "Word-finding difficulty",
+    "Short-term forgetfulness",
+    "Mental fatigue with low cognitive stamina",
+    "Difficulty multitasking",
+    "Feeling \"behind a glass wall\"",
+    "Reading the same sentence repeatedly",
+    "Worse symptoms with poor sleep or stress",
+    "Cyclical worsening before periods"
+  ],
+  "seoTitle": "Brain Fog in Women: Hormonal Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Brain fog in women is often driven by thyroid disease, perimenopause, B12 deficiency, or blood sugar swings. Learn the causes, red flags, and what helps."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "thyroid-storm",
+  "shortDefinition": "Thyroid storm is a rare, life-threatening intensification of hyperthyroidism marked by high fever, severe tachycardia, and altered mental status.",
+  "fullDefinition": "## What is thyroid storm?\n\nThyroid storm — also called **thyrotoxic crisis** — is a rare but life-threatening complication of severe, uncontrolled [hyperthyroidism]. It is a medical emergency. The body's metabolism, heart rate, temperature regulation, and nervous system shift into dangerous overdrive. Left untreated, mortality can exceed 25%; even with prompt, intensive care, mortality remains around 10%. Thyroid storm typically develops in someone with known or undiagnosed hyperthyroidism — most often [graves-disease] — when an additional stressor pushes the body beyond its ability to compensate.\n\n## What causes thyroid storm?\n\nThyroid storm rarely arises out of nowhere. It usually requires a precipitant in someone with significant underlying hyperthyroidism. Common triggers include serious infection, surgery (especially thyroid surgery in a poorly controlled patient), trauma, childbirth, diabetic ketoacidosis, heart attack, stroke, abrupt withdrawal of anti-thyroid medication, exposure to large amounts of iodine (including iodine contrast for imaging), and certain medications. Risk is highest in patients with poorly controlled Graves' disease, untreated toxic [multinodular-goiter], or severe undiagnosed hyperthyroidism.\n\n## How is thyroid storm diagnosed?\n\nDiagnosis is clinical — there is no single lab value that defines it. Hallmarks include high fever (often 102-106°F), severe tachycardia (often above 140 beats per minute), heart failure, atrial fibrillation, severe agitation or confusion progressing to delirium or coma, profuse sweating, vomiting, and diarrhea. Lab work confirms hyperthyroidism (suppressed TSH, very elevated Free T4 and Free T3) but the lab numbers alone don't determine storm — the clinical severity does. The Burch-Wartofsky scoring system helps clinicians grade likelihood. Because thyroid storm requires immediate hospital-based treatment, rapid recognition is more important than waiting for labs.\n\n## How is thyroid storm treated?\n\nThyroid storm is treated in an intensive care setting with a multi-pronged approach: high-dose anti-thyroid medication to block new hormone synthesis, iodine (given several hours after the anti-thyroid drug) to block hormone release, beta-blockers to control heart rate and tremor, corticosteroids to support the stressed body and reduce T4 to T3 conversion, aggressive cooling and hydration, and treatment of the precipitating cause. Definitive treatment of the underlying hyperthyroidism — usually radioactive iodine ablation or surgery — is planned once the patient is stabilized. Modern Thyroid Clinic does not manage thyroid storm; this requires emergency department and inpatient care. Our role is preventing storm by identifying and properly managing hyperthyroidism long before it escalates, and supporting recovery and long-term thyroid management afterward.",
+  "commonQuestions": [
+    {
+      "q": "How would I know if I'm in thyroid storm?",
+      "a": "Thyroid storm is severe and unmistakable in most cases — a high fever (often above 102°F), a racing heartbeat that won't settle (often above 140), severe agitation or confusion, profuse sweating, nausea or vomiting, and a feeling that something is profoundly wrong. It usually develops in someone already known to have hyperthyroidism, often after a triggering event like infection or surgery. If you have hyperthyroidism and develop these symptoms, this is an emergency — call 911 or go to the nearest emergency department immediately. Do not try to manage it at home."
+    },
+    {
+      "q": "Can thyroid storm be prevented?",
+      "a": "Yes, in most cases. The single best prevention is identifying and adequately treating hyperthyroidism before any major stressor or surgery. Patients with known hyperthyroidism should not stop anti-thyroid medications abruptly, should avoid unnecessary iodine exposure (including some imaging contrast), and should have hyperthyroidism well-controlled before any elective surgery. Anyone with hyperthyroid symptoms — palpitations, weight loss, tremors, heat intolerance — should be evaluated promptly rather than dismissed as anxiety, since untreated hyperthyroidism is the foundation that allows storm to develop."
+    },
+    {
+      "q": "What happens after surviving thyroid storm?",
+      "a": "Recovery from the acute event takes days to weeks of hospital and post-hospital care. Once stabilized, the focus shifts to definitively treating the underlying hyperthyroidism, almost always with radioactive iodine ablation or surgical removal of the thyroid, since long-term medication management alone is rarely sufficient after storm. After definitive treatment, lifelong [hypothyroidism] develops and requires thyroid hormone replacement. Long-term care includes optimizing replacement, managing any cardiac complications from the storm, and addressing any factors that contributed to the original episode."
+    }
+  ],
+  "keySymptoms": [
+    "High fever (often 102-106°F)",
+    "Very rapid heart rate (often above 140 bpm)",
+    "Severe agitation, confusion, or delirium",
+    "Profuse sweating",
+    "Nausea, vomiting, diarrhea",
+    "Heart failure or atrial fibrillation",
+    "Severe weakness",
+    "Coma (in severe cases)"
+  ],
+  "seoTitle": "Thyroid Storm: Symptoms, Causes & Emergency Care | Modern Thyroid Clinic",
+  "seoDescription": "Thyroid storm is a life-threatening intensification of hyperthyroidism. Learn the symptoms, triggers, and why immediate emergency treatment is essential."
+}

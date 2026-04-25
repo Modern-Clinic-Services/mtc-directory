@@ -1,0 +1,30 @@
+{
+  "slug": "hirsutism-symptom",
+  "shortDefinition": "Hirsutism is excess dark, coarse hair growth in a male-pattern distribution — face, chest, abdomen — typically driven by elevated androgens.",
+  "fullDefinition": "## What is hirsutism?\n\nHirsutism — also called **excess facial hair** or **male-pattern hair growth** — is the appearance of thick, dark, coarse hair in areas where women typically grow only fine vellus hair: the upper lip, chin, jawline, chest, lower abdomen, lower back, and inner thighs. It is different from the normal vellus or fine terminal hair most women have on these areas. The hallmark is *coarse, pigmented, terminal hair in a male-pattern distribution*.\n\nHirsutism affects roughly 5-10% of women of reproductive age and is one of the most visible signs of androgen excess. It is a symptom that almost always has a treatable hormonal driver.\n\n## What conditions cause hirsutism?\n\nThe overwhelming majority of hirsutism cases trace back to androgen excess:\n\n- **[polycystic-ovary-syndrome]** — by far the most common cause, responsible for roughly 75-80% of hirsutism\n- **Idiopathic hirsutism** — increased skin sensitivity to normal androgen levels\n- **Late-onset congenital adrenal hyperplasia** — genetic enzyme variant that elevates androgens\n- **Cushing's syndrome** — excess cortisol with associated androgen elevation\n- **Androgen-secreting tumors** of the ovary or adrenal — rare but important to rule out when symptoms are severe or rapid-onset\n- **Insulin resistance** — drives ovarian androgen production\n- **Certain medications** — including some progestins\n\nMild increases in upper lip or chin hair are also common in **[perimenopause]** and **[menopause]**, when estrogen falls relative to androgens.\n\n## When is hirsutism a red flag?\n\nMost hirsutism develops gradually and reflects PCOS or genetic predisposition. Red flags requiring urgent workup include rapid onset of hair growth over weeks to a few months, deepening voice, clitoral enlargement, severe acne developing alongside, scalp hair thinning in a male pattern, and rapid weight gain. These can suggest a tumor or significant adrenal pathology and warrant prompt evaluation with a fuller hormone workup.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, hirsutism prompts a thorough hormonal evaluation: total and free **[testosterone-total-free]**, **[dhea-s]**, sex hormone binding globulin, 17-hydroxyprogesterone, prolactin, fasting insulin and glucose, A1c, and a full thyroid panel. Imaging is added when labs suggest it.\n\nTreatment is tailored to the cause. For PCOS, foundational work focuses on insulin resistance — nutrition, strength training, and sometimes berberine or metformin. **[spironolactone]** blocks androgens at the hair follicle and is highly effective, though hair growth slows over 6-12 months. Cosmetic treatments (laser, electrolysis) provide faster visible relief and complement medical therapy. With consistent treatment, most women see meaningful reduction in unwanted hair growth.",
+  "commonQuestions": [
+    {
+      "q": "Is hirsutism always PCOS?",
+      "a": "PCOS accounts for roughly three-quarters of hirsutism cases, but not all. Other causes include idiopathic hirsutism (normal androgens but very sensitive skin receptors), late-onset congenital adrenal hyperplasia, Cushing's syndrome, and rare androgen-secreting tumors. Family pattern, ethnicity, and the rate of hair growth all matter in sorting out the cause. A proper workup with full androgen labs and ovarian ultrasound clarifies the picture so treatment is matched to the underlying driver, not assumed."
+    },
+    {
+      "q": "Will treatment make the hair fall out?",
+      "a": "Treatment slows new hair growth and softens existing hairs, but it rarely makes coarse terminal hairs disappear on their own. That is why combined treatment is so effective — medical therapy (such as addressing insulin resistance or using spironolactone) prevents new growth and reduces darkness, while laser hair removal or electrolysis removes existing coarse hairs. Most women notice slower growth and finer texture within 6-9 months of medical therapy, with cosmetic treatments accelerating visible change."
+    },
+    {
+      "q": "What labs do you run for hirsutism?",
+      "a": "A standard hirsutism panel at Modern Thyroid Clinic includes total and free testosterone, DHEA-S, sex hormone binding globulin, 17-hydroxyprogesterone (drawn in the morning to screen for late-onset CAH), prolactin, fasting insulin and glucose, A1c, and a full thyroid panel. We add LH, FSH, and pelvic ultrasound when PCOS is suspected. Markedly elevated androgens or rapid symptom onset prompt adrenal imaging to rule out a tumor."
+    }
+  ],
+  "keySymptoms": [
+    "Coarse hair on upper lip or chin",
+    "Hair on chest, abdomen, or lower back",
+    "Increased need for hair removal",
+    "Acne and oily skin",
+    "Scalp hair thinning",
+    "Irregular periods",
+    "Weight gain around the midsection"
+  ],
+  "seoTitle": "Hirsutism: Causes & Treatment of Excess Hair Growth | Modern Thyroid Clinic",
+  "seoDescription": "Hirsutism is excess dark hair from androgen excess, often PCOS. Learn causes, labs, and root-cause treatments for unwanted hair."
+}

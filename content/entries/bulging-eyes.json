@@ -1,0 +1,31 @@
+{
+  "slug": "bulging-eyes",
+  "shortDefinition": "Bulging eyes — exophthalmos or proptosis — is a forward protrusion of the eyeballs, most commonly caused by Graves' thyroid eye disease.",
+  "fullDefinition": "## What are bulging eyes?\n\nBulging eyes — medically known as **exophthalmos** or **proptosis** — refers to the eyeballs sitting forward in the orbit, giving a staring or wide-eyed appearance. The whites of the eyes may show above or below the iris, the eyelids may not fully close, and the eyes can feel gritty, dry, or painful.\n\nBulging eyes are not just cosmetic — they reflect inflammation and tissue expansion behind the eye. The most common driver in women is autoimmune thyroid disease, specifically Graves' disease. Recognizing the pattern matters because the eye changes can progress, and early treatment protects vision and comfort.\n\n## What hormonal conditions cause bulging eyes?\n\nThe overwhelming majority of cases are linked to:\n\n- **[thyroid-eye-disease]** (TED) — An autoimmune inflammation of the muscles, fat, and connective tissue behind the eye. Also known as Graves' ophthalmopathy.\n- **[graves-disease]** — TED occurs in roughly a quarter to half of patients with Graves' to some degree, and can appear before, during, or after the hyperthyroid phase.\n- **[hyperthyroidism]** — Even without classic Graves', overactive thyroid can produce eyelid retraction that mimics bulging.\n- **Smoking** — A major modifiable risk factor that worsens TED severity and treatment response.\n- **Selenium status** — Low selenium can amplify TED inflammation; appropriate repletion is part of standard care.\n\nLess commonly, bulging can result from orbital tumors, infections, or vascular conditions — which is why imaging is part of evaluation when the diagnosis isn't clear.\n\n## When is it a red flag?\n\nThyroid eye disease becomes urgent when there is sudden vision loss, color desaturation (colors looking washed out), severe eye pain, double vision that doesn't resolve, inability to close the eyelids during sleep with corneal exposure, or rapid worsening of bulging. Any of these warrant emergency ophthalmology evaluation. Asymmetric bulging — one eye much more than the other — also deserves prompt imaging to rule out non-thyroid causes.\n\n## What typically helps\n\nThyroid eye disease is treated by a coordinated team. At Modern Thyroid Clinic, we partner with ophthalmology and endocrinology to assess thyroid function (TSH, Free T4, Free T3, TSI, TRAb) and severity of eye involvement. Foundational steps include strict smoking cessation, controlling thyroid hormone levels, supporting selenium and vitamin D status, and aggressive ocular surface care with lubricating drops. Active moderate-to-severe disease is treated with corticosteroids, teprotumumab (a newer biologic that has changed outcomes meaningfully), or radiation therapy. Once the disease is inactive, surgery can address residual bulging or eyelid position. While Modern Thyroid Clinic does not directly treat thyroid eye disease, we can help coordinate care.",
+  "commonQuestions": [
+    {
+      "q": "Will my bulging eyes go back to normal once my thyroid is treated?",
+      "a": "Sometimes — but not always automatically. Mild eyelid retraction often improves once thyroid levels are normalized. True thyroid eye disease, however, runs its own course and can persist or progress even after thyroid hormone is well-controlled. The most important first steps are stopping smoking immediately (this single change measurably improves outcomes), getting evaluated by an ophthalmologist familiar with TED, and treating the active inflammation. Surgical correction of residual bulging is reserved for once the disease is inactive."
+    },
+    {
+      "q": "Can I have thyroid eye disease without having Graves' disease?",
+      "a": "Yes, though it's uncommon. About 90% of TED cases occur with Graves' disease, but it can also appear in Hashimoto's thyroiditis or in patients who are euthyroid (normal thyroid function) but have positive thyroid antibodies. It can even precede the diagnosis of Graves' by months or years. If you have new-onset bulging, dry gritty eyes, or eyelid retraction, ask for a complete thyroid panel including TSI and TRAb antibodies — basic TSH alone may miss it."
+    },
+    {
+      "q": "Why is smoking such a big deal with thyroid eye disease?",
+      "a": "Smoking is the single most important modifiable risk factor for TED. Smokers develop more severe eye disease, respond less well to treatments including steroids and teprotumumab, and have worse long-term outcomes. The risk is dose-dependent — even passive smoke exposure matters. Quitting smoking before, during, and after treatment substantially improves outcomes. It is the most powerful intervention you can make for your eyes alongside medical therapy."
+    }
+  ],
+  "keySymptoms": [
+    "Eyes appearing more prominent or staring",
+    "Whites of the eye visible above or below the iris",
+    "Difficulty closing the eyelids fully",
+    "Dry, gritty, or painful eyes",
+    "Double vision",
+    "Eyelid swelling or redness",
+    "Pressure or aching behind the eyes",
+    "Light sensitivity"
+  ],
+  "seoTitle": "Bulging Eyes & Thyroid Eye Disease: Causes & Care | Modern Thyroid Clinic",
+  "seoDescription": "Bulging eyes (exophthalmos) usually signal thyroid eye disease and Graves' disease. Learn the symptoms, urgency, and how coordinated care helps."
+}

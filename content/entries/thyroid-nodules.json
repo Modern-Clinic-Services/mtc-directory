@@ -1,0 +1,30 @@
+{
+  "slug": "thyroid-nodules",
+  "shortDefinition": "Thyroid nodules are lumps that form within the thyroid gland; most are benign, but some require evaluation to rule out cancer or hormone overproduction.",
+  "fullDefinition": "## What are thyroid nodules?\n\nThyroid nodules — sometimes called **thyroid lumps** — are discrete growths that form within the thyroid gland. They are extremely common: roughly half of all adults will develop at least one nodule by age 60, and women develop them more often than men. The reassuring news is that the vast majority of thyroid nodules are benign. Most are found incidentally on imaging done for another reason, though larger nodules can sometimes be felt in the neck, cause hoarseness, or produce a sensation of fullness when swallowing.\n\n## What causes thyroid nodules?\n\nNodules can be solid, cystic (fluid-filled), or mixed. Common causes include benign overgrowth of normal thyroid tissue (colloid nodules), follicular adenomas, fluid-filled cysts, and nodules that arise in the setting of [hashimotos-thyroiditis] or [multinodular-goiter]. Risk factors include iodine deficiency, family history, prior radiation to the head or neck, and being a woman over 40. A small minority — roughly 5-10% — turn out to be [thyroid-cancer], which is why proper evaluation matters.\n\n## How are thyroid nodules diagnosed?\n\nEvaluation starts with a thyroid ultrasound, which characterizes the nodule's size, composition, borders, calcifications, and blood flow. Each feature is scored using a system called TI-RADS to estimate cancer risk. Lab work includes TSH, Free T4, and sometimes Free T3 to determine whether a nodule is producing hormone (a \"hot\" nodule). Nodules with concerning features or those above a certain size are typically biopsied with **fine-needle aspiration (FNA)**, a quick in-office procedure that samples cells for cytology. At Modern Thyroid Clinic, evaluation also includes a full thyroid panel and antibody testing, since nodules often coexist with autoimmune thyroid disease.\n\n## How are thyroid nodules treated?\n\nMost benign nodules need only periodic monitoring with ultrasound. Hot (hormone-producing) nodules causing [hyperthyroidism] are treated with anti-thyroid medication, radioactive iodine ablation, or surgery. Nodules that are growing, causing symptoms (difficulty swallowing, hoarseness, neck pressure), or have concerning biopsy findings may be removed surgically. Newer minimally invasive options like radiofrequency ablation can shrink certain benign nodules without surgery. The right plan depends on size, features, hormone status, symptoms, and individual risk — which is why a thoughtful, complete evaluation matters more than a quick reassurance or a rushed referral to surgery.",
+  "commonQuestions": [
+    {
+      "q": "Are thyroid nodules cancerous?",
+      "a": "Most are not. Roughly 90-95% of thyroid nodules are benign. The challenge is identifying the small percentage that warrant biopsy or removal. Ultrasound features — irregular borders, microcalcifications, taller-than-wide shape, increased blood flow — guide that decision, along with size and patient risk factors. When biopsy is indicated, fine-needle aspiration is highly accurate. Even when thyroid cancer is found, most types (especially papillary) are slow-growing and have excellent outcomes when treated promptly."
+    },
+    {
+      "q": "Do thyroid nodules cause symptoms?",
+      "a": "Most do not. Small nodules are typically silent and discovered incidentally. Larger nodules can cause a visible neck lump, a sensation of pressure or fullness, hoarseness, or difficulty swallowing if they press on nearby structures. Hot nodules that overproduce thyroid hormone can cause hyperthyroid symptoms — palpitations, weight loss, anxiety, heat intolerance. Any new lump in the neck, voice change, or trouble swallowing deserves prompt evaluation, even if you have no other thyroid symptoms."
+    },
+    {
+      "q": "How often should thyroid nodules be monitored?",
+      "a": "It depends on the nodule's features. Low-risk benign nodules are typically rechecked with ultrasound every one to two years initially, then less frequently if stable. Larger or moderately suspicious nodules may need closer follow-up. Significant growth or new concerning features prompt repeat biopsy. At MTC we coordinate ultrasound monitoring alongside a complete thyroid evaluation — many women with nodules also have undertreated thyroid dysfunction or autoimmunity that affects how they feel day to day."
+    }
+  ],
+  "keySymptoms": [
+    "Visible neck lump or swelling",
+    "Sensation of fullness in the throat",
+    "Difficulty swallowing",
+    "Hoarseness or voice changes",
+    "Neck pressure or discomfort",
+    "Hyperthyroid symptoms (if hot nodule)",
+    "Often no symptoms at all"
+  ],
+  "seoTitle": "Thyroid Nodules: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Thyroid nodules are common lumps in the thyroid gland. Learn how they're evaluated with ultrasound and biopsy, and when treatment is needed."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "subacute-thyroiditis",
+  "shortDefinition": "Subacute thyroiditis is a painful inflammation of the thyroid that typically follows a viral illness and resolves over several months.",
+  "fullDefinition": "## What is subacute thyroiditis?\n\nSubacute thyroiditis — also called **De Quervain's thyroiditis**, **granulomatous thyroiditis**, or **painful thyroiditis** — is an inflammatory condition of the thyroid gland that classically develops after a viral upper respiratory illness. Unlike most other forms of [thyroiditis], it is genuinely painful: women describe tenderness over the thyroid, pain that radiates to the jaw or ears, and a sore throat that lingers long after the cold or flu seems to be over. Subacute thyroiditis affects women several times more often than men and typically appears between ages 30 and 50.\n\nThe condition follows a predictable course — a transient hyperthyroid phase as inflamed cells release stored hormone, a hypothyroid phase as the gland recovers, and finally return to normal function in the majority of cases. The whole process usually takes two to six months, though residual changes can persist longer.\n\n## What causes subacute thyroiditis?\n\nThe trigger is almost always a recent viral infection — influenza, mumps, coxsackievirus, adenovirus, Epstein-Barr, or COVID-19, among others. The infection itself doesn't directly attack the thyroid; rather, the immune response to the virus inflames the gland. There appears to be a genetic susceptibility (HLA-B35 is associated). Stress, fatigue, and prior thyroid issues may make a woman more vulnerable. Unlike Hashimoto's or Graves' disease, subacute thyroiditis is not classically autoimmune and antibodies are typically negative or only mildly elevated.\n\n## How is subacute thyroiditis diagnosed?\n\nThe combination of neck pain, recent viral illness, hyperthyroid symptoms, and a tender thyroid on exam is highly suggestive. Lab work shows the early hyperthyroid pattern (suppressed TSH, elevated Free T4 and Free T3) along with markedly elevated inflammatory markers — ESR and CRP. Thyroid antibodies are usually negative, helping distinguish from Graves' or Hashimoto's. A radioactive iodine uptake scan shows very low uptake (in contrast to the high uptake of [graves-disease]), which is a key distinguishing test when the picture is unclear. Ultrasound shows characteristic patchy hypoechoic areas in the inflamed gland.\n\n## How is subacute thyroiditis treated?\n\nThe goal is symptom control while the gland recovers. Mild cases respond to NSAIDs (ibuprofen, naproxen) for pain and inflammation. Moderate to severe cases — significant pain, severe inflammation, or symptoms not controlled by NSAIDs — typically require a tapering course of corticosteroids, which usually produces dramatic relief within days. Beta-blockers help during the hyperthyroid phase by controlling racing heart, tremors, and anxiety. Anti-thyroid medications are not used because the gland is leaking, not overproducing. The temporary hypothyroid phase may require short-term thyroid hormone replacement. Most women recover completely, though about 5-15% develop permanent [hypothyroidism] and need ongoing replacement.",
+  "commonQuestions": [
+    {
+      "q": "Why does my neck hurt with subacute thyroiditis?",
+      "a": "The pain comes from the inflammation itself — the thyroid capsule is rich in pain fibers, and inflammation stretches and irritates them. Pain is often felt in the front of the neck, sometimes on one side initially before spreading, and it commonly radiates up to the jaw or ears, which can lead to misdiagnosis as a dental or ear problem. The thyroid is usually tender to even gentle pressure. The pain is one of the features that distinguishes subacute thyroiditis from nearly every other thyroid condition."
+    },
+    {
+      "q": "Will my thyroid recover after subacute thyroiditis?",
+      "a": "In the majority of cases, yes. Roughly 85-95% of women recover completely, with thyroid function returning to normal over two to six months. About 5-15% develop permanent hypothyroidism and need long-term thyroid hormone replacement. The risk of permanent hypothyroidism appears slightly higher in women who had more severe inflammation, and recurrence (a second episode of subacute thyroiditis) happens in roughly 1-4% of cases. Periodic lab monitoring during recovery confirms when full function has returned."
+    },
+    {
+      "q": "Can I have subacute thyroiditis without pain?",
+      "a": "Painless variants do exist, but most are then classified as silent thyroiditis or postpartum thyroiditis rather than true subacute thyroiditis — the pain is one of the defining features. That said, some cases of subacute thyroiditis present with very mild discomfort that can be missed. If you have an unexplained hyperthyroid pattern after a recent viral illness, with elevated inflammatory markers and low radioactive iodine uptake, the picture fits subacute thyroiditis even without classic pain."
+    }
+  ],
+  "keySymptoms": [
+    "Painful, tender thyroid gland",
+    "Pain radiating to jaw or ears",
+    "Recent viral illness or flu-like symptoms",
+    "Fatigue and malaise",
+    "Low-grade fever",
+    "Heart palpitations (hyperthyroid phase)",
+    "Anxiety or jitteriness",
+    "Heat intolerance",
+    "Difficulty swallowing"
+  ],
+  "seoTitle": "Subacute Thyroiditis: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Subacute thyroiditis is painful thyroid inflammation following a viral illness. Learn the phases, diagnosis, and treatment with NSAIDs or steroids."
+}

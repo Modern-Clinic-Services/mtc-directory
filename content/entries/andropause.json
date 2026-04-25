@@ -1,0 +1,33 @@
+{
+  "slug": "andropause",
+  "shortDefinition": "Andropause — sometimes called male menopause, low T, or late-onset hypogonadism — is the gradual age-related decline of testosterone in men.",
+  "fullDefinition": "## What is andropause?\n\nAndropause — popularly called **male menopause** or **low T**, and clinically known as **late-onset hypogonadism** — refers to the gradual age-related decline in testosterone production in men. Unlike female [menopause], which is a relatively defined transition over a few years, andropause is a slow drift that begins as early as the 30s and continues through life. Some men experience few symptoms; others develop significant fatigue, low libido, mood changes, loss of muscle mass, increased belly fat, and reduced sense of vitality.\n\nBecause Modern Thyroid Clinic is a women's health practice, andropause is included here primarily as a reference for partners and family members. MTC does not treat male hypogonadism directly, but the topic frequently comes up in our patient conversations.\n\n## What causes andropause?\n\nMen experience a roughly 1 percent annual decline in total testosterone after about age 30, with free testosterone declining somewhat faster. Factors that accelerate decline include:\n\n- **Excess body fat** — especially visceral fat, which converts testosterone to estrogen\n- **Insulin resistance and metabolic syndrome**\n- **Chronic stress and poor sleep**\n- **Sleep apnea**\n- **Chronic illness or medications**\n- **Heavy alcohol use**\n- **Long-term opioid use**\n- **Pituitary or testicular disease**\n\n## How is andropause diagnosed?\n\nThe diagnosis combines symptoms with confirmed low testosterone:\n\n- **Total testosterone** measured in the morning, on at least two occasions\n- **Free testosterone** when total is borderline\n- **SHBG**\n- **LH and FSH** to distinguish primary (testicular) from secondary (pituitary/hypothalamic) hypogonadism\n- **Comprehensive workup** for contributing factors — thyroid, metabolic markers, sleep apnea screening\n\nA single low result is not enough. Symptoms must be present, and other causes — depression, sleep apnea, thyroid disease, medication side effects — should be considered. The diagnostic comparison to [low-testosterone-women] is instructive: the principles are similar but male doses, ranges, and monitoring differ substantially.\n\n## How is andropause treated?\n\nTreatment is individualized and managed by clinicians specializing in men's hormonal health, typically including:\n\n- **Testosterone replacement therapy (TRT)** — injection, gel, pellet, or other delivery — when symptoms and labs both support it\n- **Lifestyle foundations** — strength training, weight management, sleep, stress, alcohol moderation\n- **Treating contributors** — sleep apnea, metabolic disease, medications\n- **Monitoring** — testosterone, hematocrit, PSA, and clinical response\n\nAndropause treatment requires careful clinical oversight because TRT has cardiovascular, fertility, and prostate considerations that need ongoing monitoring. Men experiencing symptoms should consult a clinician experienced in male hormonal health rather than self-treating with online testosterone products. At MTC, we focus on women's hormonal health, but we recognize that hormonal optimization for partners is often part of a couple's broader wellness conversation.",
+  "commonQuestions": [
+    {
+      "q": "Is andropause real, like menopause?",
+      "a": "Andropause is real, but it differs meaningfully from female menopause. Menopause is a relatively defined transition over a few years, after which ovarian hormones drop to a new low baseline. Andropause is a slow gradual decline beginning in the 30s and continuing through life — more drift than transition. Most men retain some level of testosterone production well into old age, unlike the dramatic drop women experience. The symptoms can be very real, however, and respond to appropriate treatment. The term \"late-onset hypogonadism\" is more clinically accurate than \"male menopause.\""
+    },
+    {
+      "q": "Does my partner need testosterone replacement?",
+      "a": "That depends on his symptoms, labs, and overall health — and is best determined by a clinician experienced in male hormonal health. Symptoms alone are not enough; testosterone must actually be low on confirmed morning labs, and other causes (sleep apnea, depression, thyroid issues, medications) must be considered. Lifestyle changes — weight loss, strength training, sleep, alcohol reduction — often raise testosterone meaningfully without medication. When TRT is appropriate, it can substantially improve quality of life, but it requires ongoing monitoring. MTC does not treat male hypogonadism, but a referral can be facilitated."
+    },
+    {
+      "q": "Can lifestyle changes fix low testosterone in men?",
+      "a": "Often yes, particularly when low testosterone is driven by metabolic issues. Losing visceral fat, building muscle through resistance training, sleeping seven to nine hours, treating sleep apnea, reducing alcohol, and managing stress can raise testosterone meaningfully — sometimes dramatically. For men with truly age-related or pituitary/testicular hypogonadism, lifestyle helps but may not be sufficient on its own. Either way, the foundational work matters, and many men avoid the need for replacement therapy by addressing the underlying contributors first. A clinician can help determine the right approach."
+    }
+  ],
+  "keySymptoms": [
+    "Low libido or erectile changes",
+    "Fatigue or low energy",
+    "Loss of muscle mass",
+    "Increased belly fat",
+    "Mood changes or low mood",
+    "Brain fog",
+    "Reduced motivation",
+    "Sleep disturbance",
+    "Hot flashes (in some men)",
+    "Reduced facial or body hair"
+  ],
+  "seoTitle": "Andropause (Low T): Symptoms, Causes & Treatment in Men",
+  "seoDescription": "Andropause is the gradual age-related decline of testosterone in men. Learn the symptoms, diagnosis, and treatment options including TRT."
+}

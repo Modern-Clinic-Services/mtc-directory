@@ -1,0 +1,33 @@
+{
+  "slug": "hyperthyroidism",
+  "shortDefinition": "Hyperthyroidism is an overactive thyroid state in which the gland produces too much thyroid hormone, accelerating metabolism throughout the body.",
+  "fullDefinition": "## What is hyperthyroidism?\n\nHyperthyroidism — also called **overactive thyroid** — is a condition in which the thyroid gland produces too much thyroid hormone. Because thyroid hormone sets the body's metabolic pace, excess hormone speeds nearly every system. Common symptoms include unexplained weight loss, a racing or pounding heart, hand tremors, heat intolerance, anxiety, insomnia, frequent bowel movements, and, in women, lighter or skipped periods. Hyperthyroidism affects women significantly more often than men and can develop gradually or appear quite suddenly.\n\n## What causes hyperthyroidism?\n\nThe most common cause is [graves-disease], an autoimmune condition in which antibodies stimulate the thyroid into overdrive. Other causes include hyperfunctioning thyroid nodules, [multinodular-goiter] with autonomous nodules, and the early hyperthyroid phase of [thyroiditis] — including [postpartum-thyroiditis] and [subacute-thyroiditis]. Excess iodine intake or over-replacement with thyroid medication can also push someone into a hyperthyroid state. Identifying the cause matters: an autoimmune driver, an inflamed gland, and a hot nodule each call for a different treatment path.\n\n## How is hyperthyroidism diagnosed?\n\nLab work typically shows a suppressed TSH with elevated Free T4 and/or Free T3. To pinpoint the cause, clinicians measure thyroid-stimulating immunoglobulin (TSI) and TSH receptor antibodies (TRAb) for Graves' disease, and may order a radioactive iodine uptake scan and thyroid ultrasound to look for nodules or inflammation. At Modern Thyroid Clinic, we also assess the broader picture — adrenal function, nutrient status, and triggers — because autoimmune hyperthyroidism rarely arises in a vacuum.\n\n## How is hyperthyroidism treated?\n\nTreatment depends on the cause and severity. Anti-thyroid medications such as **methimazole** slow hormone production and are often the first step. **Beta-blockers** like propranolol calm symptoms — racing heart, tremors, anxiety — while definitive treatment takes effect. For Graves' disease, longer-term options include continued medication, radioactive iodine ablation, or surgical removal of the thyroid. The thyroiditis-driven forms of hyperthyroidism are usually self-limited and need only symptom control. Untreated severe hyperthyroidism can progress to a life-threatening [thyroid-storm], so prompt evaluation is essential. A root-cause approach considers autoimmunity, stress, and gut health alongside conventional treatment.",
+  "commonQuestions": [
+    {
+      "q": "What is the difference between hyperthyroidism and Graves' disease?",
+      "a": "Hyperthyroidism is the state of having too much thyroid hormone, regardless of cause. Graves' disease is the most common autoimmune cause of hyperthyroidism — about 70-80% of cases in the United States. You can have hyperthyroidism without Graves' (for example from a hot nodule or thyroiditis), and Graves' antibodies can be present before lab values clearly show overactivity. The distinction matters because treatment differs by cause."
+    },
+    {
+      "q": "Is hyperthyroidism dangerous?",
+      "a": "Untreated hyperthyroidism is serious. Long-term excess thyroid hormone increases the risk of atrial fibrillation, osteoporosis, heart failure, and a rare but life-threatening event called thyroid storm. The good news is that hyperthyroidism is highly treatable when identified and managed promptly. Women experiencing rapid heart rate, unexplained weight loss, severe anxiety, or tremors should be evaluated quickly — symptoms are often dismissed as stress or perimenopause when the thyroid is the actual driver."
+    },
+    {
+      "q": "Can hyperthyroidism go away on its own?",
+      "a": "Some forms can. Thyroiditis-related hyperthyroidism — including postpartum, subacute, and silent thyroiditis — is typically self-limited and resolves over weeks to months as the gland recovers. Graves' disease, by contrast, is autoimmune and usually requires treatment to control. A small percentage of Graves' patients experience long-term remission on medication. The right diagnosis up front determines whether you need to treat aggressively or simply support your body while inflammation settles."
+    }
+  ],
+  "keySymptoms": [
+    "Unexplained weight loss",
+    "Heart palpitations",
+    "Tachycardia",
+    "Tremors",
+    "Heat intolerance",
+    "Anxiety",
+    "Insomnia",
+    "Frequent bowel movements",
+    "Lighter or absent periods",
+    "Bulging eyes"
+  ],
+  "seoTitle": "Hyperthyroidism: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Hyperthyroidism is an overactive thyroid causing weight loss, palpitations, and anxiety. Learn the causes, labs, and treatment options for an overactive thyroid."
+}

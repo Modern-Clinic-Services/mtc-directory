@@ -1,0 +1,33 @@
+{
+  "slug": "premature-ovarian-insufficiency",
+  "shortDefinition": "Premature ovarian insufficiency (POI) — sometimes called premature ovarian failure or early menopause — is loss of normal ovarian function before age 40.",
+  "fullDefinition": "## What is premature ovarian insufficiency?\n\nPremature ovarian insufficiency — **POI**, historically called **premature ovarian failure** or **early menopause** — is the loss of normal ovarian function before age 40. The ovaries either stop releasing eggs and producing adequate estrogen entirely, or do so unpredictably. POI affects roughly 1 in 100 women under 40 and 1 in 1,000 women under 30. It is a different and more clinically significant diagnosis than [menopause] in midlife because the long-term implications of decades of low estrogen — on bone, brain, heart, and metabolism — are substantial.\n\nWomen with POI may have absent, irregular, or even occasional periods. Roughly 5 to 10 percent of women with POI conceive spontaneously after diagnosis, which is why it is called \"insufficiency\" rather than \"failure.\"\n\n## What causes POI?\n\nIn most cases, no specific cause is identified. When a cause is found, common ones include:\n\n- **Genetic conditions** — Turner syndrome, Fragile X premutation, other chromosomal differences\n- **Autoimmune disease** — including overlap with [hashimotos-thyroiditis], Addison's disease, type 1 diabetes\n- **Chemotherapy or pelvic radiation**\n- **Surgical removal** of the ovaries or significant ovarian tissue\n- **Certain infections** (rare)\n- **Environmental toxin exposures** (suspected in some cases)\n\n## How is POI diagnosed?\n\nDiagnosis requires lab confirmation, usually:\n\n- **[fsh] elevated** into the menopausal range on two occasions at least four weeks apart\n- **[estradiol] low**\n- **Anti-Müllerian hormone (AMH)** very low or undetectable\n- **Comprehensive thyroid panel** and adrenal antibodies given the autoimmune overlap\n- **Karyotype and Fragile X testing** in younger women\n- **Bone density (DEXA)** at baseline because bone loss begins immediately\n\nA period that has been absent for several months in a woman under 40 is reason to ask for evaluation, not to wait.\n\n## How is POI treated?\n\nTreatment serves two goals: relieving symptoms and protecting long-term health from prolonged estrogen deficiency. Approaches include:\n\n- **[hormone-replacement-therapy]** — generally recommended until at least the typical age of menopause (around 51), at full physiologic doses\n- **Bioidentical progesterone** to oppose estrogen and protect the uterus\n- **Calcium, vitamin D, and weight-bearing exercise** for bone protection\n- **Fertility evaluation and counseling** when pregnancy is desired — egg donation is often the most reliable path, though spontaneous conception happens\n- **Mental health support** — POI is often emotionally devastating, particularly when fertility is part of the loss\n- **Treatment of overlapping autoimmune conditions**\n\nAt Modern Thyroid Clinic, POI is treated with full hormonal replacement and root-cause investigation of the autoimmune and thyroid conditions that often travel with it. The decades ahead deserve protection — bone, brain, heart, and quality of life all depend on adequate estrogen.",
+  "commonQuestions": [
+    {
+      "q": "Is premature ovarian insufficiency the same as early menopause?",
+      "a": "They overlap but are not identical. Menopause is defined as twelve consecutive months without a period and represents permanent cessation. POI is the loss of normal ovarian function before 40, but ovarian activity can be intermittent — periods may return, and a small percentage of women conceive spontaneously after diagnosis. \"Insufficiency\" captures this unpredictability better than \"failure.\" Functionally, the symptoms and long-term health implications are similar to menopause, and treatment with hormone replacement is generally recommended until at least the typical age of natural menopause."
+    },
+    {
+      "q": "Can I still get pregnant with POI?",
+      "a": "Sometimes — roughly 5 to 10 percent of women with POI conceive spontaneously after diagnosis, often unexpectedly. However, fertility is significantly reduced and unpredictable. For most women hoping to carry a pregnancy, donor egg IVF is the most reliable option. If pregnancy is a goal, an early conversation with a reproductive endocrinologist is important. Hormone therapy used for POI is not contraception, and women not seeking pregnancy still need a contraceptive plan because of the small chance of ovulation. This is worth discussing openly with your clinician."
+    },
+    {
+      "q": "Why do women with POI need hormone therapy until age 51?",
+      "a": "Because the decades of estrogen deficiency between POI diagnosis and the typical age of natural menopause carry serious long-term risks — accelerated bone loss leading to osteoporosis, increased cardiovascular disease risk, possible cognitive effects, and significant quality-of-life impact. Hormone therapy in POI is replacement of what the body would normally produce, not optional symptom management. Doses are typically higher than postmenopausal HRT to approximate physiologic levels. After age 51 — the typical age of natural menopause — the conversation becomes the same as standard postmenopausal HRT."
+    }
+  ],
+  "keySymptoms": [
+    "Irregular or absent periods before age 40",
+    "Hot flashes and night sweats",
+    "Vaginal dryness",
+    "Difficulty conceiving",
+    "Sleep disruption",
+    "Mood changes or low mood",
+    "Decreased libido",
+    "Brain fog",
+    "Fatigue",
+    "Joint aches"
+  ],
+  "seoTitle": "Premature Ovarian Insufficiency (POI): Symptoms & Treatment",
+  "seoDescription": "Premature ovarian insufficiency is loss of ovarian function before 40. Learn diagnosis, fertility implications, and why hormone replacement matters."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "euthyroid-sick-syndrome",
+  "shortDefinition": "Euthyroid sick syndrome is an alteration of thyroid hormone levels that occurs during serious illness, stress, or chronic conditions despite a structurally normal thyroid.",
+  "fullDefinition": "## What is euthyroid sick syndrome?\n\nEuthyroid sick syndrome — also called **non-thyroidal illness syndrome (NTIS)** or **low T3 syndrome** — describes a pattern of altered thyroid hormone levels that occurs during serious illness, surgical stress, severe injury, starvation, or chronic disease, despite the thyroid gland itself being structurally normal. The most consistent finding is a low Free T3, often with low or low-normal Free T4, normal or low TSH, and elevated reverse T3. The body essentially down-regulates thyroid hormone activity in response to stress. Whether this is purely protective or sometimes pathological is debated; the practical question for many women is what to do when this pattern appears in chronic, lower-grade illness rather than acute critical care.\n\n## What causes euthyroid sick syndrome?\n\nThe classic settings are critical illness, sepsis, major trauma, surgery, and severe burns. But milder versions of the same pattern appear with chronic stress, prolonged caloric restriction or dieting, intense overtraining, eating disorders, severe systemic inflammation, chronic infections, and chronic illness like heart failure, kidney disease, or liver disease. Mechanisms include reduced T4 to T3 conversion in peripheral tissues, increased shunting toward the inactive reverse T3, altered binding proteins, and central down-regulation of TSH and TRH. At Modern Thyroid Clinic, we frequently see milder versions of this pattern in women who feel hypothyroid despite a \"normal\" TSH — chronic stress, undereating, or systemic inflammation can shift T3 metabolism and produce real symptoms.\n\n## How is euthyroid sick syndrome diagnosed?\n\nDiagnosis requires a complete thyroid panel: TSH, Free T4, Free T3, and reverse T3. The hallmark is low or low-normal Free T3 with elevated reverse T3 and a TSH that is normal or inappropriately not elevated given the low hormone state. Distinguishing this from true [hypothyroidism] (where TSH typically rises) and from central hypothyroidism (pituitary failure) matters. Antibody testing rules in or out underlying autoimmune thyroid disease. The clinical context — known critical illness, chronic stress, undereating, intense exercise, chronic disease — supports the diagnosis. We pay particular attention to the Free T3 to reverse T3 ratio as a marker of how well the body is converting thyroid hormone.\n\n## How is euthyroid sick syndrome treated?\n\nIn acute critical illness, the standard approach is to treat the underlying illness and avoid giving thyroid hormone, since the altered pattern is usually adaptive and resolves as health is restored. In chronic, lower-grade settings — the situation we more often encounter at MTC — the approach focuses on the root cause: addressing chronic stress, restoring adequate calories and nutrients (especially selenium, zinc, iron, and iodine in appropriate amounts), supporting gut health, treating chronic infections, calming systemic inflammation, and modulating exercise intensity. In selected cases, low-dose T3 (liothyronine) or T4/T3 combination therapy can be considered when symptoms persist and conversion is poor, but this is individualized and requires close monitoring. The goal is to support the body's own ability to make and use thyroid hormone normally.",
+  "commonQuestions": [
+    {
+      "q": "Why is my Free T3 low when my TSH is normal?",
+      "a": "This pattern often points to euthyroid sick syndrome or impaired T4 to T3 conversion. Common drivers include chronic stress (high cortisol shunts T4 to inactive reverse T3), undereating or extreme dieting, overexercise, chronic inflammation, low selenium or zinc, gut dysfunction, and chronic illness. The thyroid itself is making hormone, but the body isn't activating it well at the tissue level. Standard care often misses this because TSH looks fine. A complete panel including Free T3 and reverse T3 reveals what TSH alone hides."
+    },
+    {
+      "q": "Should I take thyroid hormone if I have euthyroid sick syndrome?",
+      "a": "It depends on the setting. In acute serious illness, no — the pattern is generally protective and resolves with recovery. In chronic, persistent cases with significant symptoms, sometimes yes, but only after addressing root causes first: stress, calories, nutrients, gut health, inflammation. T3 supplementation (or T4/T3 combination) can be helpful in selected cases but isn't a substitute for fixing what's driving poor conversion in the first place. This is exactly the kind of nuanced situation where working with a thyroid-savvy clinician matters."
+    },
+    {
+      "q": "Is reverse T3 important to measure?",
+      "a": "It can be informative, particularly in cases where you have low T3 with normal TSH or persistent hypothyroid symptoms despite \"normal\" labs. Elevated reverse T3 suggests the body is shunting T4 toward an inactive form rather than activating it — a pattern seen in chronic stress, undereating, illness, and inflammation. The Free T3 to reverse T3 ratio is sometimes used as a functional marker. Reverse T3 isn't a perfect test and shouldn't be the only basis for treatment decisions, but in the right context it adds useful information that TSH and Free T4 alone can miss."
+    }
+  ],
+  "keySymptoms": [
+    "Persistent fatigue",
+    "Brain fog",
+    "Cold intolerance",
+    "Difficulty losing weight",
+    "Hair thinning",
+    "Low mood or depression",
+    "Slow recovery from exercise or illness",
+    "Often accompanies chronic illness or major stress"
+  ],
+  "seoTitle": "Euthyroid Sick Syndrome: Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Euthyroid sick syndrome alters thyroid hormone levels during stress or illness. Learn about low T3, reverse T3, and how to address the root causes."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "constipation",
+  "shortDefinition": "Constipation is infrequent, hard, or difficult-to-pass stools. In women, it's frequently driven by an underactive thyroid or hormone shifts.",
+  "fullDefinition": "## What is constipation?\n\nConstipation — sometimes called **slow bowels** or **infrequent stools** — is generally defined as fewer than three bowel movements per week, hard or pellet-like stools, straining, a sense of incomplete evacuation, or needing manual maneuvers to pass stool. Many women normalize chronic constipation; we don't.\n\nDaily, comfortable bowel movements are a vital sign of a healthy gut, healthy thyroid, and healthy hormone balance. When transit slows, hormones don't clear properly (especially estrogen), the gut microbiome shifts, and inflammation tends to climb. So while constipation is rarely dangerous in the short term, the pattern matters — and it often points upstream.\n\n## What hormonal conditions cause constipation?\n\nIn women, the most common hormonal contributors are:\n\n- **[hypothyroidism]** — Thyroid hormone drives gut motility. Low T3 slows the entire GI tract; constipation is one of the most reliable signs of underactive thyroid.\n- **[hashimotos-thyroiditis]** — The leading cause of hypothyroidism, often with constipation as an early clue.\n- **[perimenopause]** and **[menopause]** — Falling estrogen and progesterone change gut motility, microbiome composition, and pelvic floor function.\n- **[insulin-resistance]** — Often coexists with sluggish bowels and bloating.\n- **HPA axis dysregulation** — Chronic stress and cortisol changes blunt the gut's migrating motor complex.\n- **Iron supplementation, opioids, calcium channel blockers, anticholinergics** — Common medication-driven causes.\n- **Low [magnesium], low fiber, dehydration, and inactivity** — Reversible lifestyle drivers.\n\n## When is it a red flag?\n\nSeek prompt evaluation for constipation paired with: blood in stool, unintended weight loss, severe abdominal pain, vomiting, a personal or family history of colon cancer, or a sudden change in bowel habits after age 50. New constipation with profound fatigue, cold intolerance, hair loss, or facial puffiness warrants thyroid testing. Pencil-thin stools, alternating with diarrhea, or constipation that does not respond to standard interventions also deserves clinical workup.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we treat chronic constipation as a clue, not a diagnosis. Workup includes a full thyroid panel (TSH, Free T4, Free T3, reverse T3, antibodies), magnesium and electrolyte status, vitamin D, and a thoughtful gut history. Treatment layers root-cause work — optimizing thyroid hormone, supporting gut motility with magnesium and adequate fiber, hydration, addressing hormone balance in perimenopause, and removing food triggers — rather than relying on long-term stimulant laxatives. Most women see daily, comfortable bowel movements return once the underlying driver is named.",
+  "commonQuestions": [
+    {
+      "q": "Is once or twice a week really constipation?",
+      "a": "Yes. A healthy bowel pattern is at least one comfortable, well-formed bowel movement per day. Going only once or twice a week — even if it feels normal because it has been your pattern for years — means stool is sitting in the colon long enough for water to be reabsorbed, hormones to recirculate, and the microbiome to shift. Many women with chronic constipation have an undiagnosed thyroid issue or perimenopausal hormone shift driving the slow transit."
+    },
+    {
+      "q": "Can my thyroid really cause constipation?",
+      "a": "Absolutely — and it's one of the most reliable thyroid signals. Thyroid hormone directly regulates the speed of gut contractions. When T3 is low, the entire GI tract slows down: emptier feelings disappear, transit time doubles, and stools become hard and infrequent. Constipation alongside fatigue, cold intolerance, and weight gain is a textbook hypothyroidism pattern that warrants a full thyroid panel — not just a TSH."
+    },
+    {
+      "q": "What about magnesium — does it actually help?",
+      "a": "For many women, yes. Magnesium citrate or magnesium oxide draws water into the colon and softens stool, while magnesium glycinate supports muscle and nervous system function more broadly. Most women are also genuinely deficient in magnesium, which makes repletion useful beyond just bowel function. That said, magnesium is a tool — not a substitute for finding out *why* your transit slowed in the first place. Always discuss supplements with your clinician, especially if you have kidney disease."
+    }
+  ],
+  "keySymptoms": [
+    "Fewer than three bowel movements per week",
+    "Hard, dry, or pellet-like stools",
+    "Straining to pass stool",
+    "Sense of incomplete evacuation",
+    "Bloating and abdominal discomfort",
+    "Need to use manual maneuvers to pass stool",
+    "Reliance on laxatives or stimulants",
+    "Reduced appetite or early fullness"
+  ],
+  "seoTitle": "Constipation in Women: Thyroid & Hormonal Causes | Modern Thyroid Clinic",
+  "seoDescription": "Chronic constipation in women often signals hypothyroidism or hormone imbalance. Learn the root causes and how to find lasting relief."
+}

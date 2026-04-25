@@ -1,0 +1,31 @@
+{
+  "slug": "thyroid-hormone-resistance",
+  "shortDefinition": "Thyroid hormone resistance is a rare genetic condition in which the body's tissues respond poorly to thyroid hormone, producing confusing labs and symptoms.",
+  "fullDefinition": "## What is thyroid hormone resistance?\n\nThyroid hormone resistance — also called **Refetoff syndrome** or **RTH** — is a rare, usually inherited condition in which the body's tissues respond poorly to thyroid hormone. Thyroid hormone is produced normally, but receptors throughout the body (most often a beta-receptor variant) cannot read its signal efficiently. To compensate, the brain pushes the thyroid to make more hormone, producing a characteristic lab pattern: elevated free T4 and free T3 with a TSH that is normal or even slightly high.\n\nBecause the resistance is uneven across tissues, symptoms vary widely. Some people feel hypothyroid (fatigue, weight gain, brain fog) in tissues that resist hormone strongly, while others feel hyperthyroid (rapid heart rate, anxiety, tremor) in tissues that respond more normally. Many people are asymptomatic and discovered only when routine [tsh] and [free-t4] testing returns puzzling results.\n\n## What causes it?\n\nMost cases are caused by a mutation in the **THRB gene**, which codes for the thyroid hormone receptor beta. The condition is usually autosomal dominant, meaning a parent with RTH has a 50 percent chance of passing it to a child. Rare non-genetic forms exist but are unusual.\n\n## How is it diagnosed?\n\nThe diagnostic clue is a **non-suppressed TSH in the setting of high free T4 and free T3**. In a typical thyroid problem, when free hormone is high, TSH should be low. When TSH is normal or high *and* free hormones are high, clinicians consider RTH or a TSH-secreting pituitary tumor. Genetic testing of THRB confirms RTH and helps distinguish it from look-alike conditions. A careful evaluation also rules out [hyperthyroidism] and [graves-disease], which can be mistaken for RTH on initial labs.\n\n## How is it managed?\n\nMost people with RTH do not need treatment — their elevated hormone levels are simply what their tissues require to function normally. Treating these labs as classic hyperthyroidism (with anti-thyroid drugs or [radioactive-iodine-ablation]) can make patients dramatically worse. When symptoms do require management, options are individualized and may include a beta-blocker for cardiac symptoms or carefully selected thyroid hormone analogs.\n\nRTH is uncommon but important to identify correctly. At Modern Thyroid Clinic, unusual lab patterns are investigated thoroughly rather than assumed to be lab error, so women are not pushed into the wrong treatment. If your labs do not fit a typical pattern, an endocrinology evaluation with genetic testing is the right next step.",
+  "commonQuestions": [
+    {
+      "q": "How is thyroid hormone resistance different from hyperthyroidism?",
+      "a": "In hyperthyroidism, the thyroid overproduces hormone and the pituitary responds correctly by suppressing TSH — so you see high free T4/T3 with low TSH. In thyroid hormone resistance, the tissues cannot read the hormone signal, so the pituitary keeps TSH normal or high despite elevated free hormones. The labs look similar at first glance but the underlying problem is opposite: too much receptor activity versus too little receptor sensitivity. Treating RTH as hyperthyroidism with anti-thyroid drugs can cause genuine hypothyroidism."
+    },
+    {
+      "q": "Is thyroid hormone resistance dangerous?",
+      "a": "For most people, no. Many individuals with RTH live normal lives without treatment because their elevated hormone levels are exactly what their tissues need. The bigger danger is misdiagnosis — being treated for hyperthyroidism they do not have. Some people do experience cardiac symptoms (palpitations, atrial fibrillation) that warrant management, and children with RTH can have learning differences or growth issues. Long-term follow-up with a clinician familiar with the condition is wise, but RTH itself is generally not life-threatening."
+    },
+    {
+      "q": "Should I test my children if I have thyroid hormone resistance?",
+      "a": "Yes, this is worth discussing with your clinician. RTH is usually autosomal dominant, meaning each child of an affected parent has roughly a 50 percent chance of inheriting the gene variant. Testing involves a thyroid panel and, if labs are suggestive, genetic testing of the THRB gene. Identifying RTH early prevents children from being misdiagnosed as hyperthyroid and inappropriately treated, and it provides important context if growth, learning, or attention concerns arise later."
+    }
+  ],
+  "keySymptoms": [
+    "Rapid or irregular heartbeat",
+    "Fatigue",
+    "Anxiety or tremor",
+    "Goiter",
+    "Difficulty with attention or learning (in children)",
+    "Weight changes",
+    "Heat intolerance",
+    "Hyperactivity"
+  ],
+  "seoTitle": "Thyroid Hormone Resistance (RTH): Causes, Labs, Management",
+  "seoDescription": "Thyroid hormone resistance is a rare genetic condition causing high T4/T3 with non-suppressed TSH. Learn how it is diagnosed and why it is often misdiagnosed."
+}

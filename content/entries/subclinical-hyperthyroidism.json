@@ -1,0 +1,31 @@
+{
+  "slug": "subclinical-hyperthyroidism",
+  "shortDefinition": "Subclinical hyperthyroidism is a state in which TSH is suppressed below normal but Free T4 and Free T3 remain within the normal range.",
+  "fullDefinition": "## What is subclinical hyperthyroidism?\n\nSubclinical hyperthyroidism — also called **mild hyperthyroidism** — is a lab pattern in which TSH is suppressed below the normal range while Free T4 and Free T3 remain within the normal range. It represents an early or low-grade form of thyroid overactivity. The term \"subclinical\" suggests no symptoms, but many women with this pattern do experience subtle effects — palpitations, anxiety, sleep disturbance, heat intolerance, fatigue, or increased bone loss — even though their thyroid hormones look \"normal.\" The clinical significance depends heavily on the cause, how suppressed the TSH is, and individual risk factors like age and bone health.\n\n## What causes subclinical hyperthyroidism?\n\nThe most common causes are autonomous thyroid nodules ([thyroid-nodules] or [multinodular-goiter] producing hormone independent of TSH control), early or mild [graves-disease], and over-replacement with thyroid hormone medication (the most common cause overall — many women on thyroid medication are slightly overdosed). Other causes include the early phase of [thyroiditis], certain medications, and excess iodine intake. It is more common in older adults and in women, and the prevalence rises with age.\n\n## How is subclinical hyperthyroidism diagnosed?\n\nDiagnosis requires confirmation that TSH suppression is persistent, not transient — labs should be repeated, ideally at least a few weeks apart. A complete evaluation includes TSH, Free T4, Free T3, thyroid antibodies (TPO, TgAb, TSI), and sometimes a radioactive iodine uptake scan or thyroid ultrasound to identify the underlying cause. Distinguishing autonomous nodules from early Graves' disease from thyroiditis matters because each is managed differently. Modern Thyroid Clinic also reviews medication doses carefully — many patients on long-standing thyroid replacement have slowly drifted into subclinical hyperthyroidism without realizing it.\n\n## How is subclinical hyperthyroidism treated?\n\nTreatment depends on cause, severity, and individual risk. When over-medication is the cause, simply lowering the thyroid hormone dose typically resolves the picture quickly. For other causes, treatment is more strongly considered when TSH is profoundly suppressed (under 0.1), when the patient is over 65, when there is osteoporosis or atrial fibrillation risk, or when symptoms are present. Treatment options include anti-thyroid medication, radioactive iodine ablation for autonomous nodules or Graves', and, in select cases, surgery. Mild, asymptomatic cases — particularly in younger women without risk factors — are often monitored rather than immediately treated. The risks of leaving subclinical hyperthyroidism untreated include progression to overt [hyperthyroidism], atrial fibrillation, and accelerated bone loss, especially in postmenopausal women.",
+  "commonQuestions": [
+    {
+      "q": "Is subclinical hyperthyroidism dangerous?",
+      "a": "It can be, particularly over the long term and in higher-risk groups. The two main concerns are atrial fibrillation (an irregular heart rhythm that raises stroke risk) and accelerated bone loss leading to osteoporosis, especially in postmenopausal women. Both risks rise meaningfully when TSH is profoundly suppressed and persists for years. In younger, lower-risk women without symptoms, the risk is lower but not zero. The decision to treat balances these long-term risks against the implications of treatment, which is why a thoughtful evaluation matters."
+    },
+    {
+      "q": "Could my low TSH just be from my thyroid medication?",
+      "a": "Very possibly — this is one of the most common causes of subclinical hyperthyroidism. Thyroid hormone replacement doses sometimes drift higher than needed, especially as women age, lose weight, or change other medications. A suppressed TSH on thyroid replacement signals that the dose may be too high, even if Free T4 and Free T3 look fine. In some specific cases (such as after thyroid cancer), TSH suppression is the goal. Otherwise, a slight dose reduction usually corrects the picture and protects bones and heart over the long run."
+    },
+    {
+      "q": "Will subclinical hyperthyroidism progress to full hyperthyroidism?",
+      "a": "It can, depending on cause. About 1-5% of cases progress to overt hyperthyroidism each year, with higher rates in those caused by autonomous nodules or Graves' disease. Cases caused by thyroiditis often resolve on their own. Cases caused by over-medication resolve when the dose is adjusted. Periodic monitoring (TSH, Free T4, Free T3 every 6-12 months) catches progression early. Antibody testing helps stratify risk — Graves' antibodies in subclinical hyperthyroidism predict a higher chance of progressing to overt disease."
+    }
+  ],
+  "keySymptoms": [
+    "Heart palpitations",
+    "Anxiety or jitteriness",
+    "Sleep disturbance",
+    "Heat intolerance",
+    "Mild tremor",
+    "Bone density loss (over time)",
+    "Atrial fibrillation (in higher-risk groups)",
+    "Often asymptomatic"
+  ],
+  "seoTitle": "Subclinical Hyperthyroidism: Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Subclinical hyperthyroidism is a suppressed TSH with normal T4. Learn the causes, risks to bones and heart, and when treatment is recommended."
+}

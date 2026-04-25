@@ -1,0 +1,30 @@
+{
+  "slug": "night-sweats",
+  "shortDefinition": "Night sweats are episodes of heavy sweating during sleep, often soaking sleepwear or bedding — most commonly driven by perimenopause or thyroid issues.",
+  "fullDefinition": "## What are night sweats?\n\nNight sweats — sometimes called **nocturnal sweating** — are episodes of significant sweating during sleep, often heavy enough to soak sleepwear, sheets, or pillows. They are different from being too warm under heavy blankets in a hot room — true night sweats happen even in cool conditions and often wake women from sleep.\n\nIn women in their 40s and 50s, night sweats are most often the nocturnal version of [hot-flashes] — perimenopausal vasomotor symptoms. But they can also signal hyperthyroidism, certain infections, low blood sugar, sleep apnea, or medication effects. The pattern, frequency, and accompanying symptoms guide the workup.\n\n## What hormonal conditions cause night sweats?\n\nThe most common drivers in women include:\n\n- **[perimenopause]** — Erratic estradiol fluctuations destabilize the hypothalamic temperature set point; one of the most common perimenopausal symptoms.\n- **[menopause]** — Persistent low estradiol; vasomotor symptoms (VMS) including night sweats often persist for years after the last period.\n- **[hot-flashes]** — The daytime equivalent; both share the same physiology.\n- **[hyperthyroidism]** — Excess thyroid hormone increases metabolic heat production; produces sweating that doesn't fluctuate the way perimenopausal sweats do.\n- **[graves-disease]** — Autoimmune hyperthyroidism with night sweats, palpitations, weight loss.\n- **HPA axis dysregulation** — Reversed cortisol patterns and adrenaline surges at night.\n- **Hypoglycemia** — Blood sugar drops at 2-4am can trigger sweating with adrenaline release.\n- **Medications** — SSRIs, SNRIs, opioids, hormone therapies, and some thyroid medications can produce night sweats.\n- **Sleep apnea** — Often missed in women; can produce drenching night sweats.\n- **Infections, lymphoma, and certain cancers** — Less common but important to rule out, especially with weight loss or fevers.\n\n## When is it a red flag?\n\nNight sweats with unintentional weight loss, persistent fever, swollen lymph nodes, or severe fatigue need prompt medical evaluation to rule out infection or malignancy. Night sweats with palpitations, weight loss, heat intolerance, and tremor warrant urgent thyroid testing. Sudden onset of night sweats after starting a new medication should be flagged. Drenching sweats requiring multiple sleepwear changes per night, especially in someone not in the perimenopausal age range, deserve thorough workup.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, night sweats prompt a full workup: a complete thyroid panel (TSH, Free T4, Free T3, antibodies, plus TSI/TRAb if hyperthyroidism is suspected), FSH and estradiol if perimenopause is on the table, morning cortisol, fasting glucose and insulin, and a careful medication review. Treatment depends on cause: bioidentical hormone therapy for menopausal vasomotor symptoms, antithyroid medication for hyperthyroidism, blood sugar stabilization, addressing cortisol rhythm, and sometimes targeted nervous system support. For women who can't or don't want hormones, non-hormonal options including SSRIs/SNRIs at low doses, gabapentin, and newer neurokinin-3 receptor antagonists (like fezolinetant) can meaningfully reduce vasomotor symptoms.",
+  "commonQuestions": [
+    {
+      "q": "How do I know if my night sweats are perimenopause or something else?",
+      "a": "Perimenopausal night sweats typically come and go in episodes (a sudden warm wave, sweating, then cooling down), are often paired with daytime hot flashes, and tend to track with cycle changes or other perimenopausal symptoms. Hyperthyroid sweating tends to be more continuous and pairs with weight loss, palpitations, and heat intolerance. Infectious or malignant night sweats often come with fevers, weight loss, or swollen lymph nodes. A thorough hormonal workup plus basic labs typically sorts the picture quickly."
+    },
+    {
+      "q": "Will hormone therapy help my night sweats?",
+      "a": "For appropriate candidates, yes — hormone replacement is the most effective treatment for perimenopausal and menopausal vasomotor symptoms, often reducing night sweats by 70-90%. At Modern Thyroid Clinic we tailor hormone therapy to each woman based on age, symptoms, personal and family history, and individual risk factors. For women who can't or prefer not to use hormones, non-hormonal options including SSRIs, gabapentin, and newer targeted medications can also significantly reduce vasomotor symptoms. The right choice is individual."
+    },
+    {
+      "q": "What can I do tonight while I figure out what's happening?",
+      "a": "Practical steps help bridge the gap. Keep your bedroom cool (65-68°F), use moisture-wicking sleepwear and sheets, layer light bedding you can shed, limit alcohol and spicy food in the evenings (both common triggers), and avoid heavy meals close to bed. A small protein-fat snack before sleep can prevent blood sugar drops that trigger overnight sweating. None of these address the underlying cause, but they preserve sleep quality while you and your clinician identify what's driving it."
+    }
+  ],
+  "keySymptoms": [
+    "Sweating heavy enough to soak sleepwear or bedding",
+    "Waking from sleep due to overheating",
+    "Sudden waves of heat at night",
+    "Episodes of sweating followed by chills",
+    "Need to change sleepwear during the night",
+    "Sleep fragmentation from sweats",
+    "Sweating focused on the chest, head, or upper body"
+  ],
+  "seoTitle": "Night Sweats in Women: Hormonal Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Night sweats in women are often perimenopausal or thyroid-driven. Learn the hormonal causes, when to seek care, and effective treatment options."
+}

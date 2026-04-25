@@ -1,0 +1,31 @@
+{
+  "slug": "t4-to-t3-conversion",
+  "shortDefinition": "T4 to T3 conversion (peripheral deiodination) is the process by which the body activates inactive thyroid hormone (T4) into the active form (T3) used by every cell.",
+  "fullDefinition": "## What is T4 to T3 conversion?\n\n**T4 to T3 conversion** — also called **peripheral deiodination** or simply **thyroid hormone conversion** — is the biochemical process by which the body transforms inactive thyroid hormone into the active form your cells actually use.\n\nThe thyroid gland produces mostly **T4 (thyroxine)** — about 80 percent of its output — and a smaller amount of **T3 (triiodothyronine)**. T4 is essentially a storage form. It must be converted into T3 in tissues throughout the body — primarily the liver, gut, kidneys, and muscle — before it can do its work. This conversion is performed by enzymes called **deiodinases**, which require specific cofactors to function.\n\nT3 is roughly four times more potent than T4 and is what actually drives metabolism, energy production, body temperature regulation, mood, and cognition.\n\n## Why T4 to T3 conversion matters\n\nThis is the single most overlooked piece of the thyroid puzzle in conventional care — and a primary reason why so many women on [levothyroxine] (T4-only medication) continue to feel unwell despite \"normal\" labs.\n\nWhen TSH and Free T4 look fine but symptoms persist — fatigue, brain fog, hair loss, weight gain, cold hands, low mood — poor T4 to T3 conversion is often the explanation. The lab patterns to watch for include:\n\n- **Low or low-normal Free T3** despite adequate Free T4\n- **Elevated [reverse-t3]** — an inactive mirror image of T3 that competes for the same cell receptors\n- **A high reverse T3 to Free T3 ratio**\n\nFactors that impair conversion include:\n\n- **Nutrient deficiencies** — especially **selenium**, **zinc**, **iron**, and **iodine**\n- **Chronic stress** and elevated cortisol (see [hpa-axis])\n- **Inflammation** and infection\n- **Caloric restriction** and chronic dieting\n- **Liver and gut dysfunction** — see [gut-thyroid-connection]\n- **Insulin resistance** and obesity\n- **Certain medications**, including beta-blockers and high-dose estrogen\n\n## How MTC applies T4 to T3 conversion\n\nAt Modern Thyroid Clinic, every thyroid evaluation includes Free T3 and reverse T3 — not just TSH and Free T4. When conversion is the bottleneck, treatment goes in two directions at once.\n\nFirst, address the inputs: replete selenium and zinc, correct iron and ferritin, support the liver and gut, calm cortisol and inflammation, and eat enough calories and carbohydrate to signal safety to the system.\n\nSecond, when needed, adjust medication. Adding a small amount of [liothyronine] (T3) to existing [levothyroxine], or switching to [natural-desiccated-thyroid] (which contains both T4 and T3), can be transformative for women whose conversion is impaired. This is not about overriding conventional care — it is about completing the picture so the medication delivered actually reaches the cells in the form they can use.",
+  "commonQuestions": [
+    {
+      "q": "Why do I still feel bad on levothyroxine?",
+      "a": "The most common reason is poor T4 to T3 conversion. [Levothyroxine] is pure T4, the inactive form. If your body cannot efficiently convert it to T3 — because of low selenium or zinc, chronic stress, gut dysfunction, inflammation, or low iron — you can have a perfect TSH and Free T4 while your cells are still hormone-starved. A complete panel including Free T3 and [reverse-t3] usually reveals the gap. Treatment may involve nutrient repletion, lifestyle work, and sometimes adding T3 or switching to [natural-desiccated-thyroid]."
+    },
+    {
+      "q": "What nutrients support T4 to T3 conversion?",
+      "a": "**Selenium** is the most studied — it is a cofactor for the deiodinase enzymes that convert T4 to T3. **Zinc** is essential for thyroid hormone receptor function. **Iron** (ferritin) supports thyroid peroxidase and overall thyroid function. **Iodine** is needed in adequate but not excessive amounts. **Vitamin A**, **B vitamins**, and **magnesium** also play supporting roles. Food sources are best when possible — Brazil nuts for selenium, oysters and pumpkin seeds for zinc, red meat and dark leafy greens for iron. Always check levels before supplementing."
+    },
+    {
+      "q": "What is reverse T3 and why does it matter?",
+      "a": "[Reverse-t3] is an inactive mirror image of T3 produced when the body diverts T4 down an alternate pathway — usually in response to stress, illness, inflammation, or caloric restriction. It binds the same cell receptors as T3 but does not activate them, so it can blunt thyroid signaling even when other labs look fine. Elevated reverse T3 is a flag that the system is in a protective, slowed-down mode. Addressing the underlying stressor — not just adding more thyroid medication — is usually the answer."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue despite normal TSH",
+    "Brain fog",
+    "Hair loss",
+    "Weight gain",
+    "Cold hands and feet",
+    "Low mood",
+    "Constipation",
+    "Dry skin"
+  ],
+  "seoTitle": "T4 to T3 Conversion: Why Levothyroxine Doesn't Always Work | MTC",
+  "seoDescription": "T4 must convert to T3 to work. Learn why poor conversion explains lingering symptoms on thyroid medication and how nutrients and stress affect it."
+}

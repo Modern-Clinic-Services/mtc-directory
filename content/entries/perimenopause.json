@@ -1,0 +1,34 @@
+{
+  "slug": "perimenopause",
+  "shortDefinition": "Perimenopause — the menopausal transition or pre-menopause — is the years-long hormonal shift before menopause, marked by fluctuating estrogen and progesterone.",
+  "fullDefinition": "## What is perimenopause?\n\nPerimenopause — also called the **menopausal transition** or **pre-menopause** — is the multi-year hormonal shift that precedes [menopause]. It typically begins in the early-to-mid 40s but can start as early as the late 30s. During this time, ovulation becomes irregular, progesterone falls before estrogen, and estrogen itself swings wildly — sometimes higher than ever, sometimes much lower — before its eventual decline. Perimenopause officially ends when a woman has gone twelve consecutive months without a period.\n\nWhat surprises most women is that perimenopause can begin **eight to ten years before periods stop** — and many of the symptoms appear long before cycles change. Sleep disruption, anxiety, irritability, weight changes, brain fog, heavier or longer periods, breast tenderness, and worsening PMS often arrive first, while periods are still regular.\n\n## What causes perimenopause symptoms?\n\nThe driver is the unpredictable rise and fall of ovarian hormones:\n\n- **Progesterone falls first**, often years before periods stop, as ovulation becomes less reliable\n- **Estrogen fluctuates wildly** — highs cause breast tenderness, heavy periods, migraines, irritability; lows cause hot flashes, sleep disruption, brain fog\n- **The progesterone-to-estrogen ratio shifts**, producing relative [estrogen-dominance]\n- **Cortisol and the [hpa-axis]** become more reactive\n- **Insulin sensitivity declines**, accelerating midsection weight gain\n- **Thyroid issues often emerge or worsen** during this window\n\n## How is perimenopause diagnosed?\n\nPerimenopause is largely a **clinical diagnosis** based on symptoms, age, and cycle pattern. Hormone labs in perimenopause are notoriously unreliable because levels swing day to day — a single FSH or estradiol may be normal in the morning and very different by evening. At MTC, evaluation focuses on:\n\n- **Detailed symptom and cycle history**\n- **Comprehensive thyroid panel** to identify overlapping thyroid disease\n- **Sex hormones in context** — [estradiol], [progesterone-bioidentical] precursors, FSH, sometimes a [dutch-test] for hormone metabolites\n- **Metabolic markers** — fasting insulin, A1c, lipids\n- **Cortisol rhythm**\n\n## How is perimenopause treated?\n\nTreatment is individualized to symptoms, severity, and personal history. Options include:\n\n- **Bioidentical progesterone** to address the early progesterone decline, support sleep, and counterbalance estrogen\n- **Estradiol** — patch, cream, or other delivery — when low-estrogen symptoms emerge\n- **Lifestyle foundations** — strength training, protein-forward nutrition, sleep, alcohol reduction\n- **Targeted nutrients** — magnesium, B vitamins, vitamin D, omega-3s\n- **Treatment of overlapping thyroid, adrenal, or insulin issues**\n- **Mental health support** when mood symptoms are prominent\n\nAt Modern Thyroid Clinic, perimenopause is treated as the major hormonal transition it is — not dismissed as \"too early\" for hormone support, and not over-medicalized. Many women feel meaningfully better with the right combination of hormones and root-cause work, often after years of being told everything was normal.",
+  "commonQuestions": [
+    {
+      "q": "How is perimenopause different from menopause?",
+      "a": "Perimenopause is the transition phase — the years of hormonal fluctuation leading up to menopause. Periods are still happening, though often becoming irregular, heavier, lighter, longer, or shorter. Menopause itself is a single point in time defined as twelve consecutive months without a period. Everything after that is post-menopause. Perimenopause is when most of the dramatic symptoms — sleep disruption, mood swings, hot flashes, weight changes — actually begin. Menopause is when hormones reach a new, lower baseline and many of the fluctuating symptoms stabilize, though others may emerge."
+    },
+    {
+      "q": "Can I start hormone therapy in perimenopause?",
+      "a": "Yes, and for many women this is exactly when hormone therapy is most helpful. Older guidelines waited until full menopause, but current understanding supports starting earlier when symptoms are significant. Bioidentical progesterone is often the first addition because progesterone falls first. Estradiol is added when low-estrogen symptoms appear. The goal is to smooth the hormonal swings, not override them. The decision is individualized based on symptoms, personal and family history, and goals — and it should be made with a clinician experienced in perimenopausal hormone therapy."
+    },
+    {
+      "q": "Why are my labs normal but I feel terrible?",
+      "a": "Because perimenopausal hormones swing so dramatically that a single lab is rarely representative. Your estradiol could be 300 pg/mL one morning and 50 pg/mL three days later. \"Normal\" reference ranges are also wide and based on populations that include both early-cycle and late-cycle women. Symptoms in the right age window are far more reliable than a snapshot lab. A clinician familiar with perimenopause uses your symptom pattern, cycle changes, and history to guide treatment, with labs as supporting context rather than the sole criterion."
+    }
+  ],
+  "keySymptoms": [
+    "Irregular periods (longer, shorter, heavier, or lighter)",
+    "Sleep disruption or middle-of-the-night waking",
+    "Hot flashes or night sweats",
+    "Anxiety, irritability, or mood swings",
+    "Worsening PMS",
+    "Brain fog or word-finding difficulty",
+    "Weight gain, especially around the midsection",
+    "Breast tenderness",
+    "New or worsening migraines",
+    "Decreased libido",
+    "Joint aches"
+  ],
+  "seoTitle": "Perimenopause: Symptoms, Hormones & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Perimenopause is the years-long hormonal transition before menopause. Learn the symptoms, why labs miss it, and how it can be treated."
+}

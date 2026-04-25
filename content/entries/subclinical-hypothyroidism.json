@@ -1,0 +1,32 @@
+{
+  "slug": "subclinical-hypothyroidism",
+  "shortDefinition": "Subclinical hypothyroidism is an early stage of thyroid underactivity in which TSH is mildly elevated but Free T4 remains within the normal range.",
+  "fullDefinition": "## What is subclinical hypothyroidism?\n\nSubclinical hypothyroidism — sometimes called **mild hypothyroidism** or **compensated hypothyroidism** — is a lab pattern in which TSH is elevated above the normal range but Free T4 (and usually Free T3) remains within range. It represents an early stage of thyroid dysfunction: the pituitary gland is working harder to keep thyroid hormone levels normal, and the thyroid is starting to struggle. The term \"subclinical\" can be misleading because many women with this pattern have very real symptoms — fatigue, weight gain, brain fog, hair loss, cold intolerance, mood changes — even though their thyroid hormone is still technically \"normal.\"\n\n## What causes subclinical hypothyroidism?\n\nThe most common cause in the United States is autoimmune thyroid disease, particularly [hashimotos-thyroiditis] in its earlier stages. Other causes include recovery from [thyroiditis], partial damage after thyroid surgery or radioactive iodine, certain medications, and pregnancy-related thyroid changes. Risk factors include being female, family history of thyroid disease, type 1 diabetes, other autoimmune conditions, and a history of head or neck radiation. Women in their 40s, 50s, and beyond have higher rates, partly because thyroid function tends to decline with age and partly because hormonal transitions can unmask underlying autoimmunity.\n\n## How is subclinical hypothyroidism diagnosed?\n\nDiagnosis is made on labs: TSH above the upper limit of normal with Free T4 in the normal range, confirmed on a repeat test (because TSH can fluctuate). At Modern Thyroid Clinic, evaluation goes further than the standard panel. We measure TSH, Free T4, Free T3, reverse T3, and thyroid antibodies (TPO and TgAb), and we use a tighter functional range than the standard lab range. A TSH of 4 may be \"normal\" by lab standards but is clearly elevated when patients feel hypothyroid. Antibody-positive subclinical hypothyroidism is essentially Hashimoto's caught early, and the trajectory toward overt [hypothyroidism] is much higher than in antibody-negative cases.\n\n## How is subclinical hypothyroidism treated?\n\nTreatment is individualized. Conventional guidelines often recommend treatment when TSH is above 10, when antibodies are positive, when a woman is pregnant or trying to conceive, or when symptoms are significant. Many women feel substantially better with low-dose thyroid hormone replacement even when TSH is in the 5-10 range — particularly if antibodies are positive or symptoms are clearly thyroid-related. Treatment options include levothyroxine, liothyronine added to T4, or natural desiccated thyroid. A root-cause approach also addresses the underlying drivers — gut health, gluten, nutrient deficiencies, stress — which can sometimes stabilize or improve thyroid function without medication. The right plan depends on labs, symptoms, antibody status, and personal goals.",
+  "commonQuestions": [
+    {
+      "q": "If my TSH is only mildly elevated, do I really need treatment?",
+      "a": "It depends on the full picture, not the TSH alone. Treatment is more clearly warranted when TSH is above 10, when thyroid antibodies are positive, when you're pregnant or trying to conceive, or when symptoms are significant. Many women in the 4.5-10 range with classic hypothyroid symptoms feel meaningfully better with treatment, especially when Hashimoto's is the underlying cause. The decision is individualized — and at MTC we treat the patient, not just the lab number, which often means trying treatment when conventional care would say to wait."
+    },
+    {
+      "q": "Will subclinical hypothyroidism progress to full hypothyroidism?",
+      "a": "Often, yes — particularly when thyroid antibodies are positive. The annual progression rate to overt hypothyroidism is roughly 2-5% in antibody-negative cases and significantly higher (some studies estimate 5-20%) in antibody-positive Hashimoto's patients. Risk increases with higher TSH, presence of goiter, female sex, and certain genetic factors. This is why antibody testing matters at the subclinical stage — it changes the long-term outlook and informs how aggressively to monitor or treat."
+    },
+    {
+      "q": "Can subclinical hypothyroidism affect pregnancy?",
+      "a": "Yes — and this is one of the clearest indications for treatment. Even mildly elevated TSH during pregnancy is associated with higher rates of miscarriage, preterm birth, preeclampsia, and possible effects on fetal neurodevelopment. For pregnant women, TSH should generally be kept below 2.5 in the first trimester. Women trying to conceive should have a complete thyroid panel and, if subclinical hypothyroidism is found, be treated before pregnancy. This is one of the most underdiagnosed reasons for fertility struggles in women with otherwise unexplained infertility."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue",
+    "Weight gain or difficulty losing weight",
+    "Hair thinning",
+    "Brain fog",
+    "Cold intolerance",
+    "Dry skin",
+    "Constipation",
+    "Mild mood changes",
+    "Often asymptomatic in early stages"
+  ],
+  "seoTitle": "Subclinical Hypothyroidism: Symptoms & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Subclinical hypothyroidism is mild thyroid underactivity with elevated TSH and normal T4. Learn when treatment is needed and how to address root causes."
+}

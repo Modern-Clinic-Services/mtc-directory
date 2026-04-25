@@ -1,0 +1,30 @@
+{
+  "slug": "difficulty-swallowing",
+  "shortDefinition": "Difficulty swallowing (dysphagia) is the sensation that food or pills don't pass smoothly, often caused by an enlarged thyroid, goiter, or large nodule.",
+  "fullDefinition": "## What is difficulty swallowing?\n\nDifficulty swallowing — clinically called **dysphagia** — is any sensation that food, liquid, or pills don't move smoothly from the mouth into the stomach. It can feel like food sticking in the throat, pills going down sideways, the need to wash everything down with extra water, or a constant lump-in-the-throat sensation (the latter is sometimes called *globus*).\n\nFor women, especially those over 40, persistent difficulty swallowing — particularly with the sensation of pressure or fullness in the lower neck — frequently has a thyroid origin and warrants a thyroid-focused evaluation.\n\n## What conditions cause difficulty swallowing?\n\nThyroid causes are particularly common because the thyroid sits directly in front of the trachea and adjacent to the esophagus:\n\n- **[goiter]** — generalized thyroid enlargement that compresses the esophagus or trachea\n- **[multinodular-goiter]** — multiple nodules can cumulatively cause significant compression\n- **[thyroid-nodules]** — large or strategically located nodules can press on swallowing structures\n- **Substernal goiter** — extension of the thyroid behind the breastbone, particularly likely to cause swallowing and breathing pressure\n- **Thyroiditis** — acute inflammation can cause transient swelling\n\nNon-thyroid causes are equally important:\n\n- **GERD and acid reflux** — common cause of globus sensation and esophageal irritation\n- **Esophageal motility disorders**\n- **Hiatal hernia**\n- **Anxiety** — globus can be amplified by stress without structural cause\n- **Medication-induced esophageal injury** — pills lodging and irritating the esophagus\n- **Eosinophilic esophagitis**\n- **Neurologic conditions** affecting swallowing\n- **Esophageal strictures or rings**\n- **Head and neck cancers** — uncommon but important to rule out\n\n## When is difficulty swallowing a red flag?\n\nProgressive difficulty swallowing — especially with solids — always warrants evaluation. Red flags include unintentional weight loss, choking or food getting truly stuck, painful swallowing, hoarseness or voice change, shortness of breath when lying flat, a visible neck lump, blood in saliva or vomit, and a history of acid reflux or smoking. Sudden swallowing difficulty can rarely indicate stroke and requires emergency evaluation. New persistent symptoms in midlife should never be brushed off.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, persistent difficulty swallowing prompts a thyroid exam, full thyroid panel, and high-resolution thyroid ultrasound. Ultrasound clarifies whether the thyroid or any nodule is large enough to cause compression. Imaging extending into the chest may be needed if substernal extension is suspected. Pulmonary function testing or upper endoscopy may be added when indicated, often in coordination with ENT or gastroenterology.\n\nIf a goiter or large nodule is causing compression, treatment may include thyroid hormone optimization, radioactive iodine for certain types of goiter, or surgical removal when symptoms are significant. For non-thyroid causes, addressing reflux, esophageal motility, or anxiety is targeted accordingly. Most causes of dysphagia are highly treatable once correctly identified — the goal is to find the source rather than live with the symptom.",
+  "commonQuestions": [
+    {
+      "q": "Can a goiter really make it hard to swallow?",
+      "a": "Yes. The thyroid sits directly in front of the trachea and just lateral to the esophagus, so when the gland or its nodules grow large enough, they physically press on the structures involved in swallowing and breathing. Many women with substantial goiters describe feeling pills get stuck or needing extra water with meals. Substernal goiters — those extending behind the breastbone — are particularly likely to cause symptoms. Imaging clarifies the picture and guides whether observation, medical management, or surgery is the right path."
+    },
+    {
+      "q": "I have a 'lump in my throat' feeling — is it serious?",
+      "a": "The persistent lump-in-throat sensation is called globus, and the cause is often less serious than it feels. Reflux is the most common driver, followed by anxiety and muscular tension. That said, globus that lasts more than a few weeks, worsens with solids, comes with weight loss or hoarseness, or is paired with a visible neck change deserves proper evaluation — including a thyroid exam, ultrasound, and often referral to ENT or GI. Reassurance is good, but reassurance based on actual workup is better."
+    },
+    {
+      "q": "What workup should I expect?",
+      "a": "Expect a careful neck exam, a full thyroid panel including antibodies, and a thyroid ultrasound. If thyroid pathology is found and is large, additional imaging (CT or MRI of the neck and chest) may be needed to assess substernal extension and degree of compression. For non-thyroid swallowing issues, upper endoscopy, barium swallow study, or esophageal motility testing may be indicated. The workup is targeted to your specific symptom pattern and exam findings."
+    }
+  ],
+  "keySymptoms": [
+    "Sensation of food or pills sticking",
+    "Lump-in-throat feeling",
+    "Needing extra water with meals",
+    "Pressure or fullness in lower neck",
+    "Choking or coughing with swallowing",
+    "Voice changes",
+    "Shortness of breath when lying flat"
+  ],
+  "seoTitle": "Difficulty Swallowing: Goiter, Nodules & Causes | Modern Thyroid Clinic",
+  "seoDescription": "Difficulty swallowing (dysphagia) often signals a goiter, thyroid nodule, or reflux. Learn causes, red flags, and evaluation."
+}

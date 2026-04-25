@@ -1,0 +1,31 @@
+{
+  "slug": "bloating",
+  "shortDefinition": "Bloating is abdominal fullness, distension, or pressure — frequently linked to thyroid slowdown, gut dysfunction, or hormonal shifts in women.",
+  "fullDefinition": "## What is bloating?\n\nBloating — sometimes called **abdominal bloating** or **gas** — is the sensation of fullness, pressure, or distension in the belly, often accompanied by visible swelling that worsens through the day. Many women describe waking up with a flat stomach and looking several months pregnant by evening. Some have audible gurgling, gas, or discomfort after meals; others feel uncomfortably full despite eating very little.\n\nOccasional bloating is normal. Daily, predictable, or severe bloating is not — and it is one of the most common symptoms reported in our practice.\n\n## What conditions cause bloating?\n\nThe gut and thyroid are deeply connected, so the causes overlap:\n\n- **[hypothyroidism]** — slows the entire GI tract, leading to constipation, fermentation, and bloating\n- **[leaky-gut]** and intestinal permeability — common in autoimmune thyroid disease\n- **SIBO (small intestinal bacterial overgrowth)** — classic cause of post-meal bloating, often co-occurring with hypothyroidism\n- **[gut-thyroid-connection]** — bidirectional; gut dysfunction worsens thyroid issues, and vice versa\n- **Food sensitivities** — gluten, dairy, FODMAPs\n- **Low stomach acid** — extremely common in hypothyroidism\n- **Constipation**\n- **Hormonal shifts** — premenstrual bloating from progesterone, perimenopausal water retention\n- **Endometriosis and ovarian cysts**\n- **Celiac disease** and inflammatory bowel disease\n\nBloating that is purely positional or only after a particular food usually has a simpler explanation. Daily bloating warrants a deeper look.\n\n## When is bloating a red flag?\n\nSee a clinician promptly for bloating accompanied by unintentional weight loss, blood in the stool, persistent change in bowel habits, severe pain, vomiting, early satiety in someone over 50, or a family history of ovarian or colon cancer. Persistent abdominal distension that doesn't fluctuate is also worth evaluating. Most bloating is benign and very treatable, but these features deserve quick workup.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, persistent bloating prompts a workup that includes a full thyroid panel, celiac screening, food sensitivity assessment, and often SIBO breath testing or stool analysis. When [hypothyroidism] is contributing, optimizing thyroid hormone restores motility and relieves bloating over weeks. Treating SIBO, removing trigger foods, supporting stomach acid, repairing the gut lining, and using **[probiotics]** strategically all play roles. Magnesium, fiber adjustments, and meal spacing also help. Bloating that has lasted years usually responds when the right combination of thyroid and gut work is applied — patience matters, but so does a real plan.",
+  "commonQuestions": [
+    {
+      "q": "Why does my thyroid affect bloating?",
+      "a": "Thyroid hormone regulates the speed of every system in your body — including the muscles of your GI tract. When thyroid hormone is low, food moves more slowly through the stomach and intestines, allowing bacterial fermentation, gas production, and constipation. Hypothyroidism also lowers stomach acid, impairs digestion, and predisposes to SIBO. The bloating is real and physical, not in your head. Optimizing thyroid hormone is one of the highest-yield steps for relieving thyroid-driven bloating."
+    },
+    {
+      "q": "Is this SIBO or just bloating?",
+      "a": "True SIBO usually presents as bloating that worsens through the day, peaks after meals (especially carbs and sugars), and is accompanied by gas, alternating bowel habits, and sometimes brain fog. Random occasional bloating after a heavy meal is not SIBO. The distinguishing test is a hydrogen-methane breath test, which we order routinely when the symptom pattern fits. SIBO is also strongly linked to hypothyroidism, so the two should be evaluated together rather than separately."
+    },
+    {
+      "q": "What dietary changes help most?",
+      "a": "It depends on the root cause. For SIBO, a temporary low-FODMAP approach combined with antimicrobials can dramatically reduce symptoms. For autoimmune thyroid disease, a gluten-free trial often helps. For hormonal bloating, reducing salt and refined carbs in the luteal phase makes a difference. Across the board, supporting stomach acid, eating mindfully, spacing meals, hydrating, and adding magnesium go a long way. Restrictive diets aren't a long-term answer — fixing the underlying issue is."
+    }
+  ],
+  "keySymptoms": [
+    "Abdominal distension",
+    "Post-meal fullness",
+    "Visible belly swelling by evening",
+    "Excess gas",
+    "Tight clothing waistlines",
+    "Constipation or alternating stools",
+    "Gurgling or rumbling",
+    "Discomfort with carbs or sugars"
+  ],
+  "seoTitle": "Bloating: Thyroid, Gut & Hormonal Causes | Modern Thyroid Clinic",
+  "seoDescription": "Bloating in women often signals thyroid slowdown, SIBO, or hormonal imbalance. Learn root-causes, labs, and treatment options."
+}

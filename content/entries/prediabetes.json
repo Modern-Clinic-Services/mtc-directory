@@ -1,0 +1,32 @@
+{
+  "slug": "prediabetes",
+  "shortDefinition": "Prediabetes — also called impaired fasting glucose or impaired glucose tolerance — is a state of higher-than-normal blood sugar that precedes type 2 diabetes.",
+  "fullDefinition": "## What is prediabetes?\n\nPrediabetes — sometimes labeled **impaired fasting glucose** or **impaired glucose tolerance** — is a metabolic state in which blood sugar is consistently higher than normal but not yet high enough to be classified as [type-2-diabetes]. Roughly one in three adults in the United States has prediabetes, and the majority do not know it. Without intervention, prediabetes progresses to type 2 diabetes within five to ten years for many people. With the right changes, that trajectory is highly reversible.\n\nUnderlying prediabetes is the same engine that drives full diabetes: [insulin-resistance]. The pancreas is still producing enough insulin to keep glucose mostly under control, but the cells are responding sluggishly, and that compensation is slowly failing.\n\n## What causes prediabetes?\n\nPrediabetes develops from the same accumulated factors that produce insulin resistance:\n\n- **Genetics and family history of type 2 diabetes**\n- **Excess visceral fat**\n- **Diets centered on refined carbohydrates and sugary drinks**\n- **Sedentary lifestyle and low muscle mass**\n- **Chronic stress and poor sleep**\n- **History of gestational diabetes or PCOS**\n- **Hormonal transitions** — perimenopause and menopause can unmask prediabetes\n- **Certain medications**\n\n## How is prediabetes diagnosed?\n\nPrediabetes is defined by lab cutoffs:\n\n- **HbA1c** between 5.7% and 6.4% (see [hba1c])\n- **Fasting glucose** between 100 and 125 mg/dL\n- **Oral glucose tolerance test** between 140 and 199 mg/dL at 2 hours\n\nA full workup at MTC also includes [fasting-insulin], a lipid panel, and a thyroid panel. Fasting insulin is especially useful — it often reveals significant insulin resistance long before A1c climbs into the prediabetic range, giving you an even earlier window to intervene.\n\n## How is prediabetes treated?\n\nThe foundation is lifestyle, and the results can be remarkable:\n\n- **Nutrition** — protein and fiber at every meal, fewer refined carbs and sweetened drinks\n- **Strength training** — building muscle is one of the most powerful tools for blood sugar\n- **Daily movement**, particularly walks after meals\n- **Sleep** — even one short night spikes insulin resistance\n- **Stress and cortisol management**\n- **Weight loss** of 5–10% of body weight, when relevant, dramatically lowers progression risk\n\nFor higher-risk patients, [metformin] or other medications may be added. At Modern Thyroid Clinic, prediabetes is treated as an early warning that the metabolic system needs attention now — not later, when reversal is harder. Catching this stage is one of the best opportunities in adult medicine to change a long-term trajectory.",
+  "commonQuestions": [
+    {
+      "q": "Will prediabetes always become diabetes?",
+      "a": "Not at all — and this is the good news. Without changes, roughly 70 percent of people with prediabetes will eventually develop type 2 diabetes, but the progression is highly modifiable. Studies show that a 5 to 10 percent loss of body weight, combined with regular exercise and dietary improvements, can reduce progression risk by more than half. Even people who do not lose weight see meaningful benefits from building muscle and changing meal composition. Prediabetes is one of the most reversible diagnoses in medicine when addressed early."
+    },
+    {
+      "q": "Are there any symptoms of prediabetes?",
+      "a": "Often none — which is why so many cases are missed. Some people notice subtle clues: fatigue after carb-heavy meals, mid-afternoon energy crashes, increasing belly fat, sugar cravings, brain fog, or slow-healing cuts. But many feel completely fine. This is why labs matter, particularly if you have any risk factors — family history, PCOS, gestational diabetes, perimenopause, or a sedentary lifestyle. Asking for an A1c and fasting insulin at your annual visit is one of the highest-value screening moves you can make."
+    },
+    {
+      "q": "Should I take metformin for prediabetes?",
+      "a": "Sometimes. Metformin is approved for type 2 diabetes and is used off-label for prediabetes, especially in higher-risk patients — those with significant obesity, a history of gestational diabetes, PCOS, or A1c trending upward despite lifestyle work. For lower-risk patients, lifestyle change alone is often enough. The decision is individual and worth discussing with a clinician who can weigh your full picture, including thyroid, hormones, and other medications. Metformin is not a substitute for the foundational work, but it can be a helpful addition."
+    }
+  ],
+  "keySymptoms": [
+    "Often no symptoms",
+    "Fatigue after meals",
+    "Sugar or carbohydrate cravings",
+    "Increasing belly fat",
+    "Mid-afternoon energy crashes",
+    "Brain fog",
+    "Skin tags",
+    "Dark patches on the skin (acanthosis nigricans)",
+    "Slow-healing cuts"
+  ],
+  "seoTitle": "Prediabetes: Symptoms, Diagnosis & Reversal | Modern Thyroid Clinic",
+  "seoDescription": "Prediabetes is high blood sugar before diabetes — and highly reversible. Learn the labs, symptoms, and what actually works to turn it around."
+}

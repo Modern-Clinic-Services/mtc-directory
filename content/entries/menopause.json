@@ -1,0 +1,34 @@
+{
+  "slug": "menopause",
+  "shortDefinition": "Menopause — and the post-menopause years that follow — is the life stage marking twelve consecutive months without a period and a permanent decline in ovarian hormones.",
+  "fullDefinition": "## What is menopause?\n\nMenopause is the single point in time defined as **twelve consecutive months without a menstrual period**. Everything before that is [perimenopause]; everything after is **post-menopause**. The average age in the United States is 51, but the normal range spans roughly 45 to 55. After menopause, the ovaries make only a small fraction of the estrogen, progesterone, and testosterone they once produced, and the body settles into a new hormonal baseline that lasts the rest of life.\n\nMenopause is not a disease — it is a normal life stage — but the symptoms can be significant, and the long-term effects of low estrogen on bone, brain, heart, and metabolism are real and worth addressing. Modern care has moved well beyond the old advice to \"just push through.\"\n\n## What changes at menopause?\n\nThe decline of ovarian hormones affects nearly every system:\n\n- **Vasomotor symptoms** — hot flashes, night sweats\n- **Sleep** — fragmented, lighter, less restorative\n- **Mood and cognition** — anxiety, low mood, brain fog\n- **Genitourinary** — vaginal dryness, painful intercourse, recurrent UTIs, urinary urgency\n- **Bone** — accelerated bone loss, increased fracture risk\n- **Cardiovascular** — rising LDL, blood pressure, and cardiovascular risk\n- **Metabolism** — increased visceral fat, [insulin-resistance], and risk of [metabolic-syndrome]\n- **Skin and hair** — thinning, dryness, hair loss\n- **Libido** — typically lower\n\n## How is menopause diagnosed?\n\nMenopause is largely a **clinical diagnosis** — twelve months without a period in a woman of typical age. Lab testing is not required to confirm menopause itself, though it can be useful when periods stop early (under 45) or unusually late, or when a hysterectomy has removed the cycle as a marker. Helpful labs in those situations include:\n\n- **FSH** — typically elevated in menopause\n- **[estradiol]** — typically low\n- **Comprehensive thyroid panel** — thyroid disease often emerges around menopause\n- **Metabolic panel** — fasting insulin, A1c, lipids\n- **Bone density screening (DEXA)**\n\n## How is menopause treated?\n\nTreatment is individualized to symptoms, risk profile, and personal preference. Options include:\n\n- **[hormone-replacement-therapy]** — estradiol with progesterone (bioidentical or otherwise) for women who still have a uterus\n- **Vaginal estrogen** — low-dose, locally delivered, for genitourinary symptoms; often appropriate even when systemic HRT is not\n- **Testosterone** in selected cases for libido, energy, and muscle mass\n- **Non-hormonal medications** for hot flashes when HRT is not chosen\n- **Lifestyle foundations** — strength training (essential for bone and metabolism), protein, sleep, stress\n- **Treatment of overlapping thyroid, metabolic, or mood issues**\n\nAt Modern Thyroid Clinic, menopause is treated as the major hormonal transition it is. Bioidentical hormone therapy, when appropriate, can dramatically improve symptoms and protect long-term bone, brain, and cardiovascular health. The decision should be made with a clinician who knows current evidence — not the outdated fears of twenty years ago.",
+  "commonQuestions": [
+    {
+      "q": "Is hormone replacement therapy safe?",
+      "a": "Modern evidence strongly supports that for most women starting hormone therapy within ten years of menopause and under age 60, the benefits — symptom relief, bone protection, possible cardiovascular and cognitive benefit — outweigh the risks. The fears from the original Women's Health Initiative study have been largely revised; that study used older synthetic hormones in older women. Bioidentical estradiol with bioidentical progesterone has a different and more favorable profile. Personal history (breast cancer, blood clots, certain cancers) still matters. The decision should be made with a clinician familiar with current evidence."
+    },
+    {
+      "q": "How long do menopause symptoms last?",
+      "a": "It varies enormously. Hot flashes and night sweats average seven to ten years for many women, though some have them for only a year or two and others continue for decades. Vaginal and urinary symptoms tend to worsen over time without treatment. Sleep, mood, and cognitive symptoms often improve as the body adjusts to the new baseline, particularly with hormone support. Genitourinary symptoms respond very well to local vaginal estrogen even years into menopause. There is no need to suffer through symptoms — treatment options exist for nearly all of them."
+    },
+    {
+      "q": "Will I gain weight in menopause?",
+      "a": "Most women gain some weight in this window, but the cause is more nuanced than \"menopause makes you gain weight.\" Falling estrogen shifts fat storage to the abdomen, accelerates muscle loss if not actively countered, and worsens insulin resistance. Sleep disruption and mood changes affect appetite and movement. The combination is what drives the weight gain — not menopause alone. The most effective response is strength training, protein-forward nutrition, sleep, stress management, and appropriate hormone support. Many women maintain or improve their body composition through this transition with the right plan."
+    }
+  ],
+  "keySymptoms": [
+    "Hot flashes and night sweats",
+    "Sleep disruption",
+    "Vaginal dryness and painful intercourse",
+    "Recurrent urinary tract infections",
+    "Brain fog and memory changes",
+    "Mood changes, anxiety, or low mood",
+    "Joint aches",
+    "Weight gain around the midsection",
+    "Hair thinning",
+    "Decreased libido",
+    "Skin dryness"
+  ],
+  "seoTitle": "Menopause: Symptoms, Hormone Therapy & Long-Term Care",
+  "seoDescription": "Menopause is a normal life stage with real symptoms and long-term implications. Learn modern treatment options including bioidentical hormone therapy."
+}

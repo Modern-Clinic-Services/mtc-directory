@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "slug": "condition",
+      "name": "Condition",
+      "plural": "Conditions",
+      "description": "Diagnosable diseases and disorders affecting the thyroid, hormones, metabolism, or endocrine system.",
+      "icon": "stethoscope"
+    },
+    {
+      "slug": "symptom",
+      "name": "Symptom",
+      "plural": "Symptoms",
+      "description": "Physical, cognitive, and emotional signs that patients experience — often the first clue that a hormonal issue is present.",
+      "icon": "heart-pulse"
+    },
+    {
+      "slug": "medication",
+      "name": "Medication",
+      "plural": "Medications",
+      "description": "Prescription medicines used to treat thyroid, hormone, metabolic, and weight-related conditions.",
+      "icon": "pill"
+    },
+    {
+      "slug": "supplement",
+      "name": "Supplement",
+      "plural": "Supplements",
+      "description": "Nutrients, botanicals, and functional-medicine staples commonly used to support thyroid and hormone health.",
+      "icon": "leaf"
+    },
+    {
+      "slug": "lab",
+      "name": "Lab or Test",
+      "plural": "Labs & Tests",
+      "description": "Diagnostic lab panels, imaging, and functional tests used to evaluate thyroid and hormonal function.",
+      "icon": "flask"
+    },
+    {
+      "slug": "procedure",
+      "name": "Procedure",
+      "plural": "Procedures",
+      "description": "Clinical procedures and interventions — from biopsies to surgery — used in thyroid and endocrine care.",
+      "icon": "activity"
+    },
+    {
+      "slug": "concept",
+      "name": "Concept",
+      "plural": "Concepts",
+      "description": "Key clinical and functional-medicine concepts that help patients understand how their body and care plan work.",
+      "icon": "book-open"
+    }
+  ],
+  "seoDefaults": {
+    "siteTitle": "Modern Thyroid Clinic",
+    "siteDomain": "modernthyroidclinic.com",
+    "directoryBase": "/directory",
+    "titleTemplate": "{term} — Definition, Symptoms & Treatment | Modern Thyroid Clinic",
+    "disclaimer": "This content is for educational purposes only and is not medical advice. Always consult a licensed clinician for diagnosis and treatment. Content on this page does not create a doctor-patient relationship with Modern Thyroid Clinic."
+  }
+}

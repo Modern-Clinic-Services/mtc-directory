@@ -1,0 +1,32 @@
+{
+  "slug": "metabolic-syndrome",
+  "shortDefinition": "Metabolic syndrome — also called Syndrome X or insulin resistance syndrome — is a cluster of risk factors that together raise the risk of diabetes and heart disease.",
+  "fullDefinition": "## What is metabolic syndrome?\n\nMetabolic syndrome — historically called **Syndrome X** or **insulin resistance syndrome** — is not a single disease but a cluster of related metabolic risk factors that, when present together, dramatically increase the risk of [type-2-diabetes], cardiovascular disease, and stroke. The defining components are central obesity, elevated blood sugar, high blood pressure, elevated triglycerides, and low HDL cholesterol. The common thread underneath all of them is [insulin-resistance].\n\nMetabolic syndrome affects roughly one in three U.S. adults, and rates rise sharply during perimenopause as estrogen drops and visceral fat accumulates. It is one of the most actionable conditions in modern medicine — every component is modifiable.\n\n## What causes metabolic syndrome?\n\nThe roots are the same forces that drive insulin resistance:\n\n- **Excess visceral fat** (the metabolically active fat around organs)\n- **Diets centered on refined carbs and ultra-processed foods**\n- **Inactivity and low muscle mass**\n- **Chronic stress and elevated cortisol**\n- **Poor sleep and disrupted circadian rhythm**\n- **Hormonal transitions** — particularly [perimenopause] and [menopause]\n- **Genetics and family history**\n- **Certain medications**\n\n## How is metabolic syndrome diagnosed?\n\nMetabolic syndrome is diagnosed when **three or more** of the following are present:\n\n1. **Waist circumference** ≥35 inches (women) or ≥40 inches (men)\n2. **Triglycerides** ≥150 mg/dL\n3. **HDL cholesterol** <50 mg/dL (women) or <40 mg/dL (men)\n4. **Blood pressure** ≥130/85 mmHg\n5. **Fasting glucose** ≥100 mg/dL\n\nA thorough workup at MTC also includes [fasting-insulin], [hba1c], a complete [lipid-panel], hs-CRP for inflammation, and thyroid labs. These give a fuller picture of metabolic health than the basic five criteria alone.\n\n## How is metabolic syndrome treated?\n\nBecause every component is downstream of insulin resistance, treatment focuses on the upstream driver. Foundational steps:\n\n- **Nutrition** — emphasize protein, fiber, and whole foods; reduce refined carbs and added sugars\n- **Strength training** to build glucose-burning muscle\n- **Daily movement**, especially after meals\n- **Sleep** — seven to nine quality hours\n- **Stress management** — chronic cortisol drives visceral fat\n- **Reduced alcohol intake**\n\nMedications such as [metformin], statins, blood pressure agents, or [glp-1-agonists] may be appropriate for higher-risk patients. At Modern Thyroid Clinic, metabolic syndrome is addressed alongside hormones and thyroid because the systems are deeply linked — particularly during perimenopause, when the metabolic ground shifts. Reversing metabolic syndrome can take many of the most common midlife symptoms with it.",
+  "commonQuestions": [
+    {
+      "q": "Can metabolic syndrome be reversed?",
+      "a": "Yes — and often more quickly than people expect. Because every component is driven by insulin resistance and visceral fat, addressing those upstream issues moves all the markers at once. Many patients see triglycerides drop, HDL rise, blood pressure normalize, fasting glucose improve, and waist circumference shrink within three to six months of consistent change. Strength training, dietary shifts, sleep, and stress work are the foundation. For some, GLP-1 medications or metformin accelerate the process. Reversal is the rule, not the exception, when the work is done."
+    },
+    {
+      "q": "How is metabolic syndrome connected to perimenopause?",
+      "a": "Tightly. As estrogen declines through perimenopause and into menopause, women lose some of estrogen's protective effects on insulin sensitivity, lipids, and fat distribution. Visceral fat increases, blood pressure trends up, lipids worsen, and insulin resistance accelerates — even in women who did not have metabolic issues before. This is why so many women are diagnosed with metabolic syndrome between 45 and 60. Addressing both the metabolic and the hormonal sides simultaneously — sometimes including hormone therapy when appropriate — produces the best results."
+    },
+    {
+      "q": "Do I need medication for metabolic syndrome?",
+      "a": "It depends on severity, risk factors, and how each component responds to lifestyle work. Many people resolve metabolic syndrome with diet, exercise, sleep, and stress changes alone. Others — particularly those with strong family history, very elevated lipids, established cardiovascular disease, or significant insulin resistance — benefit from targeted medications: a statin, blood pressure medication, metformin, or a GLP-1. The decision is best made with a clinician who can weigh your full risk picture and adjust as your labs improve."
+    }
+  ],
+  "keySymptoms": [
+    "Increasing waist circumference",
+    "Fatigue",
+    "Sugar and carbohydrate cravings",
+    "Elevated blood pressure readings",
+    "High triglycerides on labs",
+    "Low HDL on labs",
+    "Skin tags",
+    "Dark velvety patches on skin (acanthosis nigricans)",
+    "Brain fog after meals"
+  ],
+  "seoTitle": "Metabolic Syndrome: Criteria, Causes & How to Reverse It",
+  "seoDescription": "Metabolic syndrome is a cluster of risk factors driven by insulin resistance. Learn the criteria, the labs, and how to reverse it."
+}

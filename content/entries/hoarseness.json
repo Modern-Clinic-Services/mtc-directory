@@ -1,0 +1,30 @@
+{
+  "slug": "hoarseness",
+  "shortDefinition": "Hoarseness is a raspy, breathy, or strained voice that can signal thyroid enlargement, hypothyroidism, or pressure on vocal cord nerves.",
+  "fullDefinition": "## What is hoarseness?\n\nHoarseness — also called **raspy voice** or **voice changes** — is any persistent change in the quality, pitch, or volume of your voice. It can sound rough, breathy, weak, strained, or lower-pitched than usual. Most people experience temporary hoarseness from a cold or overuse, and that resolves within a couple of weeks. Hoarseness that lasts longer than two to three weeks deserves a closer look.\n\nFor women, especially those over 40, persistent hoarseness can be one of the first physical clues of a thyroid problem.\n\n## What conditions cause hoarseness?\n\nSeveral thyroid-related conditions affect the voice:\n\n- **[hypothyroidism]** — low thyroid hormone causes vocal cord thickening (myxedematous changes) and a deeper, gravelly voice\n- **[goiter]** — an enlarged thyroid can press on the larynx or recurrent laryngeal nerve\n- **[thyroid-nodules]** — large or strategically located nodules can compress nearby structures and alter the voice\n- **Thyroid surgery** — the recurrent laryngeal nerve runs alongside the thyroid and can be temporarily or permanently affected\n\nNon-thyroid causes are also common:\n\n- **Acid reflux (LPR)** — irritates the vocal cords, often without classic heartburn\n- **Vocal cord nodules or polyps** — common in singers, teachers, and heavy voice users\n- **Postnasal drip and chronic sinusitis**\n- **Smoking and dry environments**\n- **Hormonal shifts** — perimenopause and menopause can cause subtle voice changes\n- **Neurological conditions** affecting the vocal cords\n\n## When is hoarseness a red flag?\n\nHoarseness lasting more than 2-3 weeks always deserves evaluation, especially in anyone who smokes or has smoked. Red flags include hoarseness paired with neck swelling or a palpable lump, [difficulty-swallowing], shortness of breath, a sensation of something stuck in the throat, ear pain, or unintentional weight loss. New hoarseness after thyroid surgery should be reported to your surgeon. Sudden voice loss after neck trauma is a same-day concern.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, persistent hoarseness prompts a thyroid-focused workup: physical exam of the neck, full thyroid panel, and thyroid ultrasound when warranted. If a goiter or nodule is compressing nearby structures, imaging clarifies whether intervention is needed. When [hypothyroidism] is the cause, treatment with **[levothyroxine]** often restores voice quality within weeks. Reflux-related hoarseness improves with dietary changes and acid management. Voice rest, hydration, and referral to ENT or speech therapy can be added when appropriate. Most causes of hoarseness are highly treatable once correctly identified.",
+  "commonQuestions": [
+    {
+      "q": "How long is too long to be hoarse?",
+      "a": "More than two to three weeks of persistent hoarseness warrants medical evaluation, even if you feel otherwise fine. A short bout from a cold or cheering at a concert is normal, but ongoing voice changes can signal vocal cord issues, reflux, thyroid disease, or — less commonly — something more serious. The threshold is even lower if you smoke or used to smoke, in which case any persistent hoarseness should be evaluated promptly with a laryngeal exam."
+    },
+    {
+      "q": "Can a thyroid nodule cause my voice to change?",
+      "a": "Yes. Thyroid nodules can affect the voice in two ways: by physically compressing the larynx or trachea when they grow large, or by pressing on the recurrent laryngeal nerve, which controls vocal cord movement. Most thyroid nodules are benign and don't change the voice, but new hoarseness in someone with a known nodule is worth investigating with ultrasound and, if indicated, a laryngeal exam. We address this thoroughly in workups at Modern Thyroid Clinic."
+    },
+    {
+      "q": "Will my voice come back after thyroid treatment?",
+      "a": "When hoarseness is caused by hypothyroidism, the voice typically returns to normal within weeks to a few months of starting thyroid hormone replacement. If a goiter is the culprit, voice often improves once the gland shrinks with treatment. In cases involving the recurrent laryngeal nerve after surgery, recovery depends on whether the nerve was bruised or damaged — many cases resolve over six months, while some require speech therapy or further intervention."
+    }
+  ],
+  "keySymptoms": [
+    "Raspy or rough voice",
+    "Breathy or weak voice",
+    "Lower-pitched voice than usual",
+    "Voice fatigue with talking",
+    "Throat clearing",
+    "Sensation of lump in throat",
+    "Loss of singing range"
+  ],
+  "seoTitle": "Hoarseness: Thyroid Causes of Voice Changes | Modern Thyroid Clinic",
+  "seoDescription": "Persistent hoarseness can signal thyroid disease, goiter, or nodules. Learn causes, red flags, and when to seek evaluation."
+}

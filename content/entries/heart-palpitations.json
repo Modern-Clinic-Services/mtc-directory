@@ -1,0 +1,31 @@
+{
+  "slug": "heart-palpitations",
+  "shortDefinition": "Heart palpitations are an awareness of fluttering, pounding, or skipped heartbeats — often driven by thyroid imbalance, perimenopause, or anxiety.",
+  "fullDefinition": "## What are heart palpitations?\n\nHeart palpitations — also described as a **fluttering heart** or **pounding heart** — are an unsettling awareness of your own heartbeat. You may feel skipped beats, a racing rhythm, a hard thud in your chest, or a fluttering sensation in your throat or neck. They can last seconds or minutes, happen at rest or with activity, and often surprise women in the middle of the night or while lying down.\n\nMost palpitations are not dangerous — but they should not be dismissed, especially when they are new, frequent, or paired with other symptoms. In women in their 30s, 40s, and 50s, palpitations are very commonly hormonal: a thyroid that is running hot, perimenopausal estrogen swings, or cortisol dysregulation.\n\n## What hormonal conditions cause heart palpitations?\n\nIn women, the most common hormonal drivers are:\n\n- **[hyperthyroidism]** — Excess thyroid hormone increases heart rate and the force of contraction; palpitations are a hallmark.\n- **[graves-disease]** — Autoimmune hyperthyroidism; often presents with palpitations, weight loss, and tremor.\n- **[subclinical-hyperthyroidism]** — Even mildly low TSH can produce palpitations, particularly in older women.\n- **Thyroid hormone over-replacement** — Too much levothyroxine, T3, or NDT can mimic hyperthyroidism.\n- **[perimenopause]** and **[menopause]** — Estrogen fluctuations directly affect autonomic tone; palpitations often accompany hot flashes and night sweats.\n- **Adrenal and HPA axis dysregulation** — Chronic stress and cortisol changes drive sympathetic overactivity.\n- **Iron deficiency / low [ferritin]** — Anemia produces compensatory tachycardia and palpitations.\n- **Caffeine, alcohol, dehydration, and certain medications** — Common amplifiers.\n\n## When is it a red flag?\n\nSeek emergency care for palpitations with chest pain or pressure, shortness of breath, fainting or near-fainting, or new severe weakness. Persistent fast heart rate, palpitations lasting more than a few minutes, or an irregular rhythm in someone with risk factors for atrial fibrillation deserves prompt cardiac evaluation. Palpitations alongside hyperthyroid symptoms — heat intolerance, weight loss, tremor, anxiety — warrant a thyroid panel without delay. Most other palpitations can be evaluated electively, but they should still be evaluated.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we approach hormonal palpitations with full testing: a complete thyroid panel (TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies, and TSI/TRAb if hyperthyroidism is suspected), FSH and estradiol if perimenopause is on the table, ferritin and full iron studies, electrolytes, and morning cortisol. Cardiac evaluation — EKG and sometimes monitoring — rules out primary rhythm issues. Treatment depends on cause: addressing hyperthyroidism, optimizing thyroid replacement dose, treating perimenopausal symptoms (sometimes with bioidentical hormones), correcting iron deficiency, and reducing caffeine and alcohol. Most women feel significantly steadier once the underlying driver is named.",
+  "commonQuestions": [
+    {
+      "q": "Why do I get palpitations right before bed or in the middle of the night?",
+      "a": "Lying down increases venous return and parasympathetic tone, which makes you more aware of your own heartbeat — even normal beats can feel pounding. But nighttime palpitations are also common in perimenopause (hormone fluctuations spike around 3-4am), in hyperthyroidism (which doesn't take a break overnight), and with low blood sugar or dehydration. If they happen most nights, are new, or wake you from sleep, please get a thyroid panel and discuss with your clinician."
+    },
+    {
+      "q": "Could my levothyroxine dose be giving me palpitations?",
+      "a": "Yes — over-replacement is one of the most common causes of palpitations in women on thyroid medication. Even within the 'normal' range, a TSH suppressed near zero or a high Free T4/Free T3 can cause palpitations, anxiety, insomnia, and bone loss over time. If you started a new dose or brand and palpitations followed, that timing matters. At Modern Thyroid Clinic we adjust based on full thyroid labs and how patients actually feel — not TSH alone — and we take palpitations seriously as a dosing signal."
+    },
+    {
+      "q": "When should I worry about palpitations?",
+      "a": "Most palpitations are benign, but go to the emergency department for palpitations with chest pain, shortness of breath, fainting, or severe weakness. See your clinician promptly for new persistent fast or irregular heart rate, palpitations lasting many minutes, palpitations with hyperthyroid symptoms (heat intolerance, weight loss, tremor), or palpitations interfering with daily life or sleep. A workup typically includes EKG, a thyroid panel, and basic labs — and often resolves the worry quickly."
+    }
+  ],
+  "keySymptoms": [
+    "Sensation of skipped or extra beats",
+    "Fluttering feeling in the chest or throat",
+    "Pounding or forceful heartbeat",
+    "Racing heart at rest",
+    "Awareness of heartbeat lying in bed",
+    "Palpitations triggered by caffeine, alcohol, or stress",
+    "Brief episodes lasting seconds to minutes",
+    "Episodes accompanied by anxiety or lightheadedness"
+  ],
+  "seoTitle": "Heart Palpitations in Women: Hormonal Causes | Modern Thyroid Clinic",
+  "seoDescription": "Heart palpitations in women are often driven by thyroid imbalance, perimenopause, or low iron. Learn root causes and when to seek evaluation."
+}

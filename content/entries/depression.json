@@ -1,0 +1,33 @@
+{
+  "slug": "depression",
+  "shortDefinition": "Depression is persistent low mood, loss of interest, and reduced energy. In women, thyroid disease and hormone shifts are common, treatable contributors.",
+  "fullDefinition": "## What is depression?\n\nDepression — sometimes called **low mood** or **hormonal depression** when biology is the driver — is more than a bad week. It's a persistent state of low mood, loss of pleasure or interest in activities you used to enjoy, fatigue, changes in sleep and appetite, difficulty concentrating, feelings of worthlessness, and sometimes thoughts of death or self-harm. To meet clinical criteria, symptoms typically last at least two weeks and meaningfully affect daily life.\n\nAt Modern Thyroid Clinic, we view depression as a symptom that deserves a full physiologic workup, not just a referral to medication. Many women with depression have undiagnosed or undertreated thyroid disease, perimenopausal hormone shifts, low vitamin D, or low B12 — biological contributors that, when treated, can dramatically improve mood. Therapy and psychiatric care remain essential; biology is the layer often missed.\n\n## What hormonal conditions cause depression?\n\nThe most common hormonal and medical drivers in women include:\n\n- **[hypothyroidism]** — Low thyroid hormone slows neurotransmitter function and brain energy metabolism; depression is one of the most reliable hypothyroid symptoms.\n- **[hashimotos-thyroiditis]** — The leading cause of hypothyroidism in women; depression often precedes diagnosis by years.\n- **[perimenopause]** and **[menopause]** — Falling and fluctuating estradiol disrupts serotonin and dopamine pathways; new-onset depression in the 40s is common.\n- **Postpartum thyroiditis** — Often misdiagnosed as postpartum depression; thyroid testing is essential in the first year after birth.\n- **[adrenal-fatigue]** / HPA axis dysregulation — Chronic cortisol changes blunt mood and motivation.\n- **Vitamin D deficiency** — A widely-replicated link with depression, especially seasonal patterns.\n- **B12, folate, and iron deficiencies** — Reversible nutrient contributors to depressive symptoms.\n- **Inflammation and gut dysbiosis** — Increasingly recognized contributors via the gut-brain axis.\n\n## When is it a red flag?\n\nDepression with thoughts of suicide or self-harm is a medical emergency — call or text 988 in the U.S. for the Suicide & Crisis Lifeline, or go to your nearest emergency department. Depression that begins suddenly with hyperthyroid symptoms (rare but possible), or with profound fatigue, cold intolerance, hair loss, and weight gain (suggesting hypothyroidism), warrants urgent thyroid evaluation. Postpartum depression in the first year after birth always deserves a thyroid panel because postpartum thyroiditis is often missed.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we work alongside therapists, psychiatrists, and primary care providers — not in place of them — by addressing the biological layer. Workup includes a complete thyroid panel (TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies), [vitamin-d], B12, folate, ferritin, morning cortisol, and FSH/estradiol when perimenopause is on the table. Treatment may layer thyroid optimization, hormone support in perimenopause and menopause, vitamin D and B12 repletion, anti-inflammatory and gut work, and lifestyle interventions. Many women see meaningful mood improvement when biological drivers are addressed alongside therapy and, when appropriate, antidepressant medication.",
+  "commonQuestions": [
+    {
+      "q": "Could my thyroid be causing my depression?",
+      "a": "Yes — and it's commonly missed. Hypothyroidism slows brain metabolism and reduces serotonin and dopamine activity, producing depression that often doesn't respond well to antidepressants alone. Many women with treatment-resistant depression have undertreated thyroid disease, low Free T3, or unrecognized Hashimoto's. A full thyroid panel — not just TSH — should be part of every depression workup. When thyroid is optimized, mood often improves significantly, sometimes enough to reduce or simplify other treatments."
+    },
+    {
+      "q": "Is depression in perimenopause different from regular depression?",
+      "a": "It can be. Perimenopausal depression often appears in women with no prior depression history, tends to be tied to hormone fluctuations (worse premenstrually, in the night, or during cycle changes), and may not respond to standard antidepressants the way classic depression does. Hormone evaluation and, where appropriate, bioidentical progesterone or hormone replacement can be transformative for some women. Therapy still matters — but biology may be doing more of the driving than you've been told."
+    },
+    {
+      "q": "What about postpartum mood — should my thyroid be tested?",
+      "a": "Yes, every time. Postpartum thyroiditis affects roughly 5-10% of women in the year after birth and produces symptoms that perfectly mimic postpartum depression — fatigue, low mood, weight changes, brain fog, anxiety. It's commonly missed because providers focus on mental health screening alone. A complete thyroid panel (TSH, Free T4, Free T3, TPO and thyroglobulin antibodies) should be part of any postpartum mood evaluation. Treating the thyroid often resolves the mood symptoms entirely."
+    }
+  ],
+  "keySymptoms": [
+    "Persistent low mood lasting weeks or longer",
+    "Loss of interest or pleasure in usual activities",
+    "Fatigue and low energy",
+    "Changes in sleep (too much or too little)",
+    "Changes in appetite or weight",
+    "Difficulty concentrating",
+    "Feelings of worthlessness or excessive guilt",
+    "Slowed thinking or movement",
+    "Tearfulness or emotional flatness",
+    "Thoughts of death or self-harm"
+  ],
+  "seoTitle": "Depression in Women: Thyroid & Hormonal Causes | Modern Thyroid Clinic",
+  "seoDescription": "Depression in women is often driven by undiagnosed thyroid disease or perimenopause. Learn the hormonal causes and how root-cause testing helps."
+}

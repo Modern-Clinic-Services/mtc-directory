@@ -1,0 +1,2018 @@
+{
+  "manifest": [
+    {
+      "slug": "hashimotos-thyroiditis",
+      "name": "Hashimoto's Thyroiditis",
+      "seedRelated": [
+        "hypothyroidism",
+        "tpo-antibodies",
+        "thyroglobulin-antibodies",
+        "gluten-and-thyroid",
+        "selenium",
+        "levothyroxine",
+        "leaky-gut"
+      ]
+    },
+    {
+      "slug": "hypothyroidism",
+      "name": "Hypothyroidism",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "subclinical-hypothyroidism",
+        "levothyroxine",
+        "natural-desiccated-thyroid",
+        "tsh",
+        "free-t4",
+        "fatigue"
+      ]
+    },
+    {
+      "slug": "hyperthyroidism",
+      "name": "Hyperthyroidism",
+      "seedRelated": [
+        "graves-disease",
+        "methimazole",
+        "radioactive-iodine-ablation",
+        "thyroid-storm",
+        "beta-blockers",
+        "tsh"
+      ]
+    },
+    {
+      "slug": "graves-disease",
+      "name": "Graves' Disease",
+      "seedRelated": [
+        "hyperthyroidism",
+        "tsi",
+        "trab",
+        "thyroid-eye-disease",
+        "methimazole",
+        "radioactive-iodine-ablation"
+      ]
+    },
+    {
+      "slug": "thyroid-nodules",
+      "name": "Thyroid Nodules",
+      "seedRelated": [
+        "goiter",
+        "thyroid-ultrasound",
+        "fine-needle-aspiration",
+        "thyroid-cancer",
+        "multinodular-goiter"
+      ]
+    },
+    {
+      "slug": "goiter",
+      "name": "Goiter",
+      "seedRelated": [
+        "thyroid-nodules",
+        "iodine-deficiency",
+        "multinodular-goiter",
+        "hashimotos-thyroiditis",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "multinodular-goiter",
+      "name": "Multinodular Goiter",
+      "seedRelated": [
+        "goiter",
+        "thyroid-nodules",
+        "thyroid-ultrasound",
+        "fine-needle-aspiration"
+      ]
+    },
+    {
+      "slug": "thyroid-cancer",
+      "name": "Thyroid Cancer",
+      "seedRelated": [
+        "thyroid-nodules",
+        "thyroidectomy",
+        "fine-needle-aspiration",
+        "thyroid-ultrasound",
+        "radioactive-iodine-ablation"
+      ]
+    },
+    {
+      "slug": "thyroiditis",
+      "name": "Thyroiditis",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "postpartum-thyroiditis",
+        "subacute-thyroiditis",
+        "silent-thyroiditis"
+      ]
+    },
+    {
+      "slug": "postpartum-thyroiditis",
+      "name": "Postpartum Thyroiditis",
+      "seedRelated": [
+        "thyroiditis",
+        "hashimotos-thyroiditis",
+        "hypothyroidism",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "subacute-thyroiditis",
+      "name": "Subacute Thyroiditis",
+      "seedRelated": [
+        "thyroiditis",
+        "silent-thyroiditis",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "silent-thyroiditis",
+      "name": "Silent Thyroiditis",
+      "seedRelated": [
+        "thyroiditis",
+        "postpartum-thyroiditis",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "subclinical-hypothyroidism",
+      "name": "Subclinical Hypothyroidism",
+      "seedRelated": [
+        "hypothyroidism",
+        "tsh",
+        "free-t4",
+        "functional-range-vs-reference-range"
+      ]
+    },
+    {
+      "slug": "subclinical-hyperthyroidism",
+      "name": "Subclinical Hyperthyroidism",
+      "seedRelated": [
+        "hyperthyroidism",
+        "tsh",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "thyroid-storm",
+      "name": "Thyroid Storm",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "methimazole",
+        "beta-blockers"
+      ]
+    },
+    {
+      "slug": "myxedema-coma",
+      "name": "Myxedema Coma",
+      "seedRelated": [
+        "hypothyroidism",
+        "levothyroxine"
+      ]
+    },
+    {
+      "slug": "euthyroid-sick-syndrome",
+      "name": "Euthyroid Sick Syndrome",
+      "seedRelated": [
+        "reverse-t3",
+        "free-t3",
+        "t4-to-t3-conversion"
+      ]
+    },
+    {
+      "slug": "congenital-hypothyroidism",
+      "name": "Congenital Hypothyroidism",
+      "seedRelated": [
+        "hypothyroidism",
+        "levothyroxine"
+      ]
+    },
+    {
+      "slug": "thyroid-eye-disease",
+      "name": "Thyroid Eye Disease",
+      "seedRelated": [
+        "graves-disease",
+        "exophthalmos",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "thyroid-hormone-resistance",
+      "name": "Thyroid Hormone Resistance",
+      "seedRelated": [
+        "tsh",
+        "free-t4",
+        "free-t3"
+      ]
+    },
+    {
+      "slug": "iodine-deficiency",
+      "name": "Iodine Deficiency",
+      "seedRelated": [
+        "iodine-supplement",
+        "goiter",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "hashitoxicosis",
+      "name": "Hashitoxicosis",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "hyperthyroidism",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "polycystic-ovary-syndrome",
+      "name": "Polycystic Ovary Syndrome (PCOS)",
+      "seedRelated": [
+        "insulin-resistance",
+        "hirsutism-symptom",
+        "myo-inositol",
+        "metformin",
+        "irregular-periods",
+        "acne-hormonal"
+      ]
+    },
+    {
+      "slug": "insulin-resistance",
+      "name": "Insulin Resistance",
+      "seedRelated": [
+        "prediabetes",
+        "polycystic-ovary-syndrome",
+        "metabolic-syndrome",
+        "fasting-insulin",
+        "hba1c",
+        "berberine",
+        "metformin"
+      ]
+    },
+    {
+      "slug": "type-2-diabetes",
+      "name": "Type 2 Diabetes",
+      "seedRelated": [
+        "insulin-resistance",
+        "prediabetes",
+        "hba1c",
+        "metformin",
+        "glp-1-agonists"
+      ]
+    },
+    {
+      "slug": "prediabetes",
+      "name": "Prediabetes",
+      "seedRelated": [
+        "insulin-resistance",
+        "type-2-diabetes",
+        "hba1c",
+        "fasting-glucose"
+      ]
+    },
+    {
+      "slug": "metabolic-syndrome",
+      "name": "Metabolic Syndrome",
+      "seedRelated": [
+        "insulin-resistance",
+        "dyslipidemia",
+        "prediabetes",
+        "lipid-panel"
+      ]
+    },
+    {
+      "slug": "obesity",
+      "name": "Obesity",
+      "seedRelated": [
+        "insulin-resistance",
+        "glp-1-agonists",
+        "semaglutide",
+        "tirzepatide",
+        "metabolic-syndrome"
+      ]
+    },
+    {
+      "slug": "adrenal-insufficiency",
+      "name": "Adrenal Insufficiency",
+      "seedRelated": [
+        "cortisol-am",
+        "adrenal-fatigue",
+        "hpa-axis"
+      ]
+    },
+    {
+      "slug": "cushings-syndrome",
+      "name": "Cushing's Syndrome",
+      "seedRelated": [
+        "cortisol-am",
+        "hpa-axis",
+        "pituitary-adenoma"
+      ]
+    },
+    {
+      "slug": "adrenal-fatigue",
+      "name": "Adrenal Fatigue",
+      "seedRelated": [
+        "hpa-axis",
+        "cortisol-rhythm",
+        "cortisol-am",
+        "fatigue",
+        "ashwagandha"
+      ]
+    },
+    {
+      "slug": "perimenopause",
+      "name": "Perimenopause",
+      "seedRelated": [
+        "menopause",
+        "estrogen-dominance",
+        "hormone-replacement-therapy",
+        "hot-flashes",
+        "night-sweats",
+        "estradiol",
+        "progesterone-bioidentical"
+      ]
+    },
+    {
+      "slug": "menopause",
+      "name": "Menopause",
+      "seedRelated": [
+        "perimenopause",
+        "hormone-replacement-therapy",
+        "bioidentical-hormone-replacement-therapy",
+        "hot-flashes",
+        "vaginal-dryness",
+        "estradiol"
+      ]
+    },
+    {
+      "slug": "premature-ovarian-insufficiency",
+      "name": "Premature Ovarian Insufficiency",
+      "seedRelated": [
+        "menopause",
+        "fsh",
+        "estradiol",
+        "hormone-replacement-therapy"
+      ]
+    },
+    {
+      "slug": "estrogen-dominance",
+      "name": "Estrogen Dominance",
+      "seedRelated": [
+        "progesterone-bioidentical",
+        "dim",
+        "estrogen-metabolism",
+        "perimenopause",
+        "dutch-test"
+      ]
+    },
+    {
+      "slug": "low-testosterone-women",
+      "name": "Low Testosterone in Women",
+      "seedRelated": [
+        "testosterone-therapy-women",
+        "low-libido",
+        "testosterone-total-free",
+        "dhea-s",
+        "menopause"
+      ]
+    },
+    {
+      "slug": "andropause",
+      "name": "Andropause",
+      "seedRelated": [
+        "low-testosterone-women",
+        "testosterone-total-free"
+      ]
+    },
+    {
+      "slug": "endometriosis",
+      "name": "Endometriosis",
+      "seedRelated": [
+        "estrogen-dominance",
+        "heavy-periods-menorrhagia",
+        "infertility"
+      ]
+    },
+    {
+      "slug": "hyperprolactinemia",
+      "name": "Hyperprolactinemia",
+      "seedRelated": [
+        "prolactin",
+        "pituitary-adenoma",
+        "amenorrhea"
+      ]
+    },
+    {
+      "slug": "pituitary-adenoma",
+      "name": "Pituitary Adenoma",
+      "seedRelated": [
+        "hyperprolactinemia",
+        "cushings-syndrome",
+        "acromegaly",
+        "hypopituitarism"
+      ]
+    },
+    {
+      "slug": "hypopituitarism",
+      "name": "Hypopituitarism",
+      "seedRelated": [
+        "pituitary-adenoma",
+        "hypothyroidism",
+        "adrenal-insufficiency"
+      ]
+    },
+    {
+      "slug": "hyperparathyroidism",
+      "name": "Hyperparathyroidism",
+      "seedRelated": [
+        "hypoparathyroidism"
+      ]
+    },
+    {
+      "slug": "hypoparathyroidism",
+      "name": "Hypoparathyroidism",
+      "seedRelated": [
+        "hyperparathyroidism",
+        "thyroidectomy"
+      ]
+    },
+    {
+      "slug": "acromegaly",
+      "name": "Acromegaly",
+      "seedRelated": [
+        "pituitary-adenoma"
+      ]
+    },
+    {
+      "slug": "pmdd",
+      "name": "PMDD",
+      "seedRelated": [
+        "pms",
+        "progesterone-bioidentical",
+        "estrogen-dominance"
+      ]
+    },
+    {
+      "slug": "pms",
+      "name": "PMS",
+      "seedRelated": [
+        "pmdd",
+        "estrogen-dominance",
+        "vitex"
+      ]
+    },
+    {
+      "slug": "non-alcoholic-fatty-liver-disease",
+      "name": "Non-Alcoholic Fatty Liver Disease",
+      "seedRelated": [
+        "insulin-resistance",
+        "metabolic-syndrome",
+        "berberine"
+      ]
+    },
+    {
+      "slug": "dyslipidemia",
+      "name": "Dyslipidemia",
+      "seedRelated": [
+        "lipid-panel",
+        "metabolic-syndrome",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "autoimmune-disease",
+      "name": "Autoimmune Disease",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "graves-disease",
+        "leaky-gut",
+        "gluten-and-thyroid"
+      ]
+    },
+    {
+      "slug": "amenorrhea",
+      "name": "Secondary Amenorrhea",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "hyperprolactinemia",
+        "premature-ovarian-insufficiency"
+      ]
+    },
+    {
+      "slug": "fatigue",
+      "name": "Fatigue",
+      "seedRelated": [
+        "hypothyroidism",
+        "adrenal-fatigue",
+        "hashimotos-thyroiditis",
+        "vitamin-d",
+        "ferritin",
+        "vitamin-b12"
+      ]
+    },
+    {
+      "slug": "hair-loss",
+      "name": "Hair Loss",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "ferritin",
+        "iron-ferritin-support",
+        "zinc",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "brain-fog",
+      "name": "Brain Fog",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "perimenopause",
+        "vitamin-b12",
+        "insulin-resistance"
+      ]
+    },
+    {
+      "slug": "weight-gain",
+      "name": "Weight Gain",
+      "seedRelated": [
+        "hypothyroidism",
+        "insulin-resistance",
+        "perimenopause",
+        "polycystic-ovary-syndrome",
+        "glp-1-agonists"
+      ]
+    },
+    {
+      "slug": "unexplained-weight-loss",
+      "name": "Unexplained Weight Loss",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "dry-skin",
+      "name": "Dry Skin",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "cracked-heels",
+        "omega-3-fatty-acids"
+      ]
+    },
+    {
+      "slug": "cracked-heels",
+      "name": "Cracked Heels",
+      "seedRelated": [
+        "hypothyroidism",
+        "dry-skin"
+      ]
+    },
+    {
+      "slug": "low-libido",
+      "name": "Low Libido",
+      "seedRelated": [
+        "low-testosterone-women",
+        "menopause",
+        "perimenopause",
+        "testosterone-therapy-women",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "cold-intolerance",
+      "name": "Cold Intolerance",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "low-body-temperature"
+      ]
+    },
+    {
+      "slug": "heat-intolerance",
+      "name": "Heat Intolerance",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "perimenopause",
+        "hot-flashes"
+      ]
+    },
+    {
+      "slug": "constipation",
+      "name": "Constipation",
+      "seedRelated": [
+        "hypothyroidism",
+        "magnesium"
+      ]
+    },
+    {
+      "slug": "brittle-nails",
+      "name": "Brittle Nails",
+      "seedRelated": [
+        "hypothyroidism",
+        "iron-ferritin-support",
+        "biotin"
+      ]
+    },
+    {
+      "slug": "puffy-face",
+      "name": "Puffy Face",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "edema"
+      ]
+    },
+    {
+      "slug": "bulging-eyes",
+      "name": "Bulging Eyes",
+      "seedRelated": [
+        "thyroid-eye-disease",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "heart-palpitations",
+      "name": "Heart Palpitations",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "perimenopause"
+      ]
+    },
+    {
+      "slug": "tachycardia",
+      "name": "Tachycardia",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "beta-blockers",
+        "heart-palpitations"
+      ]
+    },
+    {
+      "slug": "bradycardia",
+      "name": "Bradycardia",
+      "seedRelated": [
+        "hypothyroidism",
+        "myxedema-coma"
+      ]
+    },
+    {
+      "slug": "tremors",
+      "name": "Tremors",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "anxiety",
+      "name": "Anxiety",
+      "seedRelated": [
+        "hyperthyroidism",
+        "perimenopause",
+        "adrenal-fatigue",
+        "cortisol-am"
+      ]
+    },
+    {
+      "slug": "depression",
+      "name": "Depression",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "perimenopause",
+        "vitamin-d"
+      ]
+    },
+    {
+      "slug": "mood-swings",
+      "name": "Mood Swings",
+      "seedRelated": [
+        "perimenopause",
+        "pmdd",
+        "pms",
+        "estrogen-dominance"
+      ]
+    },
+    {
+      "slug": "insomnia",
+      "name": "Insomnia",
+      "seedRelated": [
+        "perimenopause",
+        "cortisol-rhythm",
+        "magnesium",
+        "progesterone-bioidentical"
+      ]
+    },
+    {
+      "slug": "night-sweats",
+      "name": "Night Sweats",
+      "seedRelated": [
+        "perimenopause",
+        "menopause",
+        "hot-flashes",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "hot-flashes",
+      "name": "Hot Flashes",
+      "seedRelated": [
+        "perimenopause",
+        "menopause",
+        "hormone-replacement-therapy",
+        "night-sweats",
+        "black-cohosh"
+      ]
+    },
+    {
+      "slug": "irregular-periods",
+      "name": "Menstrual Irregularities",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "perimenopause",
+        "hypothyroidism",
+        "amenorrhea",
+        "heavy-periods-menorrhagia"
+      ]
+    },
+    {
+      "slug": "heavy-periods-menorrhagia",
+      "name": "Heavy Periods",
+      "seedRelated": [
+        "hypothyroidism",
+        "endometriosis",
+        "perimenopause",
+        "ferritin"
+      ]
+    },
+    {
+      "slug": "infertility",
+      "name": "Infertility",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "clomiphene"
+      ]
+    },
+    {
+      "slug": "muscle-weakness",
+      "name": "Muscle Weakness",
+      "seedRelated": [
+        "hypothyroidism",
+        "hyperthyroidism",
+        "vitamin-d"
+      ]
+    },
+    {
+      "slug": "joint-pain",
+      "name": "Joint Pain",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "menopause"
+      ]
+    },
+    {
+      "slug": "hoarseness",
+      "name": "Hoarseness",
+      "seedRelated": [
+        "hypothyroidism",
+        "goiter",
+        "thyroid-nodules"
+      ]
+    },
+    {
+      "slug": "neck-swelling",
+      "name": "Neck Swelling",
+      "seedRelated": [
+        "goiter",
+        "thyroid-nodules",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "memory-issues",
+      "name": "Memory Issues",
+      "seedRelated": [
+        "brain-fog",
+        "hypothyroidism",
+        "perimenopause",
+        "vitamin-b12"
+      ]
+    },
+    {
+      "slug": "acne-hormonal",
+      "name": "Hormonal Acne",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "estrogen-dominance",
+        "spironolactone",
+        "dim"
+      ]
+    },
+    {
+      "slug": "hirsutism-symptom",
+      "name": "Hirsutism",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "spironolactone",
+        "testosterone-total-free",
+        "dhea-s"
+      ]
+    },
+    {
+      "slug": "bloating",
+      "name": "Bloating",
+      "seedRelated": [
+        "hypothyroidism",
+        "leaky-gut",
+        "gut-thyroid-connection",
+        "probiotics"
+      ]
+    },
+    {
+      "slug": "edema",
+      "name": "Edema",
+      "seedRelated": [
+        "hypothyroidism",
+        "myxedema-coma",
+        "puffy-face"
+      ]
+    },
+    {
+      "slug": "low-body-temperature",
+      "name": "Low Body Temperature",
+      "seedRelated": [
+        "hypothyroidism",
+        "cold-intolerance"
+      ]
+    },
+    {
+      "slug": "thinning-eyebrows",
+      "name": "Thinning Eyebrows",
+      "seedRelated": [
+        "hypothyroidism",
+        "hashimotos-thyroiditis",
+        "hair-loss"
+      ]
+    },
+    {
+      "slug": "sugar-cravings",
+      "name": "Sugar Cravings",
+      "seedRelated": [
+        "insulin-resistance",
+        "polycystic-ovary-syndrome",
+        "berberine",
+        "chromium"
+      ]
+    },
+    {
+      "slug": "irritability",
+      "name": "Irritability",
+      "seedRelated": [
+        "perimenopause",
+        "pmdd",
+        "pms",
+        "estrogen-dominance"
+      ]
+    },
+    {
+      "slug": "vaginal-dryness",
+      "name": "Vaginal Dryness",
+      "seedRelated": [
+        "menopause",
+        "perimenopause",
+        "estradiol",
+        "hormone-replacement-therapy"
+      ]
+    },
+    {
+      "slug": "difficulty-swallowing",
+      "name": "Difficulty Swallowing",
+      "seedRelated": [
+        "goiter",
+        "thyroid-nodules",
+        "multinodular-goiter"
+      ]
+    },
+    {
+      "slug": "levothyroxine",
+      "name": "Levothyroxine",
+      "seedRelated": [
+        "synthroid",
+        "tirosint",
+        "levoxyl",
+        "natural-desiccated-thyroid",
+        "liothyronine",
+        "hypothyroidism",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "synthroid",
+      "name": "Synthroid",
+      "seedRelated": [
+        "levothyroxine",
+        "tirosint",
+        "levoxyl",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "tirosint",
+      "name": "Tirosint",
+      "seedRelated": [
+        "levothyroxine",
+        "synthroid",
+        "hypothyroidism",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "levoxyl",
+      "name": "Levoxyl",
+      "seedRelated": [
+        "levothyroxine",
+        "synthroid",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "liothyronine",
+      "name": "Liothyronine",
+      "seedRelated": [
+        "cytomel",
+        "natural-desiccated-thyroid",
+        "levothyroxine",
+        "t4-to-t3-conversion",
+        "compounded-t3-t4"
+      ]
+    },
+    {
+      "slug": "cytomel",
+      "name": "Cytomel",
+      "seedRelated": [
+        "liothyronine",
+        "levothyroxine",
+        "natural-desiccated-thyroid"
+      ]
+    },
+    {
+      "slug": "natural-desiccated-thyroid",
+      "name": "Natural Desiccated Thyroid",
+      "seedRelated": [
+        "armour-thyroid",
+        "np-thyroid",
+        "wp-thyroid",
+        "levothyroxine",
+        "liothyronine",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "armour-thyroid",
+      "name": "Armour Thyroid",
+      "seedRelated": [
+        "natural-desiccated-thyroid",
+        "np-thyroid",
+        "wp-thyroid",
+        "levothyroxine"
+      ]
+    },
+    {
+      "slug": "np-thyroid",
+      "name": "NP Thyroid",
+      "seedRelated": [
+        "natural-desiccated-thyroid",
+        "armour-thyroid",
+        "wp-thyroid"
+      ]
+    },
+    {
+      "slug": "wp-thyroid",
+      "name": "WP Thyroid",
+      "seedRelated": [
+        "natural-desiccated-thyroid",
+        "armour-thyroid",
+        "np-thyroid"
+      ]
+    },
+    {
+      "slug": "compounded-t3-t4",
+      "name": "Compounded T3/T4",
+      "seedRelated": [
+        "liothyronine",
+        "levothyroxine",
+        "compounding-pharmacy",
+        "natural-desiccated-thyroid"
+      ]
+    },
+    {
+      "slug": "methimazole",
+      "name": "Methimazole",
+      "seedRelated": [
+        "hyperthyroidism",
+        "graves-disease",
+        "propylthiouracil"
+      ]
+    },
+    {
+      "slug": "propylthiouracil",
+      "name": "Propylthiouracil",
+      "seedRelated": [
+        "methimazole",
+        "hyperthyroidism",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "beta-blockers",
+      "name": "Beta Blockers",
+      "seedRelated": [
+        "propranolol",
+        "atenolol",
+        "hyperthyroidism",
+        "heart-palpitations",
+        "tachycardia"
+      ]
+    },
+    {
+      "slug": "propranolol",
+      "name": "Propranolol",
+      "seedRelated": [
+        "beta-blockers",
+        "atenolol",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "atenolol",
+      "name": "Atenolol",
+      "seedRelated": [
+        "beta-blockers",
+        "propranolol",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "semaglutide",
+      "name": "Semaglutide",
+      "seedRelated": [
+        "ozempic",
+        "wegovy",
+        "rybelsus",
+        "glp-1-agonists",
+        "tirzepatide",
+        "insulin-resistance",
+        "obesity"
+      ]
+    },
+    {
+      "slug": "ozempic",
+      "name": "Ozempic",
+      "seedRelated": [
+        "semaglutide",
+        "wegovy",
+        "rybelsus",
+        "glp-1-agonists",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "wegovy",
+      "name": "Wegovy",
+      "seedRelated": [
+        "semaglutide",
+        "ozempic",
+        "glp-1-agonists",
+        "obesity"
+      ]
+    },
+    {
+      "slug": "rybelsus",
+      "name": "Rybelsus",
+      "seedRelated": [
+        "semaglutide",
+        "ozempic",
+        "glp-1-agonists",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "tirzepatide",
+      "name": "Tirzepatide",
+      "seedRelated": [
+        "mounjaro",
+        "zepbound",
+        "semaglutide",
+        "glp-1-agonists",
+        "obesity",
+        "insulin-resistance"
+      ]
+    },
+    {
+      "slug": "mounjaro",
+      "name": "Mounjaro",
+      "seedRelated": [
+        "tirzepatide",
+        "zepbound",
+        "type-2-diabetes",
+        "glp-1-agonists"
+      ]
+    },
+    {
+      "slug": "zepbound",
+      "name": "Zepbound",
+      "seedRelated": [
+        "tirzepatide",
+        "mounjaro",
+        "obesity",
+        "glp-1-agonists"
+      ]
+    },
+    {
+      "slug": "liraglutide",
+      "name": "Liraglutide",
+      "seedRelated": [
+        "saxenda",
+        "victoza",
+        "glp-1-agonists",
+        "semaglutide"
+      ]
+    },
+    {
+      "slug": "saxenda",
+      "name": "Saxenda",
+      "seedRelated": [
+        "liraglutide",
+        "victoza",
+        "glp-1-agonists",
+        "obesity"
+      ]
+    },
+    {
+      "slug": "victoza",
+      "name": "Victoza",
+      "seedRelated": [
+        "liraglutide",
+        "saxenda",
+        "glp-1-agonists",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "glp-1-agonists",
+      "name": "GLP-1 Agonists",
+      "seedRelated": [
+        "semaglutide",
+        "tirzepatide",
+        "liraglutide",
+        "obesity",
+        "insulin-resistance",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "compounded-semaglutide",
+      "name": "Compounded Semaglutide",
+      "seedRelated": [
+        "semaglutide",
+        "compounding-pharmacy",
+        "wegovy",
+        "ozempic"
+      ]
+    },
+    {
+      "slug": "metformin",
+      "name": "Metformin",
+      "seedRelated": [
+        "insulin-resistance",
+        "polycystic-ovary-syndrome",
+        "type-2-diabetes",
+        "prediabetes",
+        "berberine"
+      ]
+    },
+    {
+      "slug": "low-dose-naltrexone",
+      "name": "Low Dose Naltrexone",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "autoimmune-disease",
+        "compounding-pharmacy"
+      ]
+    },
+    {
+      "slug": "bioidentical-hormone-replacement-therapy",
+      "name": "Bioidentical Hormone Replacement Therapy",
+      "seedRelated": [
+        "hormone-replacement-therapy",
+        "estradiol",
+        "progesterone-bioidentical",
+        "testosterone-therapy-women",
+        "menopause",
+        "perimenopause",
+        "bioidentical-vs-synthetic-hormones"
+      ]
+    },
+    {
+      "slug": "estradiol",
+      "name": "Estradiol",
+      "seedRelated": [
+        "bioidentical-hormone-replacement-therapy",
+        "hormone-replacement-therapy",
+        "menopause",
+        "perimenopause",
+        "estradiol-lab"
+      ]
+    },
+    {
+      "slug": "progesterone-bioidentical",
+      "name": "Progesterone (Bioidentical)",
+      "seedRelated": [
+        "bioidentical-hormone-replacement-therapy",
+        "perimenopause",
+        "menopause",
+        "pmdd",
+        "estrogen-dominance"
+      ]
+    },
+    {
+      "slug": "testosterone-therapy-women",
+      "name": "Testosterone Therapy for Women",
+      "seedRelated": [
+        "low-testosterone-women",
+        "bioidentical-hormone-replacement-therapy",
+        "low-libido",
+        "menopause"
+      ]
+    },
+    {
+      "slug": "dhea",
+      "name": "DHEA",
+      "seedRelated": [
+        "dhea-s",
+        "adrenal-fatigue",
+        "low-testosterone-women",
+        "menopause"
+      ]
+    },
+    {
+      "slug": "spironolactone",
+      "name": "Spironolactone",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "acne-hormonal",
+        "hirsutism-symptom"
+      ]
+    },
+    {
+      "slug": "birth-control-pills",
+      "name": "Oral Contraceptives",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "estrogen-dominance",
+        "pmdd",
+        "acne-hormonal"
+      ]
+    },
+    {
+      "slug": "clomiphene",
+      "name": "Clomiphene",
+      "seedRelated": [
+        "infertility",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "anastrozole",
+      "name": "Anastrozole",
+      "seedRelated": [
+        "estrogen-dominance",
+        "bioidentical-hormone-replacement-therapy"
+      ]
+    },
+    {
+      "slug": "selenium",
+      "name": "Selenium",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "tpo-antibodies",
+        "t4-to-t3-conversion",
+        "iodine-supplement"
+      ]
+    },
+    {
+      "slug": "iodine-supplement",
+      "name": "Iodine Supplement",
+      "seedRelated": [
+        "iodine-deficiency",
+        "selenium",
+        "hypothyroidism",
+        "goiter"
+      ]
+    },
+    {
+      "slug": "zinc",
+      "name": "Zinc",
+      "seedRelated": [
+        "hair-loss",
+        "t4-to-t3-conversion",
+        "selenium",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "slug": "magnesium",
+      "name": "Magnesium",
+      "seedRelated": [
+        "insomnia",
+        "constipation",
+        "anxiety",
+        "muscle-weakness"
+      ]
+    },
+    {
+      "slug": "vitamin-d",
+      "name": "Vitamin D",
+      "seedRelated": [
+        "vitamin-d-lab",
+        "hashimotos-thyroiditis",
+        "autoimmune-disease",
+        "depression",
+        "fatigue"
+      ]
+    },
+    {
+      "slug": "vitamin-b12",
+      "name": "Vitamin B12",
+      "seedRelated": [
+        "fatigue",
+        "brain-fog",
+        "methylfolate",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "iron-ferritin-support",
+      "name": "Iron / Ferritin Support",
+      "seedRelated": [
+        "ferritin",
+        "hair-loss",
+        "fatigue",
+        "heavy-periods-menorrhagia"
+      ]
+    },
+    {
+      "slug": "tyrosine",
+      "name": "Tyrosine",
+      "seedRelated": [
+        "hypothyroidism",
+        "iodine-supplement",
+        "selenium"
+      ]
+    },
+    {
+      "slug": "ashwagandha",
+      "name": "Ashwagandha",
+      "seedRelated": [
+        "adrenal-fatigue",
+        "cortisol-rhythm",
+        "anxiety",
+        "insomnia"
+      ]
+    },
+    {
+      "slug": "rhodiola",
+      "name": "Rhodiola",
+      "seedRelated": [
+        "adrenal-fatigue",
+        "fatigue",
+        "ashwagandha"
+      ]
+    },
+    {
+      "slug": "myo-inositol",
+      "name": "Myo-Inositol",
+      "seedRelated": [
+        "polycystic-ovary-syndrome",
+        "insulin-resistance",
+        "d-chiro-inositol"
+      ]
+    },
+    {
+      "slug": "d-chiro-inositol",
+      "name": "D-Chiro-Inositol",
+      "seedRelated": [
+        "myo-inositol",
+        "polycystic-ovary-syndrome",
+        "insulin-resistance"
+      ]
+    },
+    {
+      "slug": "dim",
+      "name": "DIM",
+      "seedRelated": [
+        "estrogen-dominance",
+        "estrogen-metabolism",
+        "acne-hormonal"
+      ]
+    },
+    {
+      "slug": "berberine",
+      "name": "Berberine",
+      "seedRelated": [
+        "insulin-resistance",
+        "polycystic-ovary-syndrome",
+        "metformin",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "nac",
+      "name": "N-Acetyl Cysteine",
+      "seedRelated": [
+        "glutathione",
+        "hashimotos-thyroiditis",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "glutathione",
+      "name": "Glutathione",
+      "seedRelated": [
+        "nac",
+        "hashimotos-thyroiditis",
+        "autoimmune-disease"
+      ]
+    },
+    {
+      "slug": "omega-3-fatty-acids",
+      "name": "Omega-3 Fatty Acids",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "dry-skin",
+        "autoimmune-disease"
+      ]
+    },
+    {
+      "slug": "coq10",
+      "name": "CoQ10",
+      "seedRelated": [
+        "fatigue",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "l-carnitine",
+      "name": "L-Carnitine",
+      "seedRelated": [
+        "fatigue",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "methylfolate",
+      "name": "Methylfolate",
+      "seedRelated": [
+        "vitamin-b12",
+        "depression",
+        "brain-fog"
+      ]
+    },
+    {
+      "slug": "chromium",
+      "name": "Chromium",
+      "seedRelated": [
+        "insulin-resistance",
+        "sugar-cravings",
+        "prediabetes"
+      ]
+    },
+    {
+      "slug": "vitex",
+      "name": "Vitex",
+      "seedRelated": [
+        "pms",
+        "pmdd",
+        "irregular-periods"
+      ]
+    },
+    {
+      "slug": "maca-root",
+      "name": "Maca Root",
+      "seedRelated": [
+        "low-libido",
+        "perimenopause",
+        "menopause"
+      ]
+    },
+    {
+      "slug": "black-cohosh",
+      "name": "Black Cohosh",
+      "seedRelated": [
+        "hot-flashes",
+        "menopause",
+        "perimenopause"
+      ]
+    },
+    {
+      "slug": "curcumin",
+      "name": "Curcumin",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "autoimmune-disease",
+        "joint-pain"
+      ]
+    },
+    {
+      "slug": "probiotics",
+      "name": "Probiotics",
+      "seedRelated": [
+        "leaky-gut",
+        "gut-thyroid-connection",
+        "bloating"
+      ]
+    },
+    {
+      "slug": "tsh",
+      "name": "TSH",
+      "seedRelated": [
+        "free-t4",
+        "free-t3",
+        "hypothyroidism",
+        "hyperthyroidism",
+        "functional-range-vs-reference-range"
+      ]
+    },
+    {
+      "slug": "free-t4",
+      "name": "Free T4",
+      "seedRelated": [
+        "tsh",
+        "free-t3",
+        "hypothyroidism",
+        "levothyroxine"
+      ]
+    },
+    {
+      "slug": "free-t3",
+      "name": "Free T3",
+      "seedRelated": [
+        "tsh",
+        "free-t4",
+        "reverse-t3",
+        "t4-to-t3-conversion",
+        "liothyronine"
+      ]
+    },
+    {
+      "slug": "total-t3",
+      "name": "Total T3",
+      "seedRelated": [
+        "free-t3",
+        "total-t4"
+      ]
+    },
+    {
+      "slug": "total-t4",
+      "name": "Total T4",
+      "seedRelated": [
+        "free-t4",
+        "total-t3"
+      ]
+    },
+    {
+      "slug": "reverse-t3",
+      "name": "Reverse T3",
+      "seedRelated": [
+        "free-t3",
+        "euthyroid-sick-syndrome",
+        "t4-to-t3-conversion"
+      ]
+    },
+    {
+      "slug": "tpo-antibodies",
+      "name": "TPO Antibodies",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "thyroglobulin-antibodies",
+        "autoimmune-disease"
+      ]
+    },
+    {
+      "slug": "thyroglobulin-antibodies",
+      "name": "Thyroglobulin Antibodies",
+      "seedRelated": [
+        "tpo-antibodies",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "tsi",
+      "name": "TSI",
+      "seedRelated": [
+        "graves-disease",
+        "trab",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "slug": "trab",
+      "name": "TRAb",
+      "seedRelated": [
+        "tsi",
+        "graves-disease"
+      ]
+    },
+    {
+      "slug": "thyroid-ultrasound",
+      "name": "Thyroid Ultrasound",
+      "seedRelated": [
+        "thyroid-nodules",
+        "goiter",
+        "fine-needle-aspiration"
+      ]
+    },
+    {
+      "slug": "radioactive-iodine-uptake",
+      "name": "Radioactive Iodine Uptake",
+      "seedRelated": [
+        "graves-disease",
+        "hyperthyroidism",
+        "radioactive-iodine-ablation"
+      ]
+    },
+    {
+      "slug": "full-thyroid-panel",
+      "name": "Full Thyroid Panel",
+      "seedRelated": [
+        "tsh",
+        "free-t4",
+        "free-t3",
+        "reverse-t3",
+        "tpo-antibodies",
+        "thyroglobulin-antibodies"
+      ]
+    },
+    {
+      "slug": "hba1c",
+      "name": "HbA1c",
+      "seedRelated": [
+        "insulin-resistance",
+        "prediabetes",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "fasting-insulin",
+      "name": "Fasting Insulin",
+      "seedRelated": [
+        "insulin-resistance",
+        "homa-ir",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "fasting-glucose",
+      "name": "Fasting Glucose",
+      "seedRelated": [
+        "hba1c",
+        "prediabetes",
+        "type-2-diabetes"
+      ]
+    },
+    {
+      "slug": "cortisol-am",
+      "name": "Cortisol (AM)",
+      "seedRelated": [
+        "cortisol-rhythm",
+        "hpa-axis",
+        "adrenal-insufficiency",
+        "cushings-syndrome"
+      ]
+    },
+    {
+      "slug": "dutch-test",
+      "name": "DUTCH Test",
+      "seedRelated": [
+        "estrogen-metabolism",
+        "cortisol-rhythm",
+        "estrogen-dominance",
+        "dhea-s"
+      ]
+    },
+    {
+      "slug": "shbg",
+      "name": "Sex Hormone Binding Globulin",
+      "seedRelated": [
+        "testosterone-total-free",
+        "polycystic-ovary-syndrome",
+        "estradiol"
+      ]
+    },
+    {
+      "slug": "estradiol-lab",
+      "name": "Estradiol (Lab)",
+      "seedRelated": [
+        "estradiol",
+        "perimenopause",
+        "menopause",
+        "fsh"
+      ]
+    },
+    {
+      "slug": "progesterone-lab",
+      "name": "Progesterone (Lab)",
+      "seedRelated": [
+        "progesterone-bioidentical",
+        "perimenopause",
+        "estrogen-dominance"
+      ]
+    },
+    {
+      "slug": "testosterone-total-free",
+      "name": "Testosterone (Total & Free)",
+      "seedRelated": [
+        "low-testosterone-women",
+        "shbg",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "dhea-s",
+      "name": "DHEA-S",
+      "seedRelated": [
+        "dhea",
+        "adrenal-fatigue",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "fsh",
+      "name": "FSH",
+      "seedRelated": [
+        "lh",
+        "perimenopause",
+        "menopause",
+        "premature-ovarian-insufficiency"
+      ]
+    },
+    {
+      "slug": "lh",
+      "name": "LH",
+      "seedRelated": [
+        "fsh",
+        "polycystic-ovary-syndrome"
+      ]
+    },
+    {
+      "slug": "prolactin",
+      "name": "Prolactin",
+      "seedRelated": [
+        "hyperprolactinemia",
+        "pituitary-adenoma",
+        "amenorrhea"
+      ]
+    },
+    {
+      "slug": "hs-crp",
+      "name": "hs-CRP",
+      "seedRelated": [
+        "autoimmune-disease",
+        "hashimotos-thyroiditis",
+        "metabolic-syndrome"
+      ]
+    },
+    {
+      "slug": "homocysteine",
+      "name": "Homocysteine",
+      "seedRelated": [
+        "methylfolate",
+        "vitamin-b12"
+      ]
+    },
+    {
+      "slug": "comprehensive-metabolic-panel",
+      "name": "Comprehensive Metabolic Panel",
+      "seedRelated": [
+        "lipid-panel",
+        "fasting-glucose"
+      ]
+    },
+    {
+      "slug": "lipid-panel",
+      "name": "Lipid Panel",
+      "seedRelated": [
+        "dyslipidemia",
+        "hypothyroidism",
+        "metabolic-syndrome"
+      ]
+    },
+    {
+      "slug": "vitamin-d-lab",
+      "name": "Vitamin D (Lab)",
+      "seedRelated": [
+        "vitamin-d",
+        "autoimmune-disease"
+      ]
+    },
+    {
+      "slug": "ferritin",
+      "name": "Ferritin",
+      "seedRelated": [
+        "iron-ferritin-support",
+        "hair-loss",
+        "fatigue",
+        "heavy-periods-menorrhagia"
+      ]
+    },
+    {
+      "slug": "thyroidectomy",
+      "name": "Thyroidectomy",
+      "seedRelated": [
+        "thyroid-lobectomy",
+        "thyroid-cancer",
+        "graves-disease",
+        "hypoparathyroidism"
+      ]
+    },
+    {
+      "slug": "thyroid-lobectomy",
+      "name": "Thyroid Lobectomy",
+      "seedRelated": [
+        "thyroidectomy",
+        "thyroid-nodules",
+        "thyroid-cancer"
+      ]
+    },
+    {
+      "slug": "radioactive-iodine-ablation",
+      "name": "Radioactive Iodine Ablation",
+      "seedRelated": [
+        "graves-disease",
+        "hyperthyroidism",
+        "thyroid-cancer"
+      ]
+    },
+    {
+      "slug": "fine-needle-aspiration",
+      "name": "Fine Needle Aspiration",
+      "seedRelated": [
+        "thyroid-nodules",
+        "thyroid-ultrasound",
+        "thyroid-cancer"
+      ]
+    },
+    {
+      "slug": "hormone-pellet-insertion",
+      "name": "Hormone Pellet Insertion",
+      "seedRelated": [
+        "bioidentical-hormone-replacement-therapy",
+        "testosterone-therapy-women",
+        "estradiol"
+      ]
+    },
+    {
+      "slug": "t4-to-t3-conversion",
+      "name": "T4 to T3 Conversion",
+      "seedRelated": [
+        "free-t4",
+        "free-t3",
+        "reverse-t3",
+        "selenium",
+        "liothyronine"
+      ]
+    },
+    {
+      "slug": "hpa-axis",
+      "name": "HPA Axis",
+      "seedRelated": [
+        "adrenal-fatigue",
+        "cortisol-rhythm",
+        "cortisol-am"
+      ]
+    },
+    {
+      "slug": "functional-range-vs-reference-range",
+      "name": "Functional Range vs Reference Range",
+      "seedRelated": [
+        "tsh",
+        "free-t4",
+        "free-t3",
+        "functional-medicine"
+      ]
+    },
+    {
+      "slug": "functional-medicine",
+      "name": "Functional Medicine",
+      "seedRelated": [
+        "functional-range-vs-reference-range",
+        "gut-thyroid-connection",
+        "leaky-gut"
+      ]
+    },
+    {
+      "slug": "goitrogens",
+      "name": "Goitrogens",
+      "seedRelated": [
+        "hypothyroidism",
+        "iodine-deficiency",
+        "hashimotos-thyroiditis"
+      ]
+    },
+    {
+      "slug": "gluten-and-thyroid",
+      "name": "Gluten and Thyroid",
+      "seedRelated": [
+        "hashimotos-thyroiditis",
+        "leaky-gut",
+        "autoimmune-disease"
+      ]
+    },
+    {
+      "slug": "leaky-gut",
+      "name": "Leaky Gut",
+      "seedRelated": [
+        "gut-thyroid-connection",
+        "hashimotos-thyroiditis",
+        "autoimmune-disease",
+        "probiotics"
+      ]
+    },
+    {
+      "slug": "gut-thyroid-connection",
+      "name": "Gut-Thyroid Connection",
+      "seedRelated": [
+        "leaky-gut",
+        "hashimotos-thyroiditis",
+        "probiotics"
+      ]
+    },
+    {
+      "slug": "estrogen-metabolism",
+      "name": "Estrogen Metabolism",
+      "seedRelated": [
+        "estrogen-dominance",
+        "dim",
+        "dutch-test"
+      ]
+    },
+    {
+      "slug": "bioidentical-vs-synthetic-hormones",
+      "name": "Bioidentical vs Synthetic Hormones",
+      "seedRelated": [
+        "bioidentical-hormone-replacement-therapy",
+        "hormone-replacement-therapy",
+        "estradiol",
+        "progesterone-bioidentical"
+      ]
+    },
+    {
+      "slug": "hormone-replacement-therapy",
+      "name": "Hormone Replacement Therapy",
+      "seedRelated": [
+        "bioidentical-hormone-replacement-therapy",
+        "estradiol",
+        "progesterone-bioidentical",
+        "menopause",
+        "perimenopause"
+      ]
+    },
+    {
+      "slug": "compounding-pharmacy",
+      "name": "Compounding Pharmacy",
+      "seedRelated": [
+        "compounded-t3-t4",
+        "compounded-semaglutide",
+        "bioidentical-hormone-replacement-therapy"
+      ]
+    },
+    {
+      "slug": "cortisol-rhythm",
+      "name": "Cortisol Rhythm",
+      "seedRelated": [
+        "cortisol-am",
+        "hpa-axis",
+        "adrenal-fatigue",
+        "dutch-test"
+      ]
+    },
+    {
+      "slug": "thyroid-adrenal-connection",
+      "name": "Thyroid-Adrenal Connection",
+      "seedRelated": [
+        "hpa-axis",
+        "adrenal-fatigue",
+        "hashimotos-thyroiditis",
+        "cortisol-rhythm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "iodine-deficiency",
+  "shortDefinition": "Iodine deficiency, or low iodine, is a shortage of the mineral the thyroid needs to make hormone, leading to goiter, hypothyroidism, and fatigue.",
+  "fullDefinition": "## What is iodine deficiency?\n\nIodine deficiency — sometimes called **low iodine** — is a state in which the body does not have enough iodine to make adequate thyroid hormone. Iodine is a critical building block of T4 and T3, the two main thyroid hormones. When iodine intake falls below what the thyroid needs, the gland enlarges to capture more iodine from the bloodstream, often producing a visible [goiter], and hormone production eventually drops, producing [hypothyroidism].\n\nIodine deficiency was once one of the most common causes of preventable cognitive impairment worldwide. Universal salt iodization has reduced severe deficiency in the United States, but mild-to-moderate deficiency is reappearing as people use more sea salt, kosher salt, and processed foods that are not iodized.\n\n## What causes iodine deficiency?\n\nThe most common driver is simply low dietary intake. Iodine is concentrated in:\n\n- **Iodized table salt**\n- **Sea vegetables** (kelp, nori, dulse)\n- **Dairy products**\n- **Eggs**\n- **Saltwater fish and shellfish**\n\nWomen who use only non-iodized salts, follow vegan or dairy-free diets, or are pregnant or breastfeeding (when iodine needs roughly double) are at higher risk. Certain medications, fluoride, bromide, and chlorine can also interfere with iodine uptake.\n\n## How is iodine deficiency diagnosed?\n\nDiagnosis is challenging because there is no single perfect test. Clinicians typically combine clinical picture with:\n\n- **Urine iodine concentration** (a snapshot of recent intake)\n- **Thyroid panel** including [tsh], free T4, free T3\n- **Thyroid ultrasound** to evaluate for goiter or nodularity\n- **Thyroglobulin levels** (chronically elevated in long-standing deficiency)\n\nIt is important not to confuse iodine deficiency with [hashimotos-thyroiditis] — both can produce hypothyroidism, but they require different approaches. Aggressive iodine supplementation in someone with Hashimoto's can flare the autoimmune attack.\n\n## How is iodine deficiency treated?\n\nTreatment is individualized. Mild deficiency often resolves with dietary changes — switching to iodized salt, including dairy or eggs, or eating sea vegetables a few times a week. More significant deficiency may warrant a low-dose iodine supplement under clinician supervision. **Self-supplementing high-dose iodine is risky**, especially for women with autoimmune thyroid disease, where it can trigger or worsen Hashimoto's or [graves-disease].\n\nAt Modern Thyroid Clinic, iodine status is evaluated in the context of the full thyroid picture — antibodies, ultrasound, and clinical history — before any supplementation is recommended. A clinician can help you find the right amount for your body without overshooting.",
+  "commonQuestions": [
+    {
+      "q": "Should I take an iodine supplement?",
+      "a": "Not without guidance. While severe deficiency clearly needs replacement, high-dose iodine can backfire — particularly in women with Hashimoto's, where excess iodine can trigger or worsen the autoimmune attack on the thyroid. The right dose depends on your dietary intake, antibody status, and symptoms. A clinician can order urine iodine testing and a full thyroid panel to determine whether you actually need more iodine, and if so, how much. Most women in the U.S. need food-level iodine, not megadoses."
+    },
+    {
+      "q": "Is sea salt a good source of iodine?",
+      "a": "Surprisingly, no. Most sea salt and kosher salt contains very little iodine despite coming from the ocean — the iodine evaporates during processing. Iodized table salt is fortified specifically to prevent deficiency and provides a reliable, low-dose daily source. If you prefer sea salt for flavor, that is fine, but include other iodine-rich foods like dairy, eggs, fish, or sea vegetables, or use a mix of iodized salt and sea salt to ensure adequate intake."
+    },
+    {
+      "q": "Can iodine deficiency cause weight gain?",
+      "a": "Indirectly, yes. Iodine deficiency reduces thyroid hormone production, and low thyroid hormone slows metabolism, which can contribute to weight gain, fatigue, cold intolerance, and brain fog. However, most weight changes blamed on the thyroid have other contributors — insulin resistance, sleep, perimenopause, stress, food sensitivities. Correcting iodine status alone rarely produces dramatic weight loss unless deficiency was significant. A full thyroid evaluation will tell you whether iodine is part of your story."
+    }
+  ],
+  "keySymptoms": [
+    "Goiter or visible neck swelling",
+    "Fatigue",
+    "Weight gain",
+    "Cold intolerance",
+    "Dry skin",
+    "Hair thinning",
+    "Brain fog",
+    "Slowed heart rate",
+    "Constipation",
+    "Difficulty with pregnancy or breastfeeding"
+  ],
+  "seoTitle": "Iodine Deficiency: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Iodine deficiency causes goiter, hypothyroidism, and fatigue. Learn the signs, who's at risk, and why supplementing without testing can backfire."
+}

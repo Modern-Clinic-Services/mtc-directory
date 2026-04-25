@@ -1,0 +1,30 @@
+{
+  "slug": "goiter",
+  "shortDefinition": "A goiter is an enlargement of the thyroid gland that may be diffuse or nodular, with or without changes in thyroid hormone levels.",
+  "fullDefinition": "## What is a goiter?\n\nA goiter — also called an **enlarged thyroid** or **thyroid enlargement** — is any abnormal increase in the size of the thyroid gland. The thyroid sits at the front of the neck just below the Adam's apple, and a goiter may appear as visible swelling, a sensation of neck fullness, or it may be detected only on ultrasound. Goiters can occur with normal thyroid function, an underactive thyroid, or an overactive thyroid. They can be smooth and uniformly enlarged (diffuse goiter) or contain nodules (nodular or [multinodular-goiter]).\n\n## What causes a goiter?\n\nGlobally, the most common cause is iodine deficiency, since the thyroid needs iodine to make hormone and enlarges when supply is short. In the United States, where iodized salt is common, the leading causes are autoimmune thyroid disease — [hashimotos-thyroiditis] and [graves-disease] — and the development of [thyroid-nodules]. Other contributors include pregnancy, certain medications (lithium, amiodarone), thyroiditis, and, less commonly, thyroid cancer. Genetics and a personal or family history of autoimmune disease raise the risk. Goiters are several times more common in women than men.\n\n## How is a goiter diagnosed?\n\nDiagnosis starts with a physical exam, but ultrasound is the gold standard for measuring the gland and characterizing any nodules. Lab work includes TSH, Free T4, Free T3, and thyroid antibodies (TPO and TgAb) to determine whether the gland is functioning normally and whether autoimmunity is driving enlargement. If nodules are present, fine-needle aspiration may be needed. At Modern Thyroid Clinic, we evaluate the whole picture — antibodies, nutrient status, iodine intake, and hormonal context — because a goiter is rarely random; it usually points to an underlying process worth understanding.\n\n## How is a goiter treated?\n\nTreatment depends on the cause, size, symptoms, and thyroid function. Small, asymptomatic goiters with normal labs are often simply monitored. Goiters from autoimmune hypothyroidism are treated with thyroid hormone replacement, which can sometimes shrink the gland. Iodine-deficient goiters respond to iodine repletion under medical supervision (more is not better — excess iodine can worsen autoimmune disease). Large goiters causing compressive symptoms — difficulty swallowing, hoarseness, breathing trouble — may need surgery. Hot or hyperfunctioning goiters may be treated with anti-thyroid medication, radioactive iodine, or surgical removal. The right approach depends on what is driving the enlargement, which is why a complete workup matters.",
+  "commonQuestions": [
+    {
+      "q": "Is a goiter dangerous?",
+      "a": "Most goiters are not dangerous, but they should always be evaluated. The concern with any thyroid enlargement is twofold: identifying the underlying cause (autoimmunity, iodine status, nodules) and watching for compressive symptoms if the gland grows large. Goiters that compress the trachea or esophagus can cause breathing difficulty, hoarseness, or trouble swallowing and may need surgery. Goiters with suspicious nodules need biopsy. With proper evaluation and management, the vast majority of goiters cause no long-term problems."
+    },
+    {
+      "q": "Can a goiter shrink on its own?",
+      "a": "Sometimes, depending on the cause. Goiters from iodine deficiency often shrink with adequate iodine intake. Goiters from autoimmune hypothyroidism may shrink with thyroid hormone replacement. Goiters from postpartum or subacute thyroiditis usually resolve as the inflammation settles. Multinodular goiters, on the other hand, tend to grow slowly over years and rarely regress without treatment. Identifying the cause determines whether shrinkage is realistic — and this is why women with a new or growing goiter need more than a quick TSH check."
+    },
+    {
+      "q": "Do I need surgery for a goiter?",
+      "a": "Most people don't. Surgery is reserved for goiters causing compressive symptoms (trouble swallowing or breathing, persistent hoarseness), goiters with suspicious or biopsy-proven malignant nodules, hyperfunctioning goiters when other treatments fail or are not preferred, and certain very large goiters extending behind the breastbone. The decision is individualized. At Modern Thyroid Clinic we focus first on identifying the cause and treating it medically when possible — surgery is a real option but rarely the first one."
+    }
+  ],
+  "keySymptoms": [
+    "Visible swelling at the base of the neck",
+    "Sensation of fullness in the throat",
+    "Difficulty swallowing",
+    "Hoarseness",
+    "Coughing or breathing difficulty (large goiters)",
+    "Tight feeling when wearing necklaces or collars",
+    "Neck pressure when lying down"
+  ],
+  "seoTitle": "Goiter: Causes, Symptoms & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "A goiter is an enlarged thyroid gland. Learn the causes, how it's evaluated with ultrasound and labs, and when medication or surgery is appropriate."
+}

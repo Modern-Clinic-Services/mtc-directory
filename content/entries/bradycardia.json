@@ -1,0 +1,31 @@
+{
+  "slug": "bradycardia",
+  "shortDefinition": "Bradycardia is a resting heart rate consistently below 60 beats per minute — often a sign of hypothyroidism or, in athletes, normal cardiovascular fitness.",
+  "fullDefinition": "## What is bradycardia?\n\nBradycardia — also known as **slow heart rate** — is a resting heart rate consistently below 60 beats per minute (bpm) in adults. It can be entirely normal (well-conditioned athletes routinely run in the 40s-50s) or it can signal an underlying problem — most importantly, an underactive thyroid, a medication effect, or a heart conduction issue.\n\nWhat we look for at Modern Thyroid Clinic is the *combination*: a slow heart rate plus symptoms (fatigue, dizziness, exercise intolerance, brain fog, cold intolerance) is much more likely to reflect a treatable cause than a slow heart rate alone in someone who feels great.\n\nUnlike tachycardia, bradycardia can sneak up — many women have no idea their pulse has slowed until a clinician notices it on an exam, or until a wearable flags it. The key questions are *why* and whether it's affecting how you feel.\n\n## What hormonal conditions cause bradycardia?\n\nThe most common drivers in women are:\n\n- **[hypothyroidism]** — Low thyroid hormone slows the heart's electrical conduction and reduces overall metabolic demand. Bradycardia is a classic finding in moderate-to-severe hypothyroidism.\n- **[hashimotos-thyroiditis]** — The leading cause of hypothyroidism in U.S. women.\n- **[myxedema-coma]** — Severe decompensated hypothyroidism with profound bradycardia, low body temperature, and altered mentation; a medical emergency.\n- **Beta-blockers, calcium channel blockers, and certain antiarrhythmics** — Pharmacologic causes that should always be reviewed.\n- **Sleep apnea** — Causes nocturnal bradycardia and warrants screening in symptomatic patients.\n- **Sinus node dysfunction or heart block** — Primary cardiac causes that need cardiology evaluation.\n- **Athletic conditioning** — Healthy adaptation, not pathology, in well-trained individuals.\n\n## When is it a red flag?\n\nSeek emergency care for slow heart rate with fainting, near-fainting, chest pain, severe shortness of breath, or confusion. New unexplained bradycardia in a woman who is not athletic — particularly with hypothyroid symptoms — warrants prompt evaluation. Heart rates persistently below 40 bpm, even without symptoms, deserve cardiology assessment to rule out heart block. In a known hypothyroid patient, bradycardia plus profound fatigue, cold intolerance, facial puffiness, and slow mentation can signal myxedema crisis.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we approach bradycardia by first identifying the cause. A complete thyroid panel — TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies — is the cornerstone, alongside a medication review, electrolyte panel, and an EKG. If hypothyroidism is the driver, optimizing thyroid hormone replacement typically restores normal heart rate within weeks to a few months. Cardiac causes are referred to cardiology for definitive workup, which may include monitoring or, in select cases, a pacemaker. Athletic bradycardia simply needs reassurance and ongoing monitoring.",
+  "commonQuestions": [
+    {
+      "q": "Is a slow heart rate always a problem?",
+      "a": "Not always. Endurance-trained adults often have resting heart rates in the 40s-50s with no symptoms — that's healthy adaptation, not disease. The concern is bradycardia *plus* symptoms: fatigue, lightheadedness, exercise intolerance, brain fog, cold intolerance, or fainting. A new slow heart rate in someone who is not athletic, especially with classic hypothyroid signs, is worth a thyroid panel and an EKG. The combination matters more than the number alone."
+    },
+    {
+      "q": "Can my thyroid really slow my heart down?",
+      "a": "Yes — bradycardia is one of the cardinal signs of hypothyroidism. Thyroid hormone increases heart rate, contractility, and overall metabolic demand. When T3 and T4 fall, the heart slows down, blood pressure can rise, and patients often feel sluggish. Many women whose hypothyroidism is undertreated continue to have low pulses and persistent fatigue even with a 'normal' TSH. Looking at Free T3 alongside TSH gives a fuller picture and often explains why the heart hasn't sped back up."
+    },
+    {
+      "q": "What if my fitness tracker shows my pulse dropping at night?",
+      "a": "Some nighttime drop is normal — heart rate falls during deep sleep. But if your overnight heart rate is consistently in the 30s-40s, paired with snoring, witnessed apneas, daytime sleepiness, or morning headaches, screen for sleep apnea. If overnight bradycardia is paired with hypothyroid symptoms, a thyroid panel is the right next step. Fitness trackers are good at flagging trends — bring the data to your clinician and let it inform a proper workup."
+    }
+  ],
+  "keySymptoms": [
+    "Resting heart rate consistently under 60 bpm (in non-athletes)",
+    "Fatigue and low energy",
+    "Lightheadedness or dizziness",
+    "Exercise intolerance",
+    "Brain fog or sluggish thinking",
+    "Cold intolerance",
+    "Shortness of breath with mild exertion",
+    "Fainting or near-fainting"
+  ],
+  "seoTitle": "Bradycardia: Slow Heart Rate & Thyroid Causes | Modern Thyroid Clinic",
+  "seoDescription": "A slow resting heart rate can signal hypothyroidism or other treatable causes. Learn when bradycardia matters and how to find the underlying issue."
+}

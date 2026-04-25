@@ -1,0 +1,32 @@
+{
+  "slug": "myxedema-coma",
+  "shortDefinition": "Myxedema coma is a rare, life-threatening manifestation of severe hypothyroidism marked by low body temperature, slowed mental status, and organ dysfunction.",
+  "fullDefinition": "## What is myxedema coma?\n\nMyxedema coma — sometimes called **severe hypothyroidism** in its decompensated form — is a rare medical emergency in which long-standing untreated or undertreated [hypothyroidism] tips into life-threatening organ dysfunction. Despite the name, true coma is not always present; the more common picture is profound mental sluggishness, low body temperature (hypothermia), slowed heart rate, low blood pressure, and respiratory depression. Mortality remains high (20-40%) even with prompt treatment, making early recognition critical. Myxedema coma occurs most often in older women with longstanding hypothyroidism, often during the winter months.\n\n## What causes myxedema coma?\n\nMyxedema coma develops when severe hypothyroidism is pushed past the body's ability to compensate. The underlying hypothyroidism is usually long-standing, often from [hashimotos-thyroiditis], thyroid surgery, or radioactive iodine treatment. Common triggers include cold exposure, infection (especially pneumonia or urinary tract infection), heart attack, stroke, trauma, surgery, certain medications (sedatives, narcotics, lithium, amiodarone), and abrupt discontinuation of thyroid medication. Many patients have undiagnosed or undertreated hypothyroidism for years before the precipitating event.\n\n## How is myxedema coma diagnosed?\n\nDiagnosis is clinical, supported by labs. The classic picture includes hypothermia (often below 95°F), profound fatigue progressing to lethargy and stupor, slow heart rate, low blood pressure, slow shallow breathing, and characteristic skin and facial swelling (myxedema). Lab work confirms severe hypothyroidism — markedly elevated TSH (often above 50-100), very low Free T4, and often very low sodium, low blood sugar, and elevated cortisol response abnormalities. Adrenal function is typically tested simultaneously because adrenal insufficiency can coexist and must be addressed before thyroid hormone is given. Because rapid treatment is essential, clinicians often begin therapy based on clinical suspicion before all labs return.\n\n## How is myxedema coma treated?\n\nMyxedema coma requires intensive care. Treatment includes intravenous thyroid hormone replacement (T4 with or without T3, given carefully because too rapid correction can trigger cardiac complications), intravenous corticosteroids until adrenal insufficiency is excluded, gradual rewarming, ventilatory support if breathing is compromised, careful fluid and electrolyte management, and treatment of the precipitating cause (especially infection). Modern Thyroid Clinic does not manage myxedema coma — this is exclusively emergency department and ICU care. Our role is preventing this outcome by identifying and adequately treating hypothyroidism long before it ever reaches this point. Patients who survive myxedema coma require lifelong thyroid hormone replacement and careful management to prevent recurrence.",
+  "commonQuestions": [
+    {
+      "q": "Could untreated hypothyroidism really lead to myxedema coma?",
+      "a": "It can, though it's rare and typically requires both severe untreated hypothyroidism and a triggering event such as cold exposure, infection, or surgery. The risk is highest in older women with long-standing undiagnosed or undertreated hypothyroidism, especially those who are socially isolated and may go unnoticed as they decline. This is one of the reasons proper thyroid evaluation and treatment matters even when symptoms seem mild — undertreated hypothyroidism is not benign over the long run, and severe complications are preventable with adequate care."
+    },
+    {
+      "q": "What's the difference between myxedema and myxedema coma?",
+      "a": "Myxedema is the characteristic non-pitting swelling of the skin and tissues seen in long-standing severe hypothyroidism, particularly around the face (puffy face, eyelids, lips). Myxedema coma is the life-threatening decompensation of severe hypothyroidism, which often features myxedema along with hypothermia, mental status changes, and organ dysfunction. You can have myxedema (the skin finding) without being in myxedema coma — the term \"coma\" refers to the broader emergency syndrome, even when the patient isn't fully comatose."
+    },
+    {
+      "q": "How can myxedema coma be prevented?",
+      "a": "Prevention starts with identifying and treating hypothyroidism adequately. Anyone with hypothyroid symptoms — fatigue, weight gain, cold intolerance, brain fog, depression, constipation — deserves a complete thyroid evaluation, not just a TSH check. Patients on thyroid hormone replacement should not stop their medication abruptly and should have periodic follow-up to ensure dosing remains appropriate. Older women living alone with diagnosed hypothyroidism need particular attention during cold months and during any acute illness, since these are the settings in which decompensation occurs."
+    }
+  ],
+  "keySymptoms": [
+    "Profound fatigue progressing to lethargy",
+    "Confusion or unresponsiveness",
+    "Low body temperature (below 95°F)",
+    "Slow heart rate (bradycardia)",
+    "Low blood pressure",
+    "Slow, shallow breathing",
+    "Puffy face and skin (myxedema)",
+    "Cold, dry skin",
+    "Coma (in severe cases)"
+  ],
+  "seoTitle": "Myxedema Coma: Symptoms, Causes & Emergency Care | Modern Thyroid Clinic",
+  "seoDescription": "Myxedema coma is a life-threatening severe hypothyroidism emergency. Learn the warning signs, triggers, and why immediate hospital treatment is essential."
+}

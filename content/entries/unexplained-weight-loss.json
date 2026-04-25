@@ -1,0 +1,33 @@
+{
+  "slug": "unexplained-weight-loss",
+  "shortDefinition": "Unexplained or unintentional weight loss in women can signal hyperthyroidism, diabetes, autoimmune disease, or other serious conditions and warrants prompt evaluation.",
+  "fullDefinition": "## What is unexplained weight loss?\n\nUnexplained weight loss — also called **unintentional weight loss** — is a loss of more than about 5% of body weight over six to twelve months without trying. Unlike unexplained weight gain, unexplained weight loss is treated more urgently in medicine because it can be the first sign of a serious underlying problem. While some women silently celebrate it, sustained, unintentional weight loss should always be investigated.\n\nIn women, unintended weight loss is most commonly driven by an over-active metabolism, malabsorption, or — less often — a more serious condition that deserves prompt attention.\n\n## What hormonal and medical conditions cause unexplained weight loss?\n\nCommon drivers include:\n\n- **[Hyperthyroidism]** and **[graves-disease]** — accelerated metabolism, sometimes with normal or increased appetite\n- **[Type-2-diabetes]** (especially when newly uncontrolled) and type 1 diabetes\n- **Adrenal insufficiency** and [cushings-syndrome] (later stages)\n- **Celiac disease and other malabsorption** — including inflammatory bowel disease\n- **Cancer** — particularly gastrointestinal, lung, ovarian, and lymphoma\n- **Chronic infections** (HIV, tuberculosis, parasites)\n- **Depression, anxiety, and eating disorders**\n- **Heart, kidney, or liver failure**\n- **Medication side effects** (some stimulants, GLP-1s, metformin, chemotherapy)\n- **[Acromegaly]** earlier and **hypopituitarism** later in disease course\n\n## When is unexplained weight loss a red flag?\n\nUnintentional weight loss should generally be evaluated whenever it occurs. **Seek prompt medical attention** if it is accompanied by:\n\n- **Loss of more than 5% of body weight in 6–12 months without trying**\n- **Drenching night sweats**\n- **Persistent fevers or chills**\n- **Significant fatigue**\n- **Palpitations, racing heart, tremor, or heat intolerance** — possible [hyperthyroidism]\n- **Excessive thirst, urination, blurred vision** — possible diabetes\n- **Blood in stool or urine, persistent abdominal pain**\n- **New lumps, persistent cough, or jaundice**\n- **Significant appetite loss**\n\nThis is one symptom where waiting and watching is rarely the right answer.\n\n## What typically helps?\n\nThe priority is identifying the cause. Workup at Modern Thyroid Clinic for a thyroid- or hormone-driven picture typically includes a complete thyroid panel (TSH, Free T4, Free T3, TPO and TSI/TRAb antibodies), fasting glucose, HbA1c, complete blood count, comprehensive metabolic panel, hs-CRP, ferritin, vitamin D, and B12. Depending on the picture we may add cortisol, celiac antibodies, and stool studies. We coordinate with primary care or specialists when broader workup — including imaging or oncology evaluation — is appropriate.\n\nTreatment is dictated by the cause. [Graves-disease] and [hyperthyroidism], for example, respond to antithyroid medication, radioactive iodine, or surgery, after which weight typically stabilizes. Diabetes-related weight loss responds to glucose control. Malabsorption resolves once the underlying cause is treated. The single most important step is getting to the diagnosis quickly — which is why MTC takes unexplained weight loss seriously rather than reassuring patients that the scale is moving in a 'good' direction.",
+  "commonQuestions": [
+    {
+      "q": "Could my thyroid be the cause?",
+      "a": "Often, yes. [Hyperthyroidism] — most commonly from [graves-disease] in younger women — speeds metabolism enough to cause meaningful weight loss even with a normal or increased appetite. Telltale companion symptoms include rapid or pounding heart, tremor, heat intolerance, anxiety, sleep disruption, more frequent stools, and lighter or absent periods. A complete thyroid panel — including TSI or TRAb antibodies — is part of any unexplained-weight-loss workup at MTC."
+    },
+    {
+      "q": "Should I be worried about cancer?",
+      "a": "Cancer is one of several possibilities — not the most common, but the most important not to miss. Significant unintentional weight loss, especially with night sweats, persistent fatigue, new lumps, blood in stool or urine, persistent cough, or jaundice, deserves prompt primary-care evaluation. Most workups identify a non-cancer cause (thyroid, diabetes, malabsorption, depression), but the appropriate response is a thorough evaluation with your primary care physician — not reassurance and waiting."
+    },
+    {
+      "q": "When is unexplained weight loss urgent?",
+      "a": "A loss of more than about 5% of body weight in 6–12 months without trying — or any meaningful unintentional loss accompanied by drenching night sweats, persistent fevers, severe fatigue, palpitations, blood in stool or urine, jaundice, new lumps, or significant appetite loss — warrants prompt evaluation, generally within days to a few weeks. This isn't a symptom to schedule out months in advance. Your primary care physician or endocrinologist can quickly run the right initial labs."
+    }
+  ],
+  "keySymptoms": [
+    "Loss of >5% body weight without trying",
+    "Clothes fitting noticeably looser",
+    "Decreased appetite or, conversely, eating more without gaining",
+    "Fatigue and weakness",
+    "Night sweats",
+    "Palpitations or racing heart",
+    "Heat intolerance",
+    "Increased thirst and urination",
+    "Changes in bowel habits",
+    "New abdominal pain or bloating"
+  ],
+  "seoTitle": "Unexplained Weight Loss: Causes & When to Get Help | Modern Thyroid Clinic",
+  "seoDescription": "Unexplained weight loss can signal hyperthyroidism, diabetes, or other serious conditions. Learn the causes, red flags, and when to seek evaluation."
+}

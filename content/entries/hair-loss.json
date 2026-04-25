@@ -1,0 +1,33 @@
+{
+  "slug": "hair-loss",
+  "shortDefinition": "Hair loss in women — including thinning, shedding, and telogen effluvium — is often driven by thyroid disease, low ferritin, hormones, or nutrient deficiencies.",
+  "fullDefinition": "## What is hair loss?\n\nHair loss in women — sometimes called **thinning hair**, **hair shedding**, or **telogen effluvium** — refers to noticeable reductions in hair density, increased shedding, or a change in hair quality (finer, drier, slower-growing). It's a uniquely distressing symptom, both because hair is so visible and because the cause is often dismissed or treated cosmetically rather than medically.\n\nHair grows in cycles. Disturbances in hormones, nutrients, inflammation, or stress shift more follicles into the resting and shedding phase, producing the diffuse thinning and increased shower-drain shedding most women describe.\n\n## What hormonal conditions cause hair loss?\n\nHair is exquisitely sensitive to hormonal and nutritional change. The most common drivers include:\n\n- **[Hypothyroidism]** and **[hashimotos-thyroiditis]** — classic cause of diffuse thinning and outer-eyebrow loss\n- **Low [ferritin] / iron deficiency** — common in menstruating women; ferritin under 50–70 ng/mL often impairs hair growth\n- **[Polycystic-ovary-syndrome]** — androgen-driven thinning at the crown\n- **Postpartum hormone shifts** — common, usually self-limited\n- **[Perimenopause] and [menopause]** — declining estrogen reduces hair density and quality\n- **Acute stress, illness, surgery, or rapid weight loss** — telogen effluvium 2–4 months later\n- **Crash diets** and protein insufficiency\n- **Zinc, B12, vitamin D, and biotin deficiency**\n- **Certain medications** — including some antidepressants, beta-blockers, and hormonal contraceptives\n- **Autoimmune conditions** like alopecia areata and lupus\n\n## When is hair loss a red flag?\n\nMost hair loss is benign and reversible — but certain patterns warrant prompt evaluation:\n\n- **Patchy, well-defined bald spots** — possible alopecia areata\n- **Scarring or tender, inflamed scalp** — possible scarring alopecia, which is urgent\n- **Sudden, severe hair loss with other symptoms** (rashes, joint pain, fatigue) — possible autoimmune disease\n- **Hair loss with significant weight changes, voice changes, or skin changes** — endocrine evaluation needed\n- **Persistent loss despite normal-looking labs**\n\nA dermatologist's evaluation is appropriate alongside hormonal workup when these features appear.\n\n## What typically helps?\n\nThe fastest path to results is identifying and correcting the actual driver. A typical workup at Modern Thyroid Clinic includes a complete thyroid panel (TSH, Free T4, Free T3, antibodies), [ferritin] (we target optimal, not just lab-normal), vitamin D, vitamin B12, [zinc], complete blood count, and — when indicated — sex-hormone and androgen testing. From there, treatment is layered:\n\n- **Optimize thyroid hormone**\n- **Restore [ferritin]** with iron when indicated\n- **Replete zinc, vitamin D, and B12**\n- **Adequate protein intake** (often 1.0–1.2 g/kg/day)\n- **Address PCOS and androgen excess**\n- **Treat scalp inflammation** with a dermatologist when relevant\n- **Reduce acute stressors** and support recovery from telogen effluvium\n\nMost hair regrowth takes 3–6 months to become visible after the underlying cause is addressed — patience is part of the plan.",
+  "commonQuestions": [
+    {
+      "q": "Is this from my thyroid?",
+      "a": "Often, yes. Both [hypothyroidism] and [hashimotos-thyroiditis] are leading hormonal causes of diffuse hair thinning in women. Classic clues include thinning across the entire scalp, loss of the outer third of the eyebrows, dry skin, and fatigue. The catch is that suboptimal Free T3 and elevated antibodies can affect hair before TSH crosses the lab cutoff — which is why a complete thyroid panel, not just a TSH, is essential. Many women see hair recovery within 3–6 months of properly optimized thyroid replacement."
+    },
+    {
+      "q": "What ferritin level do I actually need for healthy hair?",
+      "a": "While most labs flag ferritin as 'low' only below 15–30 ng/mL, dermatologists and thyroid specialists generally agree that hair growth requires considerably more iron storage. Functional optimal ferritin for healthy hair is typically 50–70 ng/mL or higher. Many women with hair loss have ferritin in the teens or 20s and have been told it's normal. At MTC we routinely interpret ferritin against optimal targets and use [iron-ferritin-support] when repletion is needed."
+    },
+    {
+      "q": "Will my hair come back?",
+      "a": "In most cases, yes — if the underlying cause is identified and addressed and the follicles haven't been permanently damaged. Telogen effluvium (stress- or illness-related shedding) almost always reverses. Thyroid-, ferritin-, and nutrient-driven loss typically regrows once those drivers are corrected. Recovery usually takes 3–6 months to become visible and longer to reach full density. Conditions involving scarring or long-standing androgen excess may require dermatology-led care for the best result."
+    }
+  ],
+  "keySymptoms": [
+    "Increased shedding in the shower or brush",
+    "Diffuse thinning across the scalp",
+    "Widening part line",
+    "Smaller ponytail circumference",
+    "Loss of the outer third of the eyebrows",
+    "Slower hair growth",
+    "Drier, finer, or more brittle hair",
+    "Crown thinning",
+    "Patchy bald spots",
+    "Scalp itching, tenderness, or inflammation"
+  ],
+  "seoTitle": "Hair Loss in Women: Hormonal Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Hair loss in women is often driven by thyroid disease, low ferritin, or hormones. Learn the common causes, red flags, and what typically helps regrowth."
+}

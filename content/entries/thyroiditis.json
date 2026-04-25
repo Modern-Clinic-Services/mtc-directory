@@ -1,0 +1,31 @@
+{
+  "slug": "thyroiditis",
+  "shortDefinition": "Thyroiditis is inflammation of the thyroid gland, with several forms ranging from chronic autoimmune to brief, painful, and self-limited.",
+  "fullDefinition": "## What is thyroiditis?\n\nThyroiditis — also called **thyroid inflammation** — is an umbrella term for any inflammatory process affecting the thyroid gland. Different forms have different causes, time courses, and treatments. Some are autoimmune and lifelong; others are infectious or post-viral and resolve in weeks to months. What unites them is the way inflammation disrupts normal thyroid function. Many forms of thyroiditis cause a characteristic three-phase pattern: a brief hyperthyroid phase as inflamed cells release stored hormone, followed by a hypothyroid phase as the gland recovers, and finally a return to normal function — though some women remain hypothyroid permanently.\n\n## What are the main types of thyroiditis?\n\nThe most common form is **chronic autoimmune thyroiditis**, better known as [hashimotos-thyroiditis], which gradually damages the thyroid and is the leading cause of hypothyroidism in the United States. **[Postpartum-thyroiditis]** affects up to one in twenty women in the year after childbirth. **[Subacute-thyroiditis]** (De Quervain's) follows a viral illness and is typically painful. **[Silent-thyroiditis]** is painless and resembles postpartum thyroiditis but occurs outside of pregnancy. Less common forms include drug-induced thyroiditis (lithium, amiodarone, immunotherapy drugs), radiation thyroiditis, and acute infectious thyroiditis from bacterial infection — the last being a medical emergency.\n\n## How is thyroiditis diagnosed?\n\nDiagnosis combines clinical history, physical exam, lab work, and imaging. Lab work includes TSH, Free T4, Free T3, thyroid antibodies (TPO, TgAb, TSI when indicated), and inflammatory markers (ESR, CRP) for painful forms. The pattern of changes over time — and the presence or absence of antibodies — helps distinguish autoimmune thyroiditis from the post-viral or postpartum forms. Thyroid ultrasound shows characteristic changes in gland texture. A radioactive iodine uptake scan can differentiate inflammatory hyperthyroidism (low uptake) from Graves' disease (high uptake), which matters because they are treated very differently.\n\n## How is thyroiditis treated?\n\nTreatment depends on the type and phase. Hashimoto's thyroiditis is managed with thyroid hormone replacement once hypothyroidism develops, alongside root-cause work to calm the autoimmune process. Subacute thyroiditis often responds to anti-inflammatory medication and, in severe cases, a brief course of steroids. The transient hyperthyroid phase of any thyroiditis is typically managed with beta-blockers for symptom control — anti-thyroid medications are not effective because the gland is leaking, not overproducing. The hypothyroid phase may require temporary thyroid hormone replacement. At Modern Thyroid Clinic, we monitor closely through each phase and identify which women will recover fully and which will need long-term support.",
+  "commonQuestions": [
+    {
+      "q": "Is thyroiditis the same as hypothyroidism?",
+      "a": "No, but they're related. Thyroiditis is inflammation of the thyroid; hypothyroidism is a state of low thyroid hormone. Many forms of thyroiditis eventually cause hypothyroidism — Hashimoto's is the most common example. Other forms cause temporary hypothyroidism that resolves as inflammation settles. You can also have thyroiditis with normal hormone levels, especially in the early stages of an autoimmune process. Distinguishing the type of thyroiditis matters because the treatment, prognosis, and need for medication differ substantially."
+    },
+    {
+      "q": "Can thyroiditis cause hyperthyroidism?",
+      "a": "Yes, several forms can — at least temporarily. As inflamed thyroid cells break down, they release stored hormone into the bloodstream, producing a hyperthyroid phase that typically lasts weeks to a few months. This is common in postpartum, subacute, and silent thyroiditis. Treatment focuses on symptom relief (beta-blockers for racing heart, tremors, anxiety), because anti-thyroid medications don't help — the gland isn't overproducing, it's leaking. The hyperthyroid phase usually gives way to a hypothyroid phase before normal function returns."
+    },
+    {
+      "q": "Will my thyroiditis go away?",
+      "a": "It depends on the type. Subacute thyroiditis usually resolves completely within months. Postpartum and silent thyroiditis resolve in most women within a year, though about 20-30% develop permanent hypothyroidism. Hashimoto's thyroiditis, by contrast, is typically lifelong — the autoimmune process can be calmed but generally doesn't fully reverse, and most women eventually need thyroid hormone replacement. Knowing your specific type and watching how your labs and symptoms evolve over time tells you what to expect."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue",
+    "Neck tenderness or pain (some forms)",
+    "Symptoms of hyperthyroidism (early phase)",
+    "Symptoms of hypothyroidism (later phase)",
+    "Enlarged or tender thyroid gland",
+    "Mood changes",
+    "Heart palpitations or racing pulse",
+    "Difficulty regulating temperature"
+  ],
+  "seoTitle": "Thyroiditis: Types, Symptoms & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Thyroiditis is inflammation of the thyroid gland with several forms — autoimmune, postpartum, subacute, and silent. Learn the types, diagnosis, and treatment."
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "congenital-hypothyroidism",
+  "shortDefinition": "Congenital hypothyroidism is an underactive thyroid present from birth, typically detected through newborn screening and treated promptly to prevent developmental delays.",
+  "fullDefinition": "## What is congenital hypothyroidism?\n\nCongenital hypothyroidism is a thyroid condition present from birth in which a baby's thyroid gland does not produce enough thyroid hormone. Historically called **cretinism**, a term now considered outdated and avoided in modern medicine, congenital hypothyroidism affects roughly 1 in 2,000 to 1 in 4,000 newborns globally. Because thyroid hormone is essential for normal brain development and growth, untreated congenital hypothyroidism leads to severe and irreversible cognitive impairment and growth failure. The good news is that newborn screening — now routine in the United States and most developed countries — catches the condition within days of birth, and prompt treatment essentially prevents these complications.\n\n## What causes congenital hypothyroidism?\n\nThe most common cause is **thyroid dysgenesis** — abnormal development of the thyroid gland during fetal life, including a thyroid that is absent (athyreosis), underdeveloped (hypoplasia), or located in an abnormal position (ectopic). The second major category is **dyshormonogenesis**, in which the gland forms normally but cannot make or process thyroid hormone properly due to inherited enzyme defects. Less common causes include severe iodine deficiency in the mother, transplacental antibodies (from a mother with autoimmune thyroid disease), congenital pituitary problems, and certain medications taken during pregnancy. Risk is higher in babies with Down syndrome, in girls, and in some racial and ethnic groups.\n\n## How is congenital hypothyroidism diagnosed?\n\nNewborn screening — typically a heel-stick blood sample taken in the first few days of life — measures TSH, T4, or both, depending on the protocol. Abnormal screening triggers immediate confirmatory testing with serum TSH and Free T4. Imaging (thyroid ultrasound, radionuclide scan) helps clarify the underlying cause, which informs long-term management. Maternal thyroid status and antibodies may also be evaluated. Speed matters: diagnosis and treatment within the first few weeks of life are essential to protect brain development.\n\n## How is congenital hypothyroidism treated?\n\nTreatment is straightforward in concept and life-changing in impact: thyroid hormone replacement, typically with **levothyroxine**, started as early as possible after diagnosis. Doses are weight-based and adjusted frequently as the baby grows. Close monitoring with TSH and Free T4 ensures levels stay in the optimal range — particularly important during the first three years of life, when brain development is most vulnerable. Most children with promptly treated congenital hypothyroidism go on to have completely normal cognitive development, growth, and adult function. Some forms (especially transient cases caused by maternal antibodies or iodine excess) resolve over months or years, while others require lifelong treatment. Modern Thyroid Clinic does not manage congenital hypothyroidism in pediatric patients — this is the domain of pediatric endocrinology — but adults who were treated for congenital hypothyroidism continue to need lifelong [hypothyroidism] care.",
+  "commonQuestions": [
+    {
+      "q": "How is congenital hypothyroidism detected?",
+      "a": "It is identified through newborn screening, a heel-stick blood test performed in the first few days of life as part of standard newborn care in the United States and most developed countries. The screen measures TSH, T4, or both. Abnormal results prompt immediate confirmatory blood tests and, if confirmed, treatment is started right away. Without screening, congenital hypothyroidism is often not noticed until significant developmental delay has already occurred — which is why universal screening is one of the most successful public health programs in pediatrics."
+    },
+    {
+      "q": "Will my child outgrow congenital hypothyroidism?",
+      "a": "Sometimes. Permanent congenital hypothyroidism (most cases of thyroid dysgenesis) requires lifelong treatment. Transient congenital hypothyroidism — caused by maternal antibodies, maternal iodine deficiency or excess, or certain medications during pregnancy — can resolve over months to a few years. Periodic re-evaluation, sometimes including a brief medication trial off, helps identify which children can stop treatment and which need to continue. The pediatric endocrinology team typically guides this decision based on cause, response to treatment, and ongoing labs."
+    },
+    {
+      "q": "Does treated congenital hypothyroidism affect adult life?",
+      "a": "When diagnosed and treated promptly through newborn screening, the long-term outlook is excellent. Most adults with treated congenital hypothyroidism have normal cognitive function, normal growth, normal fertility, and a normal life expectancy. They do typically need lifelong thyroid hormone replacement and regular monitoring. As adults, they benefit from working with a clinician who understands the nuances of long-standing thyroid replacement, including optimizing medication choice, dosing, and dealing with life events like pregnancy that change thyroid hormone needs."
+    }
+  ],
+  "keySymptoms": [
+    "Often no symptoms at birth (caught by screening)",
+    "Prolonged jaundice",
+    "Poor feeding",
+    "Constipation",
+    "Excessive sleepiness",
+    "Low muscle tone",
+    "Cool, dry skin",
+    "Hoarse cry",
+    "Large fontanelles (soft spots)",
+    "Slow growth"
+  ],
+  "seoTitle": "Congenital Hypothyroidism: Newborn Screening & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Congenital hypothyroidism is an underactive thyroid present from birth. Learn how newborn screening catches it and why prompt treatment prevents complications."
+}

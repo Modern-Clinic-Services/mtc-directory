@@ -1,0 +1,30 @@
+{
+  "slug": "heat-intolerance",
+  "shortDefinition": "Heat intolerance is unusual sensitivity to warm temperatures — often a sign of an overactive thyroid, perimenopause, or autonomic dysregulation.",
+  "fullDefinition": "## What is heat intolerance?\n\nHeat intolerance — sometimes simply described as **feeling hot all the time** — is the experience of overheating, flushing, or sweating in temperatures that do not bother others. You may run the air conditioner cold while your family is in sweaters, sweat through clothing during light activity, or feel internally hot even when the room is cool.\n\nIt is different from a single hot environment producing discomfort; heat intolerance is a *pattern* — a persistent shift in your thermostat that often points upstream to hormone or metabolic changes. In women, the two most common drivers are an overactive thyroid and the perimenopausal transition, and the workup looks quite different for each.\n\n## What hormonal conditions cause heat intolerance?\n\n- **[hyperthyroidism]** — Excess thyroid hormone accelerates metabolism and raises baseline heat production.\n- **[graves-disease]** — The autoimmune cause of most hyperthyroidism in women; often pairs with palpitations, weight loss, anxiety, and tremor.\n- **[perimenopause]** and **[menopause]** — Falling and fluctuating estradiol disrupt the hypothalamic thermoregulatory set point, producing [hot-flashes] and [night-sweats].\n- **[subclinical-hyperthyroidism]** — Heat intolerance can precede full hyperthyroidism by months.\n- **Autonomic dysregulation** — POTS and dysautonomia can present with heat intolerance.\n- **Medications** — SSRIs, stimulants, and thyroid hormone over-replacement can drive the same picture.\n\n## When is it a red flag?\n\nHeat intolerance with rapid heart rate, unintentional weight loss, hand tremor, eye changes, or new anxiety raises concern for hyperthyroidism or Graves' disease and warrants prompt thyroid testing. Severe heat intolerance with confusion, agitation, or very high heart rate can signal **thyroid storm**, a medical emergency. In a woman over 40, the pattern of episodic heat with sweating and a flushed face is more often perimenopausal — but the two can coexist, which is why testing matters.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we sort heat intolerance with a complete thyroid panel — TSH, Free T4, Free T3, TSI, TRAb — alongside FSH, estradiol, and a careful symptom history. If hyperthyroidism is the driver, treatment may involve antithyroid medication, beta-blockers for symptom control, and addressing root causes such as gut and autoimmune triggers. If perimenopause is the source, options range from lifestyle and nervous system support to bioidentical hormone replacement. The right plan depends on the cause — which is why testing comes first.",
+  "commonQuestions": [
+    {
+      "q": "How do I know if my heat intolerance is thyroid or perimenopause?",
+      "a": "Both can produce overheating, but the patterns differ. Hyperthyroidism tends to cause continuous heat intolerance with weight loss, fast heart rate, tremor, anxiety, and sometimes eye changes. Perimenopausal heat is more episodic — sudden hot flashes lasting one to five minutes, often with flushing and sweating, particularly at night. The only way to know for sure is testing: a full thyroid panel plus FSH, LH, and estradiol. Many women in their 40s have both going on, which is why a thorough workup matters."
+    },
+    {
+      "q": "Can being too warm be the only thyroid symptom I have?",
+      "a": "Sometimes, yes — especially early in hyperthyroidism. Heat intolerance can appear before more obvious signs like weight loss, palpitations, or eye changes. Subclinical hyperthyroidism, where Free T4 and Free T3 are normal but TSH is suppressed, is easy to miss without complete testing. If heat intolerance is new, persistent, and unexplained, it is worth a full thyroid panel even if you feel otherwise well."
+    },
+    {
+      "q": "What can help my heat intolerance while I'm getting evaluated?",
+      "a": "Practical strategies bridge the gap: dress in breathable layers you can shed, keep your bedroom cool (65-68°F is ideal), limit caffeine and alcohol that can amplify symptoms, and stay well-hydrated. A small fan at the desk and bedside helps many women significantly. None of these address the underlying cause, but they can preserve quality of life while we identify what your body is responding to and build a plan."
+    }
+  ],
+  "keySymptoms": [
+    "Feeling hot when others are comfortable",
+    "Excessive sweating with mild activity",
+    "Inability to tolerate warm rooms",
+    "Flushing of the face, neck, or chest",
+    "Sleep disrupted by overheating",
+    "Heat-triggered fatigue or lightheadedness",
+    "Rapid heart rate in warm conditions"
+  ],
+  "seoTitle": "Heat Intolerance: Hyperthyroidism & Menopause Causes | Modern Thyroid Clinic",
+  "seoDescription": "Heat intolerance often signals hyperthyroidism, Graves' disease, or perimenopause. Learn how to identify the cause and find effective treatment."
+}

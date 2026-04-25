@@ -1,0 +1,30 @@
+{
+  "slug": "edema",
+  "shortDefinition": "Edema is fluid retention causing swelling — often in the face, hands, ankles, or legs — and a classic feature of hypothyroidism and hormonal shifts.",
+  "fullDefinition": "## What is edema?\n\nEdema — also called **water retention** or **swelling** — is the buildup of fluid in tissues, producing puffiness, tightness, and sometimes visible indentation when you press on the skin. It can affect the face (especially under the eyes), hands, ankles, feet, abdomen, or be more generalized. In thyroid disease, the swelling has a particular feel: firm, doughy, and non-pitting — the classic appearance of *myxedema*.\n\nMild fluid shifts are normal — long flights, salty meals, the second half of the menstrual cycle. Persistent or significant edema is a clue worth investigating, especially in midlife women.\n\n## What conditions cause edema?\n\nIn a thyroid and hormone clinic, the most common drivers are:\n\n- **[hypothyroidism]** — low thyroid causes mucopolysaccharides to accumulate in tissues, drawing in fluid (myxedema)\n- **[myxedema-coma]** — extreme, life-threatening hypothyroid edema (rare)\n- **[puffy-face]** — particularly periorbital swelling, a hallmark hypothyroid sign\n- **Premenstrual fluid retention** — progesterone and aldosterone shifts\n- **Perimenopause and menopause** — fluctuating estrogen affects fluid balance\n- **Insulin resistance** — drives sodium and water retention\n\nNon-endocrine causes are equally important to consider:\n\n- **Heart, kidney, and liver disease**\n- **Venous insufficiency and lymphedema**\n- **Medication side effects** — calcium channel blockers, NSAIDs, steroids\n- **Pregnancy**\n- **Allergic reactions**\n\n## When is edema a red flag?\n\nSeek prompt evaluation for one-sided leg swelling (especially with calf pain or warmth — possible blood clot), sudden facial swelling with breathing difficulty, edema with shortness of breath or chest pain, rapidly progressive swelling, or pitting edema that persists overnight. New abdominal swelling, especially with bloating, deserves evaluation. Most edema is benign and treatable, but these features can signal cardiac, vascular, or kidney issues that need fast attention.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, edema prompts a workup including a full thyroid panel, kidney and liver function, basic cardiac assessment, and review of medications. When [hypothyroidism] is the driver, optimizing thyroid hormone — typically with **[levothyroxine]** — reduces myxedematous swelling over weeks to months as tissue composition normalizes. For hormonal edema, balancing estrogen and progesterone often helps; for insulin-driven retention, addressing blood sugar matters. Reducing sodium, managing stress, gentle movement, magnesium, and adequate protein all contribute. Compression and elevation help peripheral edema while the underlying cause is being treated. Persistent unexplained edema deserves a complete workup, not guesswork.",
+  "commonQuestions": [
+    {
+      "q": "Why does hypothyroidism cause swelling?",
+      "a": "Low thyroid hormone slows the breakdown of mucopolysaccharides — large molecules that bind water — in connective tissue. As they accumulate, they pull fluid into the tissues, creating a firm, doughy swelling called myxedema. This is most visible in the face (especially around the eyes), hands, and ankles. Unlike fluid edema from heart or kidney disease, myxedema doesn't pit deeply when you press on it. Optimizing thyroid hormone reverses these tissue changes, though the puffiness can take several months to fully resolve."
+    },
+    {
+      "q": "How is thyroid edema different from other swelling?",
+      "a": "Thyroid-related edema (myxedema) is typically firm, non-pitting, and feels doughy rather than soft. It often shows up on the face — especially the eyelids and under the eyes — and on the hands. Cardiac, kidney, and venous edema, by contrast, tend to be soft and pitting, concentrate in the lower legs and feet, and worsen later in the day. Lab work and a careful exam usually distinguish the two. Hormonal edema falls in between and tends to fluctuate with the cycle."
+    },
+    {
+      "q": "What labs help find the cause?",
+      "a": "We typically order a full thyroid panel (TSH, Free T4, Free T3, antibodies), kidney function and electrolytes, liver enzymes, albumin, fasting glucose and insulin, and sometimes cardiac markers if heart disease is suspected. A urinalysis screens for kidney protein loss. Sex hormones may be tested if symptoms cycle. The goal is to differentiate thyroid, kidney, cardiac, hepatic, and hormonal contributors, because the treatment paths are very different."
+    }
+  ],
+  "keySymptoms": [
+    "Puffy face or eyelids",
+    "Swollen hands or fingers",
+    "Ankle and foot swelling",
+    "Tight rings or shoes",
+    "Doughy, firm swelling",
+    "Weight fluctuation by several pounds in a day",
+    "Indentation when pressing on the skin"
+  ],
+  "seoTitle": "Edema: Thyroid, Hormonal & Cardiac Causes | Modern Thyroid Clinic",
+  "seoDescription": "Edema (swelling) often signals hypothyroidism, hormonal shifts, or cardiac issues. Learn causes, red flags, and treatments."
+}

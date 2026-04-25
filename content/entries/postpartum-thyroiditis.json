@@ -1,0 +1,32 @@
+{
+  "slug": "postpartum-thyroiditis",
+  "shortDefinition": "Postpartum thyroiditis is inflammation of the thyroid gland that develops within the first year after childbirth, often causing transient hyper- and hypothyroid phases.",
+  "fullDefinition": "## What is postpartum thyroiditis?\n\nPostpartum thyroiditis (**PPT**) is a form of [thyroiditis] that develops in the first year after childbirth, miscarriage, or pregnancy loss. It affects roughly 5-10% of women, making it one of the most under-recognized causes of postpartum fatigue, mood changes, and weight struggles. PPT is autoimmune in nature and is closely related to [hashimotos-thyroiditis] — many women who develop PPT have detectable thyroid antibodies during pregnancy, and the postpartum immune rebound triggers thyroid inflammation.\n\nThe classic course has three phases: a transient hyperthyroid phase (typically 1-4 months postpartum), a hypothyroid phase (around 4-8 months postpartum), and gradual recovery. Not every woman experiences all three phases. Some have only the hypothyroid phase, others only the hyperthyroid phase, and some skip directly into permanent [hypothyroidism].\n\n## What causes postpartum thyroiditis?\n\nPregnancy temporarily suppresses the immune system to protect the developing baby. After delivery, the immune system rebounds, sometimes overshooting and triggering autoimmune attacks on the thyroid in susceptible women. Risk factors include positive TPO antibodies before or during pregnancy, type 1 diabetes, a personal or family history of thyroid disease, and prior episodes of postpartum thyroiditis. The inflammation damages thyroid cells, releasing stored hormone (hyperthyroid phase) before the gland temporarily underperforms (hypothyroid phase).\n\n## How is postpartum thyroiditis diagnosed?\n\nPPT is often missed because its symptoms — fatigue, mood swings, weight changes, hair loss, brain fog — overlap heavily with normal postpartum experience and with postpartum depression. Diagnosis requires a complete thyroid panel: TSH, Free T4, Free T3, and thyroid antibodies (TPO, TgAb). The pattern of changes over months distinguishes PPT from Graves' disease, which can also occur postpartum but requires different treatment. A radioactive iodine uptake scan can help (low uptake in PPT, high in Graves'), but it cannot be done while breastfeeding without temporary cessation. At Modern Thyroid Clinic, we have a low threshold for evaluating women in the postpartum window — far too many are told their fatigue is \"just being a mom.\"\n\n## How is postpartum thyroiditis treated?\n\nTreatment depends on the phase and severity of symptoms. Mild cases often need only monitoring. Symptomatic hyperthyroidism is treated with beta-blockers — anti-thyroid drugs are not effective because the gland is leaking hormone, not overproducing. The hypothyroid phase, if symptomatic, is treated with thyroid hormone replacement. Many women can taper off medication once the gland recovers, though about 20-30% develop permanent hypothyroidism and need long-term replacement. Women who recover often have recurrences after subsequent pregnancies and have a higher lifetime risk of permanent thyroid disease, so ongoing monitoring matters.",
+  "commonQuestions": [
+    {
+      "q": "Could my postpartum depression actually be postpartum thyroiditis?",
+      "a": "It's worth checking. Postpartum thyroiditis and postpartum depression share many symptoms — fatigue, mood changes, brain fog, irritability, sleep disturbance — and the two can coexist. Studies show women with PPT have higher rates of postpartum depression. Anyone experiencing significant mood symptoms postpartum deserves a complete thyroid panel (not just TSH), especially if antidepressants aren't helping or if there's also fatigue, hair loss, or weight changes. Treating the thyroid often improves the mood picture substantially."
+    },
+    {
+      "q": "Will postpartum thyroiditis happen again with my next pregnancy?",
+      "a": "It often does. Roughly 70% of women who have had postpartum thyroiditis will experience it again with a subsequent pregnancy. Knowing this allows for proactive monitoring — checking thyroid labs during pregnancy and at 3, 6, and 12 months postpartum. Women with persistently elevated TPO antibodies are particularly likely to recur. Even when PPT resolves fully, the underlying autoimmune tendency remains, raising the long-term risk of Hashimoto's thyroiditis later in life."
+    },
+    {
+      "q": "Is it safe to breastfeed during postpartum thyroiditis?",
+      "a": "Yes, in nearly all cases. The thyroiditis itself does not affect breast milk safety. Beta-blockers used during the hyperthyroid phase are generally considered compatible with breastfeeding (propranolol is preferred). Thyroid hormone replacement (levothyroxine) is also safe and, if anything, supports milk supply, which can suffer with hypothyroidism. The main breastfeeding consideration is avoiding radioactive iodine scans, which require temporary or permanent cessation of nursing. Coordination with a thyroid-savvy clinician makes this straightforward."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue beyond typical newborn-related tiredness",
+    "Mood swings, anxiety, or depression",
+    "Hair loss",
+    "Difficulty losing or gaining weight",
+    "Heart palpitations (hyperthyroid phase)",
+    "Heat or cold intolerance",
+    "Brain fog",
+    "Difficulty with milk supply",
+    "Irritability or rage"
+  ],
+  "seoTitle": "Postpartum Thyroiditis: Symptoms, Phases & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Postpartum thyroiditis affects up to 10% of new mothers. Learn the hyper- and hypothyroid phases, how it's diagnosed, and when treatment is needed."
+}

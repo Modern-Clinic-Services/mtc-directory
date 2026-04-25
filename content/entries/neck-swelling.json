@@ -1,0 +1,30 @@
+{
+  "slug": "neck-swelling",
+  "shortDefinition": "Neck swelling is visible or palpable fullness in the front of the neck, often due to thyroid enlargement, nodules, or autoimmune thyroid disease.",
+  "fullDefinition": "## What is neck swelling?\n\nNeck swelling — also called a **neck lump** or **anterior neck fullness** — refers to any visible bulge, asymmetry, or palpable mass in the front or sides of the neck. It can be soft and diffuse (like a swollen gland) or firm and discrete (like a nodule). When the swelling is centered in the lower front of the neck, just above the collarbones, it most often involves the thyroid gland.\n\nMany women first notice neck swelling while putting on a necklace, swallowing, or looking in the mirror at a particular angle. It is one of the most common reasons women present to a thyroid clinic.\n\n## What conditions cause neck swelling?\n\nThe thyroid causes are most relevant here:\n\n- **[goiter]** — generalized enlargement of the thyroid, often diffuse and symmetric\n- **[thyroid-nodules]** — discrete lumps within the gland; most are benign\n- **[hashimotos-thyroiditis]** — autoimmune inflammation can cause the thyroid to enlarge or shrink over time\n- **Graves' disease** — autoimmune hyperthyroidism that often presents with a smooth, diffuse goiter\n- **Thyroid cysts** — fluid-filled, usually benign\n- **Thyroid cancer** — uncommon but important to rule out\n\nNon-thyroid causes also produce neck swelling:\n\n- **Lymph node enlargement** from infection or inflammation\n- **Salivary gland issues**\n- **Lipomas and other soft tissue masses**\n- **Cysts** (thyroglossal, branchial)\n\n## When is neck swelling a red flag?\n\nAny new neck mass that persists more than two weeks deserves evaluation. Red flags that warrant prompt attention include a hard or fixed lump, rapid growth, hoarseness or voice change, [difficulty-swallowing], shortness of breath when lying flat, a single dominant nodule larger than 1 cm, or swollen lymph nodes alongside the mass. A family history of thyroid cancer, prior radiation to the head or neck, and being under 30 or over 60 also raise the index of suspicion.\n\n## What typically helps\n\nThe gold standard evaluation at Modern Thyroid Clinic is a thorough neck exam combined with a full thyroid panel (TSH, Free T4, Free T3, TPO and thyroglobulin antibodies) and a high-resolution thyroid ultrasound. Ultrasound characterizes whether swelling is from a goiter, nodule, or cyst, and whether any feature is suspicious enough to warrant a fine-needle aspiration biopsy. When [hashimotos-thyroiditis] or hypothyroidism is the driver, treatment with **[levothyroxine]** can sometimes reduce gland size. Iodine status, autoimmune triggers, and root-cause work all factor into a comprehensive plan. Most neck swelling has a benign and treatable cause once properly evaluated.",
+  "commonQuestions": [
+    {
+      "q": "Is a lump in my neck always cancer?",
+      "a": "No — the vast majority of thyroid lumps are benign. Studies suggest that more than 90-95% of thyroid nodules are non-cancerous, and many are simply cysts, colloid nodules, or part of an autoimmune thyroid pattern. That said, every new or growing neck mass deserves proper evaluation with ultrasound and labs to confirm. The goal is reassurance with real data, not anxiety or guesswork. Features like rapid growth, hardness, or voice change raise concern and warrant biopsy."
+    },
+    {
+      "q": "Can Hashimoto's make my neck swell?",
+      "a": "Yes. Hashimoto's thyroiditis often causes the thyroid to enlarge — sometimes subtly, sometimes noticeably — as the immune system infiltrates the gland. Over years, some glands shrink (atrophic Hashimoto's) while others remain enlarged. Many women first notice the swelling when buttoning a collar or swallowing. Ultrasound typically shows a characteristic heterogeneous pattern, and elevated TPO antibodies confirm the diagnosis. Optimizing thyroid hormone and addressing autoimmune triggers is the standard approach."
+    },
+    {
+      "q": "What tests should I expect?",
+      "a": "Expect a thorough neck exam, a full thyroid panel including antibodies, and a thyroid ultrasound. Ultrasound is the single most useful test — it characterizes the swelling, measures any nodules, and identifies features that would prompt fine-needle aspiration biopsy. Lab work clarifies whether your thyroid is over- or underactive and whether autoimmunity is involved. Additional imaging or referral is occasionally needed for very large goiters compressing nearby structures."
+    }
+  ],
+  "keySymptoms": [
+    "Visible fullness in the front of the neck",
+    "Palpable lump or mass",
+    "Tight feeling when buttoning collars",
+    "Discomfort with swallowing",
+    "Pressure sensation in the neck",
+    "Asymmetry between sides",
+    "Voice changes"
+  ],
+  "seoTitle": "Neck Swelling: Goiter, Nodules & Thyroid Causes | Modern Thyroid Clinic",
+  "seoDescription": "Neck swelling often signals a thyroid issue — goiter, nodules, or Hashimoto's. Learn causes, red flags, and how it is evaluated."
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    {"id": "69ec973ee91bfe19bed38363", "slug": "adrenal-fatigue", "name": "Adrenal Fatigue"},
+    {"id": "69ec973ee91bfe19bed38365", "slug": "perimenopause", "name": "Perimenopause"},
+    {"id": "69ec973ee91bfe19bed38367", "slug": "menopause", "name": "Menopause"},
+    {"id": "69ec973ee91bfe19bed38369", "slug": "premature-ovarian-insufficiency", "name": "Premature Ovarian Insufficiency"},
+    {"id": "69ec973ee91bfe19bed3836b", "slug": "estrogen-dominance", "name": "Estrogen Dominance"}
+  ]
+}

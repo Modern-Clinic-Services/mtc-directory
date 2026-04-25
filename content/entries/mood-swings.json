@@ -1,0 +1,31 @@
+{
+  "slug": "mood-swings",
+  "shortDefinition": "Mood swings are sudden, marked shifts in emotional state — often driven by hormone fluctuations in perimenopause, PMDD, or estrogen dominance.",
+  "fullDefinition": "## What are mood swings?\n\nMood swings — also called **emotional lability** — are sudden, often disproportionate shifts in emotional state. You might feel fine, then irritated, then tearful, then fine again, all within hours. Many women describe them as feeling 'not like myself,' or as if a small frustration triggers a much larger emotional reaction than the situation warrants.\n\nMood swings are different from clinical depression or anxiety, though they can coexist. The hallmark is volatility: emotional states change quickly, often in response to hormone fluctuations rather than external events. In women in their 30s, 40s, and 50s, mood swings are extremely common during specific reproductive transitions and almost always have an identifiable hormonal driver.\n\n## What hormonal conditions cause mood swings?\n\nThe most common drivers in women are:\n\n- **[perimenopause]** — Erratic estradiol fluctuations and falling progesterone destabilize mood-regulating neurotransmitters (serotonin, dopamine, GABA); often the most common cause of new-onset mood swings in the 40s.\n- **[pmdd]** — Severe premenstrual dysphoric disorder; sharp mood shifts in the week or two before menstruation.\n- **[pms]** — Milder premenstrual mood changes; common but treatable.\n- **[estrogen-dominance]** — Relative excess of estrogen vs. progesterone; can produce irritability and emotional reactivity.\n- **[hypothyroidism]** and **[hyperthyroidism]** — Both can produce emotional volatility; thyroid disease is sometimes mistaken for primary mood disorder.\n- **[hashimotos-thyroiditis]** — Antibody activity itself appears to influence mood in some women.\n- **Postpartum hormone shifts and pregnancy** — Both can produce significant mood lability.\n- **HPA axis dysregulation, blood sugar instability, and sleep deprivation** — Common amplifiers of any underlying hormonal contributor.\n\n## When is it a red flag?\n\nMood swings with thoughts of self-harm or harm to others, severe enough to interfere with relationships or work, or consistent with bipolar pattern (extended highs and lows lasting days to weeks rather than hours) need prompt mental health evaluation. Severe premenstrual mood symptoms that meaningfully disrupt life — PMDD — deserve full evaluation and treatment, not dismissal as 'just PMS.' If you're in crisis, call or text 988 in the U.S. for the Suicide & Crisis Lifeline.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, mood swings prompt a full hormonal workup: a complete thyroid panel (TSH, Free T4, Free T3, reverse T3, antibodies), FSH, LH, estradiol, and progesterone (often timed to cycle), morning cortisol, and key nutrients including vitamin D, B12, and magnesium. Treatment may include thyroid optimization, bioidentical progesterone for the luteal phase or perimenopause, addressing estrogen metabolism, supporting blood sugar and sleep, and targeted nutrient repletion. Therapy and, when appropriate, psychiatric medication remain part of comprehensive care. Many women experience meaningful steadiness within a few cycles once hormones are addressed.",
+  "commonQuestions": [
+    {
+      "q": "Are my mood swings just stress, or is something hormonal going on?",
+      "a": "Stress can certainly amplify mood swings, but if your emotional reactions feel disproportionate, predictable around your cycle, or new without a clear life cause, hormones are likely doing real work. Track your mood alongside your menstrual cycle for two months — patterns become obvious. Mood symptoms that worsen in the week or two before periods strongly suggest PMS or PMDD; new-onset volatility in the 40s often points to perimenopause; sudden new lability deserves a thyroid panel. Testing turns guesswork into a plan."
+    },
+    {
+      "q": "Will progesterone really help my mood swings?",
+      "a": "For many women, yes — particularly in the luteal phase (week before periods) and during perimenopause. Progesterone supports GABA pathways that calm the nervous system; falling levels are a major driver of premenstrual irritability and perimenopausal mood lability. Bioidentical micronized progesterone, when prescribed and monitored by a clinician, can meaningfully reduce mood swings in the right candidates. It's not for everyone, and it shouldn't be self-prescribed — but it's one of the most impactful tools in hormonal mood care."
+    },
+    {
+      "q": "Could thyroid problems make me emotionally reactive?",
+      "a": "Yes. Both hyperthyroidism and hypothyroidism affect emotional regulation. Hyperthyroidism tends to produce irritability, anxiety, and sharp mood shifts; hypothyroidism more often produces flatness with intermittent tearfulness or frustration. Hashimoto's antibody activity itself appears to influence mood in some women, even when thyroid hormone levels are normal. A complete thyroid panel — including Free T3 and antibodies — is a useful early step for anyone with new emotional volatility, especially when paired with other thyroid symptoms."
+    }
+  ],
+  "keySymptoms": [
+    "Sudden shifts from one emotional state to another",
+    "Disproportionate emotional reactions to small triggers",
+    "Tearfulness without clear cause",
+    "Irritability or short temper",
+    "Mood worse in the week or two before periods",
+    "Feeling 'not like myself'",
+    "Anger or frustration that resolves quickly",
+    "Anxiety alternating with low mood"
+  ],
+  "seoTitle": "Mood Swings: Hormonal Causes in Women | Modern Thyroid Clinic",
+  "seoDescription": "Mood swings in women are often hormonal — driven by perimenopause, PMDD, or thyroid imbalance. Learn what's behind them and how to find balance."
+}

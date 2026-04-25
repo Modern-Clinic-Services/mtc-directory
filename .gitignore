@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Local Claude / agent settings (may contain API tokens)
+.claude/
+
+# Local environment
+.env
+.env.local
+*.local
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,2569 @@
+{
+  "items": [
+    {
+      "id": "69ec990f8e4634d347548f61",
+      "fieldData": {
+        "name": "Hashimoto's Thyroiditis",
+        "slug": "hashimotos-thyroiditis",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991a153afb3026ff3788",
+          "69ec991a153afb3026ff378a",
+          "69ec991a153afb3026ff37d0",
+          "69ec991a153afb3026ff3748",
+          "69ec990f8e4634d347549019",
+          "69ec991c48b53ac2d2275a72"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f63",
+      "fieldData": {
+        "name": "Hypothyroidism",
+        "slug": "hypothyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f79",
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d347549025",
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec990f8e4634d347548fc5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f65",
+      "fieldData": {
+        "name": "Hyperthyroidism",
+        "slug": "hyperthyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548f67",
+          "69ec991a153afb3026ff37c0",
+          "69ec990f8e4634d347548f7d",
+          "69ec991a153afb3026ff3714",
+          "69ec991a153afb3026ff377c"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f67",
+      "fieldData": {
+        "name": "Graves' Disease",
+        "slug": "graves-disease",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec991a153afb3026ff378c",
+          "69ec991a153afb3026ff378e",
+          "69ec990f8e4634d347548f85",
+          "69ec991a153afb3026ff37c0"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f69",
+      "fieldData": {
+        "name": "Thyroid Nodules",
+        "slug": "thyroid-nodules",
+        "related-terms": [
+          "69ec990f8e4634d347548f6b",
+          "69ec991a153afb3026ff3790",
+          "69ec991a153afb3026ff37c2",
+          "69ec990f8e4634d347548f6f",
+          "69ec990f8e4634d347548f6d"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f6b",
+      "fieldData": {
+        "name": "Goiter",
+        "slug": "goiter",
+        "related-terms": [
+          "69ec990f8e4634d347548f69",
+          "69ec990f8e4634d347548f89",
+          "69ec990f8e4634d347548f6d",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f67"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f6d",
+      "fieldData": {
+        "name": "Multinodular Goiter",
+        "slug": "multinodular-goiter",
+        "related-terms": [
+          "69ec990f8e4634d347548f6b",
+          "69ec990f8e4634d347548f69",
+          "69ec991a153afb3026ff3790",
+          "69ec991a153afb3026ff37c2"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f6f",
+      "fieldData": {
+        "name": "Thyroid Cancer",
+        "slug": "thyroid-cancer",
+        "related-terms": [
+          "69ec990f8e4634d347548f69",
+          "69ec991a153afb3026ff37bc",
+          "69ec991a153afb3026ff37c2",
+          "69ec991a153afb3026ff3790",
+          "69ec991a153afb3026ff37c0"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f71",
+      "fieldData": {
+        "name": "Thyroiditis",
+        "slug": "thyroiditis",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f73",
+          "69ec990f8e4634d347548f75",
+          "69ec990f8e4634d347548f77"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f73",
+      "fieldData": {
+        "name": "Postpartum Thyroiditis",
+        "slug": "postpartum-thyroiditis",
+        "related-terms": [
+          "69ec990f8e4634d347548f71",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f75",
+      "fieldData": {
+        "name": "Subacute Thyroiditis",
+        "slug": "subacute-thyroiditis",
+        "related-terms": [
+          "69ec990f8e4634d347548f71",
+          "69ec990f8e4634d347548f77",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f77",
+      "fieldData": {
+        "name": "Silent Thyroiditis",
+        "slug": "silent-thyroiditis",
+        "related-terms": [
+          "69ec990f8e4634d347548f71",
+          "69ec990f8e4634d347548f73",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f79",
+      "fieldData": {
+        "name": "Subclinical Hypothyroidism",
+        "slug": "subclinical-hypothyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff37ca"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f7b",
+      "fieldData": {
+        "name": "Subclinical Hyperthyroidism",
+        "slug": "subclinical-hyperthyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec991a153afb3026ff377c",
+          "69ec990f8e4634d347548f67"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f7d",
+      "fieldData": {
+        "name": "Thyroid Storm",
+        "slug": "thyroid-storm",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67",
+          "69ec991a153afb3026ff3714"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f7f",
+      "fieldData": {
+        "name": "Myxedema Coma",
+        "slug": "myxedema-coma",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347549019"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f81",
+      "fieldData": {
+        "name": "Euthyroid Sick Syndrome",
+        "slug": "euthyroid-sick-syndrome",
+        "related-terms": [
+          "69ec991a153afb3026ff3786",
+          "69ec991a153afb3026ff3780",
+          "69ec991a153afb3026ff37c6"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f83",
+      "fieldData": {
+        "name": "Congenital Hypothyroidism",
+        "slug": "congenital-hypothyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347549019"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f85",
+      "fieldData": {
+        "name": "Thyroid Eye Disease",
+        "slug": "thyroid-eye-disease",
+        "related-terms": [
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f87",
+      "fieldData": {
+        "name": "Thyroid Hormone Resistance",
+        "slug": "thyroid-hormone-resistance",
+        "related-terms": [
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3780"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f89",
+      "fieldData": {
+        "name": "Iodine Deficiency",
+        "slug": "iodine-deficiency",
+        "related-terms": [
+          "69ec991a153afb3026ff374a",
+          "69ec990f8e4634d347548f6b",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f8b",
+      "fieldData": {
+        "name": "Hashitoxicosis",
+        "slug": "hashitoxicosis",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f8d",
+      "fieldData": {
+        "name": "Polycystic Ovary Syndrome (PCOS)",
+        "slug": "polycystic-ovary-syndrome",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347549007",
+          "69ec991a153afb3026ff375c",
+          "69ec991a153afb3026ff3732",
+          "69ec990f8e4634d347548ff5",
+          "69ec990f8e4634d347549005"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f8f",
+      "fieldData": {
+        "name": "Insulin Resistance",
+        "slug": "insulin-resistance",
+        "related-terms": [
+          "69ec990f8e4634d347548f93",
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f95",
+          "69ec991a153afb3026ff3798",
+          "69ec991a153afb3026ff3796",
+          "69ec991a153afb3026ff3762",
+          "69ec991a153afb3026ff3732"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f91",
+      "fieldData": {
+        "name": "Type 2 Diabetes",
+        "slug": "type-2-diabetes",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f93",
+          "69ec991a153afb3026ff3796",
+          "69ec991a153afb3026ff3732",
+          "69ec991a153afb3026ff372e"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f93",
+      "fieldData": {
+        "name": "Prediabetes",
+        "slug": "prediabetes",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f91",
+          "69ec991a153afb3026ff3796",
+          "69ec991a153afb3026ff379a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f95",
+      "fieldData": {
+        "name": "Metabolic Syndrome",
+        "slug": "metabolic-syndrome",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548fbf",
+          "69ec990f8e4634d347548f93",
+          "69ec991a153afb3026ff37b6"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f97",
+      "fieldData": {
+        "name": "Obesity",
+        "slug": "obesity",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec991a153afb3026ff372e",
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff3722",
+          "69ec990f8e4634d347548f95"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f99",
+      "fieldData": {
+        "name": "Adrenal Insufficiency",
+        "slug": "adrenal-insufficiency",
+        "related-terms": [
+          "69ec991a153afb3026ff379c",
+          "69ec990f8e4634d347548f9d",
+          "69ec991a153afb3026ff37c8"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f9b",
+      "fieldData": {
+        "name": "Cushing's Syndrome",
+        "slug": "cushings-syndrome",
+        "related-terms": [
+          "69ec991a153afb3026ff379c",
+          "69ec991a153afb3026ff37c8",
+          "69ec990f8e4634d347548faf"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f9d",
+      "fieldData": {
+        "name": "Adrenal Fatigue",
+        "slug": "adrenal-fatigue",
+        "related-terms": [
+          "69ec991a153afb3026ff37c8",
+          "69ec991c48b53ac2d2275a7e",
+          "69ec991a153afb3026ff379c",
+          "69ec990f8e4634d347548fc5",
+          "69ec991a153afb3026ff3758"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548f9f",
+      "fieldData": {
+        "name": "Perimenopause",
+        "slug": "perimenopause",
+        "related-terms": [
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548fa5",
+          "69ec991c48b53ac2d2275a7a",
+          "69ec990f8e4634d347548ff3",
+          "69ec990f8e4634d347548ff1",
+          "69ec991a153afb3026ff3738",
+          "69ec991a153afb3026ff373a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fa1",
+      "fieldData": {
+        "name": "Menopause",
+        "slug": "menopause",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec991c48b53ac2d2275a7a",
+          "69ec991a153afb3026ff3736",
+          "69ec990f8e4634d347548ff3",
+          "69ec990f8e4634d347549015",
+          "69ec991a153afb3026ff3738"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fa3",
+      "fieldData": {
+        "name": "Premature Ovarian Insufficiency",
+        "slug": "premature-ovarian-insufficiency",
+        "related-terms": [
+          "69ec990f8e4634d347548fa1",
+          "69ec991a153afb3026ff37aa",
+          "69ec991a153afb3026ff3738",
+          "69ec991c48b53ac2d2275a7a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fa5",
+      "fieldData": {
+        "name": "Estrogen Dominance",
+        "slug": "estrogen-dominance",
+        "related-terms": [
+          "69ec991a153afb3026ff373a",
+          "69ec991a153afb3026ff3760",
+          "69ec991c48b53ac2d2275a76",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff379e"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fa7",
+      "fieldData": {
+        "name": "Low Testosterone in Women",
+        "slug": "low-testosterone-women",
+        "related-terms": [
+          "69ec991a153afb3026ff373c",
+          "69ec990f8e4634d347548fd3",
+          "69ec991a153afb3026ff37a6",
+          "69ec991a153afb3026ff37a8",
+          "69ec990f8e4634d347548fa1"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fa9",
+      "fieldData": {
+        "name": "Andropause",
+        "slug": "andropause",
+        "related-terms": [
+          "69ec990f8e4634d347548fa7",
+          "69ec991a153afb3026ff37a6"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fab",
+      "fieldData": {
+        "name": "Endometriosis",
+        "slug": "endometriosis",
+        "related-terms": [
+          "69ec990f8e4634d347548fa5",
+          "69ec990f8e4634d347548ff7",
+          "69ec990f8e4634d347548ff9"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fad",
+      "fieldData": {
+        "name": "Hyperprolactinemia",
+        "slug": "hyperprolactinemia",
+        "related-terms": [
+          "69ec991a153afb3026ff37ae",
+          "69ec990f8e4634d347548faf",
+          "69ec990f8e4634d347548fc3"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548faf",
+      "fieldData": {
+        "name": "Pituitary Adenoma",
+        "slug": "pituitary-adenoma",
+        "related-terms": [
+          "69ec990f8e4634d347548fad",
+          "69ec990f8e4634d347548f9b",
+          "69ec990f8e4634d347548fb7",
+          "69ec990f8e4634d347548fb1"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fb1",
+      "fieldData": {
+        "name": "Hypopituitarism",
+        "slug": "hypopituitarism",
+        "related-terms": [
+          "69ec990f8e4634d347548faf",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f99"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fb3",
+      "fieldData": {
+        "name": "Hyperparathyroidism",
+        "slug": "hyperparathyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548fb5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fb5",
+      "fieldData": {
+        "name": "Hypoparathyroidism",
+        "slug": "hypoparathyroidism",
+        "related-terms": [
+          "69ec990f8e4634d347548fb3",
+          "69ec991a153afb3026ff37bc"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fb7",
+      "fieldData": {
+        "name": "Acromegaly",
+        "slug": "acromegaly",
+        "related-terms": [
+          "69ec990f8e4634d347548faf"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fb9",
+      "fieldData": {
+        "name": "PMDD",
+        "slug": "pmdd",
+        "related-terms": [
+          "69ec990f8e4634d347548fbb",
+          "69ec991a153afb3026ff373a",
+          "69ec990f8e4634d347548fa5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fbb",
+      "fieldData": {
+        "name": "PMS",
+        "slug": "pms",
+        "related-terms": [
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347548fa5",
+          "69ec991a153afb3026ff3772"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fbd",
+      "fieldData": {
+        "name": "Non-Alcoholic Fatty Liver Disease",
+        "slug": "non-alcoholic-fatty-liver-disease",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f95",
+          "69ec991a153afb3026ff3762"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fbf",
+      "fieldData": {
+        "name": "Dyslipidemia",
+        "slug": "dyslipidemia",
+        "related-terms": [
+          "69ec991a153afb3026ff37b6",
+          "69ec990f8e4634d347548f95",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fc1",
+      "fieldData": {
+        "name": "Autoimmune Disease",
+        "slug": "autoimmune-disease",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f67",
+          "69ec991c48b53ac2d2275a72",
+          "69ec991a153afb3026ff37d0"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fc3",
+      "fieldData": {
+        "name": "Secondary Amenorrhea",
+        "slug": "amenorrhea",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548fad",
+          "69ec990f8e4634d347548fa3"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fc5",
+      "fieldData": {
+        "name": "Fatigue",
+        "slug": "fatigue",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f9d",
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff3750",
+          "69ec991a153afb3026ff37ba",
+          "69ec991a153afb3026ff3752"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fc7",
+      "fieldData": {
+        "name": "Hair Loss",
+        "slug": "hair-loss",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff37ba",
+          "69ec991a153afb3026ff3754",
+          "69ec991a153afb3026ff374c",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fc9",
+      "fieldData": {
+        "name": "Brain Fog",
+        "slug": "brain-fog",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff3752",
+          "69ec990f8e4634d347548f8f"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fcb",
+      "fieldData": {
+        "name": "Weight Gain",
+        "slug": "weight-gain",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548f8d",
+          "69ec991a153afb3026ff372e"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fcd",
+      "fieldData": {
+        "name": "Unexplained Weight Loss",
+        "slug": "unexplained-weight-loss",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fcf",
+      "fieldData": {
+        "name": "Dry Skin",
+        "slug": "dry-skin",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fd1",
+          "69ec991a153afb3026ff3768"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fd1",
+      "fieldData": {
+        "name": "Cracked Heels",
+        "slug": "cracked-heels",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548fcf"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fd3",
+      "fieldData": {
+        "name": "Low Libido",
+        "slug": "low-libido",
+        "related-terms": [
+          "69ec990f8e4634d347548fa7",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff373c",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fd5",
+      "fieldData": {
+        "name": "Cold Intolerance",
+        "slug": "cold-intolerance",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d34754900d"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fd7",
+      "fieldData": {
+        "name": "Heat Intolerance",
+        "slug": "heat-intolerance",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548ff3"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fd9",
+      "fieldData": {
+        "name": "Constipation",
+        "slug": "constipation",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991a153afb3026ff374e"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fdb",
+      "fieldData": {
+        "name": "Brittle Nails",
+        "slug": "brittle-nails",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991a153afb3026ff3754"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fdd",
+      "fieldData": {
+        "name": "Puffy Face",
+        "slug": "puffy-face",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d34754900b"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fdf",
+      "fieldData": {
+        "name": "Bulging Eyes",
+        "slug": "bulging-eyes",
+        "related-terms": [
+          "69ec990f8e4634d347548f85",
+          "69ec990f8e4634d347548f67"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fe1",
+      "fieldData": {
+        "name": "Heart Palpitations",
+        "slug": "heart-palpitations",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f9f"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fe3",
+      "fieldData": {
+        "name": "Tachycardia",
+        "slug": "tachycardia",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67",
+          "69ec991a153afb3026ff3714",
+          "69ec990f8e4634d347548fe1"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fe5",
+      "fieldData": {
+        "name": "Bradycardia",
+        "slug": "bradycardia",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f7f"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fe7",
+      "fieldData": {
+        "name": "Tremors",
+        "slug": "tremors",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f67"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fe9",
+      "fieldData": {
+        "name": "Anxiety",
+        "slug": "anxiety",
+        "related-terms": [
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548f9d",
+          "69ec991a153afb3026ff379c"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548feb",
+      "fieldData": {
+        "name": "Depression",
+        "slug": "depression",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff3750"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fed",
+      "fieldData": {
+        "name": "Mood Swings",
+        "slug": "mood-swings",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347548fbb",
+          "69ec990f8e4634d347548fa5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fef",
+      "fieldData": {
+        "name": "Insomnia",
+        "slug": "insomnia",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec991c48b53ac2d2275a7e",
+          "69ec991a153afb3026ff374e",
+          "69ec991a153afb3026ff373a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ff1",
+      "fieldData": {
+        "name": "Night Sweats",
+        "slug": "night-sweats",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548ff3",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ff3",
+      "fieldData": {
+        "name": "Hot Flashes",
+        "slug": "hot-flashes",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1",
+          "69ec991c48b53ac2d2275a7a",
+          "69ec990f8e4634d347548ff1",
+          "69ec991a153afb3026ff3776"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ff5",
+      "fieldData": {
+        "name": "Menstrual Irregularities",
+        "slug": "irregular-periods",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548fc3",
+          "69ec990f8e4634d347548ff7"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ff7",
+      "fieldData": {
+        "name": "Heavy Periods",
+        "slug": "heavy-periods-menorrhagia",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548fab",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff37ba"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ff9",
+      "fieldData": {
+        "name": "Infertility",
+        "slug": "infertility",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff3744"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ffb",
+      "fieldData": {
+        "name": "Muscle Weakness",
+        "slug": "muscle-weakness",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f65",
+          "69ec991a153afb3026ff3750"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548ffd",
+      "fieldData": {
+        "name": "Joint Pain",
+        "slug": "joint-pain",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fa1"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347548fff",
+      "fieldData": {
+        "name": "Hoarseness",
+        "slug": "hoarseness",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f6b",
+          "69ec990f8e4634d347548f69"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549001",
+      "fieldData": {
+        "name": "Neck Swelling",
+        "slug": "neck-swelling",
+        "related-terms": [
+          "69ec990f8e4634d347548f6b",
+          "69ec990f8e4634d347548f69",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549003",
+      "fieldData": {
+        "name": "Memory Issues",
+        "slug": "memory-issues",
+        "related-terms": [
+          "69ec990f8e4634d347548fc9",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff3752"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549005",
+      "fieldData": {
+        "name": "Hormonal Acne",
+        "slug": "acne-hormonal",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548fa5",
+          "69ec991a153afb3026ff3740",
+          "69ec991a153afb3026ff3760"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549007",
+      "fieldData": {
+        "name": "Hirsutism",
+        "slug": "hirsutism-symptom",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec991a153afb3026ff3740",
+          "69ec991a153afb3026ff37a6",
+          "69ec991a153afb3026ff37a8"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549009",
+      "fieldData": {
+        "name": "Bloating",
+        "slug": "bloating",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991c48b53ac2d2275a72",
+          "69ec991c48b53ac2d2275a74",
+          "69ec991a153afb3026ff377a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754900b",
+      "fieldData": {
+        "name": "Edema",
+        "slug": "edema",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f7f",
+          "69ec990f8e4634d347548fdd"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754900d",
+      "fieldData": {
+        "name": "Low Body Temperature",
+        "slug": "low-body-temperature",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548fd5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754900f",
+      "fieldData": {
+        "name": "Thinning Eyebrows",
+        "slug": "thinning-eyebrows",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc7"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549011",
+      "fieldData": {
+        "name": "Sugar Cravings",
+        "slug": "sugar-cravings",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f8d",
+          "69ec991a153afb3026ff3762",
+          "69ec991a153afb3026ff3770"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549013",
+      "fieldData": {
+        "name": "Irritability",
+        "slug": "irritability",
+        "related-terms": [
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347548fbb",
+          "69ec990f8e4634d347548fa5"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549015",
+      "fieldData": {
+        "name": "Vaginal Dryness",
+        "slug": "vaginal-dryness",
+        "related-terms": [
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff3738",
+          "69ec991c48b53ac2d2275a7a"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549017",
+      "fieldData": {
+        "name": "Difficulty Swallowing",
+        "slug": "difficulty-swallowing",
+        "related-terms": [
+          "69ec990f8e4634d347548f6b",
+          "69ec990f8e4634d347548f69",
+          "69ec990f8e4634d347548f6d"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549019",
+      "fieldData": {
+        "name": "Levothyroxine",
+        "slug": "levothyroxine",
+        "related-terms": [
+          "69ec990f8e4634d34754901b",
+          "69ec990f8e4634d34754901d",
+          "69ec990f8e4634d34754901f",
+          "69ec990f8e4634d347549025",
+          "69ec990f8e4634d347549021",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754901b",
+      "fieldData": {
+        "name": "Synthroid",
+        "slug": "synthroid",
+        "related-terms": [
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d34754901d",
+          "69ec990f8e4634d34754901f",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754901d",
+      "fieldData": {
+        "name": "Tirosint",
+        "slug": "tirosint",
+        "related-terms": [
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d34754901b",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d34754901f",
+      "fieldData": {
+        "name": "Levoxyl",
+        "slug": "levoxyl",
+        "related-terms": [
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d34754901b",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549021",
+      "fieldData": {
+        "name": "Liothyronine",
+        "slug": "liothyronine",
+        "related-terms": [
+          "69ec990f8e4634d347549023",
+          "69ec990f8e4634d347549025",
+          "69ec990f8e4634d347549019",
+          "69ec991a153afb3026ff37c6"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549023",
+      "fieldData": {
+        "name": "Cytomel",
+        "slug": "cytomel",
+        "related-terms": [
+          "69ec990f8e4634d347549021",
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d347549025"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549025",
+      "fieldData": {
+        "name": "Natural Desiccated Thyroid",
+        "slug": "natural-desiccated-thyroid",
+        "related-terms": [
+          "69ec990f8e4634d347549027",
+          "69ec990f8e4634d347549019",
+          "69ec990f8e4634d347549021",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec990f8e4634d347549027",
+      "fieldData": {
+        "name": "Armour Thyroid",
+        "slug": "armour-thyroid",
+        "related-terms": [
+          "69ec990f8e4634d347549025",
+          "69ec990f8e4634d347549019"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3714",
+      "fieldData": {
+        "name": "Beta Blockers",
+        "slug": "beta-blockers",
+        "related-terms": [
+          "69ec991a153afb3026ff3716",
+          "69ec991a153afb3026ff3718",
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548fe1",
+          "69ec990f8e4634d347548fe3"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3716",
+      "fieldData": {
+        "name": "Propranolol",
+        "slug": "propranolol",
+        "related-terms": [
+          "69ec991a153afb3026ff3714",
+          "69ec991a153afb3026ff3718",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3718",
+      "fieldData": {
+        "name": "Atenolol",
+        "slug": "atenolol",
+        "related-terms": [
+          "69ec991a153afb3026ff3714",
+          "69ec991a153afb3026ff3716",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff371a",
+      "fieldData": {
+        "name": "Semaglutide",
+        "slug": "semaglutide",
+        "related-terms": [
+          "69ec991a153afb3026ff371c",
+          "69ec991a153afb3026ff371e",
+          "69ec991a153afb3026ff3720",
+          "69ec991a153afb3026ff372e",
+          "69ec991a153afb3026ff3722",
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f97"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff371c",
+      "fieldData": {
+        "name": "Ozempic",
+        "slug": "ozempic",
+        "related-terms": [
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff371e",
+          "69ec991a153afb3026ff3720",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff371e",
+      "fieldData": {
+        "name": "Wegovy",
+        "slug": "wegovy",
+        "related-terms": [
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff371c",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f97"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3720",
+      "fieldData": {
+        "name": "Rybelsus",
+        "slug": "rybelsus",
+        "related-terms": [
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff371c",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3722",
+      "fieldData": {
+        "name": "Tirzepatide",
+        "slug": "tirzepatide",
+        "related-terms": [
+          "69ec991a153afb3026ff3724",
+          "69ec991a153afb3026ff3726",
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f97",
+          "69ec990f8e4634d347548f8f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3724",
+      "fieldData": {
+        "name": "Mounjaro",
+        "slug": "mounjaro",
+        "related-terms": [
+          "69ec991a153afb3026ff3722",
+          "69ec991a153afb3026ff3726",
+          "69ec990f8e4634d347548f91",
+          "69ec991a153afb3026ff372e"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3726",
+      "fieldData": {
+        "name": "Zepbound",
+        "slug": "zepbound",
+        "related-terms": [
+          "69ec991a153afb3026ff3722",
+          "69ec991a153afb3026ff3724",
+          "69ec990f8e4634d347548f97",
+          "69ec991a153afb3026ff372e"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3728",
+      "fieldData": {
+        "name": "Liraglutide",
+        "slug": "liraglutide",
+        "related-terms": [
+          "69ec991a153afb3026ff372a",
+          "69ec991a153afb3026ff372c",
+          "69ec991a153afb3026ff372e",
+          "69ec991a153afb3026ff371a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff372a",
+      "fieldData": {
+        "name": "Saxenda",
+        "slug": "saxenda",
+        "related-terms": [
+          "69ec991a153afb3026ff3728",
+          "69ec991a153afb3026ff372c",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f97"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff372c",
+      "fieldData": {
+        "name": "Victoza",
+        "slug": "victoza",
+        "related-terms": [
+          "69ec991a153afb3026ff3728",
+          "69ec991a153afb3026ff372a",
+          "69ec991a153afb3026ff372e",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff372e",
+      "fieldData": {
+        "name": "GLP-1 Agonists",
+        "slug": "glp-1-agonists",
+        "related-terms": [
+          "69ec991a153afb3026ff371a",
+          "69ec991a153afb3026ff3722",
+          "69ec991a153afb3026ff3728",
+          "69ec990f8e4634d347548f97",
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3730",
+      "fieldData": {
+        "name": "Compounded Semaglutide",
+        "slug": "compounded-semaglutide",
+        "related-terms": [
+          "69ec991a153afb3026ff371a",
+          "69ec991c48b53ac2d2275a7c",
+          "69ec991a153afb3026ff371e",
+          "69ec991a153afb3026ff371c"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3732",
+      "fieldData": {
+        "name": "Metformin",
+        "slug": "metformin",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f91",
+          "69ec990f8e4634d347548f93",
+          "69ec991a153afb3026ff3762"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3734",
+      "fieldData": {
+        "name": "Low Dose Naltrexone",
+        "slug": "low-dose-naltrexone",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc1",
+          "69ec991c48b53ac2d2275a7c"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3736",
+      "fieldData": {
+        "name": "Bioidentical Hormone Replacement Therapy",
+        "slug": "bioidentical-hormone-replacement-therapy",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a7a",
+          "69ec991a153afb3026ff3738",
+          "69ec991a153afb3026ff373a",
+          "69ec991a153afb3026ff373c",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f",
+          "69ec991c48b53ac2d2275a78"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3738",
+      "fieldData": {
+        "name": "Estradiol",
+        "slug": "estradiol",
+        "related-terms": [
+          "69ec991a153afb3026ff3736",
+          "69ec991c48b53ac2d2275a7a",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f",
+          "69ec991a153afb3026ff37a2"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff373a",
+      "fieldData": {
+        "name": "Progesterone (Bioidentical)",
+        "slug": "progesterone-bioidentical",
+        "related-terms": [
+          "69ec991a153afb3026ff3736",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347548fa5"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff373c",
+      "fieldData": {
+        "name": "Testosterone Therapy for Women",
+        "slug": "testosterone-therapy-women",
+        "related-terms": [
+          "69ec990f8e4634d347548fa7",
+          "69ec991a153afb3026ff3736",
+          "69ec990f8e4634d347548fd3",
+          "69ec990f8e4634d347548fa1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff373e",
+      "fieldData": {
+        "name": "DHEA",
+        "slug": "dhea",
+        "related-terms": [
+          "69ec991a153afb3026ff37a8",
+          "69ec990f8e4634d347548f9d",
+          "69ec990f8e4634d347548fa7",
+          "69ec990f8e4634d347548fa1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3740",
+      "fieldData": {
+        "name": "Spironolactone",
+        "slug": "spironolactone",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347549005",
+          "69ec990f8e4634d347549007"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3742",
+      "fieldData": {
+        "name": "Oral Contraceptives",
+        "slug": "birth-control-pills",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548fa5",
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347549005"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3744",
+      "fieldData": {
+        "name": "Clomiphene",
+        "slug": "clomiphene",
+        "related-terms": [
+          "69ec990f8e4634d347548ff9",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3746",
+      "fieldData": {
+        "name": "Anastrozole",
+        "slug": "anastrozole",
+        "related-terms": [
+          "69ec990f8e4634d347548fa5",
+          "69ec991a153afb3026ff3736"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3748",
+      "fieldData": {
+        "name": "Selenium",
+        "slug": "selenium",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff3788",
+          "69ec991a153afb3026ff37c6",
+          "69ec991a153afb3026ff374a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff374a",
+      "fieldData": {
+        "name": "Iodine Supplement",
+        "slug": "iodine-supplement",
+        "related-terms": [
+          "69ec990f8e4634d347548f89",
+          "69ec991a153afb3026ff3748",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f6b"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff374c",
+      "fieldData": {
+        "name": "Zinc",
+        "slug": "zinc",
+        "related-terms": [
+          "69ec990f8e4634d347548fc7",
+          "69ec991a153afb3026ff37c6",
+          "69ec991a153afb3026ff3748",
+          "69ec990f8e4634d347548f63"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff374e",
+      "fieldData": {
+        "name": "Magnesium",
+        "slug": "magnesium",
+        "related-terms": [
+          "69ec990f8e4634d347548fef",
+          "69ec990f8e4634d347548fd9",
+          "69ec990f8e4634d347548fe9",
+          "69ec990f8e4634d347548ffb"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3750",
+      "fieldData": {
+        "name": "Vitamin D",
+        "slug": "vitamin-d",
+        "related-terms": [
+          "69ec991a153afb3026ff37b8",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc1",
+          "69ec990f8e4634d347548feb",
+          "69ec990f8e4634d347548fc5"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3752",
+      "fieldData": {
+        "name": "Vitamin B12",
+        "slug": "vitamin-b12",
+        "related-terms": [
+          "69ec990f8e4634d347548fc5",
+          "69ec990f8e4634d347548fc9",
+          "69ec991a153afb3026ff376e",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3754",
+      "fieldData": {
+        "name": "Iron / Ferritin Support",
+        "slug": "iron-ferritin-support",
+        "related-terms": [
+          "69ec991a153afb3026ff37ba",
+          "69ec990f8e4634d347548fc7",
+          "69ec990f8e4634d347548fc5",
+          "69ec990f8e4634d347548ff7"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3756",
+      "fieldData": {
+        "name": "Tyrosine",
+        "slug": "tyrosine",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec991a153afb3026ff374a",
+          "69ec991a153afb3026ff3748"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3758",
+      "fieldData": {
+        "name": "Ashwagandha",
+        "slug": "ashwagandha",
+        "related-terms": [
+          "69ec990f8e4634d347548f9d",
+          "69ec991c48b53ac2d2275a7e",
+          "69ec990f8e4634d347548fe9",
+          "69ec990f8e4634d347548fef"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff375a",
+      "fieldData": {
+        "name": "Rhodiola",
+        "slug": "rhodiola",
+        "related-terms": [
+          "69ec990f8e4634d347548f9d",
+          "69ec990f8e4634d347548fc5",
+          "69ec991a153afb3026ff3758"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff375c",
+      "fieldData": {
+        "name": "Myo-Inositol",
+        "slug": "myo-inositol",
+        "related-terms": [
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f8f",
+          "69ec991a153afb3026ff375e"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff375e",
+      "fieldData": {
+        "name": "D-Chiro-Inositol",
+        "slug": "d-chiro-inositol",
+        "related-terms": [
+          "69ec991a153afb3026ff375c",
+          "69ec990f8e4634d347548f8d",
+          "69ec990f8e4634d347548f8f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3760",
+      "fieldData": {
+        "name": "DIM",
+        "slug": "dim",
+        "related-terms": [
+          "69ec990f8e4634d347548fa5",
+          "69ec991c48b53ac2d2275a76",
+          "69ec990f8e4634d347549005"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3762",
+      "fieldData": {
+        "name": "Berberine",
+        "slug": "berberine",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f8d",
+          "69ec991a153afb3026ff3732",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3764",
+      "fieldData": {
+        "name": "N-Acetyl Cysteine",
+        "slug": "nac",
+        "related-terms": [
+          "69ec991a153afb3026ff3766",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3766",
+      "fieldData": {
+        "name": "Glutathione",
+        "slug": "glutathione",
+        "related-terms": [
+          "69ec991a153afb3026ff3764",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3768",
+      "fieldData": {
+        "name": "Omega-3 Fatty Acids",
+        "slug": "omega-3-fatty-acids",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fcf",
+          "69ec990f8e4634d347548fc1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff376a",
+      "fieldData": {
+        "name": "CoQ10",
+        "slug": "coq10",
+        "related-terms": [
+          "69ec990f8e4634d347548fc5",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff376c",
+      "fieldData": {
+        "name": "L-Carnitine",
+        "slug": "l-carnitine",
+        "related-terms": [
+          "69ec990f8e4634d347548fc5",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff376e",
+      "fieldData": {
+        "name": "Methylfolate",
+        "slug": "methylfolate",
+        "related-terms": [
+          "69ec991a153afb3026ff3752",
+          "69ec990f8e4634d347548feb",
+          "69ec990f8e4634d347548fc9"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3770",
+      "fieldData": {
+        "name": "Chromium",
+        "slug": "chromium",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347549011",
+          "69ec990f8e4634d347548f93"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3772",
+      "fieldData": {
+        "name": "Vitex",
+        "slug": "vitex",
+        "related-terms": [
+          "69ec990f8e4634d347548fbb",
+          "69ec990f8e4634d347548fb9",
+          "69ec990f8e4634d347548ff5"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3774",
+      "fieldData": {
+        "name": "Maca Root",
+        "slug": "maca-root",
+        "related-terms": [
+          "69ec990f8e4634d347548fd3",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3776",
+      "fieldData": {
+        "name": "Black Cohosh",
+        "slug": "black-cohosh",
+        "related-terms": [
+          "69ec990f8e4634d347548ff3",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3778",
+      "fieldData": {
+        "name": "Curcumin",
+        "slug": "curcumin",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc1",
+          "69ec990f8e4634d347548ffd"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff377a",
+      "fieldData": {
+        "name": "Probiotics",
+        "slug": "probiotics",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a72",
+          "69ec991c48b53ac2d2275a74",
+          "69ec990f8e4634d347549009"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff377c",
+      "fieldData": {
+        "name": "TSH",
+        "slug": "tsh",
+        "related-terms": [
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3780",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f65",
+          "69ec991a153afb3026ff37ca"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff377e",
+      "fieldData": {
+        "name": "Free T4",
+        "slug": "free-t4",
+        "related-terms": [
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff3780",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347549019"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3780",
+      "fieldData": {
+        "name": "Free T3",
+        "slug": "free-t3",
+        "related-terms": [
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3786",
+          "69ec991a153afb3026ff37c6",
+          "69ec990f8e4634d347549021"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3782",
+      "fieldData": {
+        "name": "Total T3",
+        "slug": "total-t3",
+        "related-terms": [
+          "69ec991a153afb3026ff3780",
+          "69ec991a153afb3026ff3784"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3784",
+      "fieldData": {
+        "name": "Total T4",
+        "slug": "total-t4",
+        "related-terms": [
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3782"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3786",
+      "fieldData": {
+        "name": "Reverse T3",
+        "slug": "reverse-t3",
+        "related-terms": [
+          "69ec991a153afb3026ff3780",
+          "69ec990f8e4634d347548f81",
+          "69ec991a153afb3026ff37c6"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3788",
+      "fieldData": {
+        "name": "TPO Antibodies",
+        "slug": "tpo-antibodies",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff378a",
+          "69ec990f8e4634d347548fc1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff378a",
+      "fieldData": {
+        "name": "Thyroglobulin Antibodies",
+        "slug": "thyroglobulin-antibodies",
+        "related-terms": [
+          "69ec991a153afb3026ff3788",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff378c",
+      "fieldData": {
+        "name": "TSI",
+        "slug": "tsi",
+        "related-terms": [
+          "69ec990f8e4634d347548f67",
+          "69ec991a153afb3026ff378e",
+          "69ec990f8e4634d347548f65"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff378e",
+      "fieldData": {
+        "name": "TRAb",
+        "slug": "trab",
+        "related-terms": [
+          "69ec991a153afb3026ff378c",
+          "69ec990f8e4634d347548f67"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3790",
+      "fieldData": {
+        "name": "Thyroid Ultrasound",
+        "slug": "thyroid-ultrasound",
+        "related-terms": [
+          "69ec990f8e4634d347548f69",
+          "69ec990f8e4634d347548f6b",
+          "69ec991a153afb3026ff37c2"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3792",
+      "fieldData": {
+        "name": "Radioactive Iodine Uptake",
+        "slug": "radioactive-iodine-uptake",
+        "related-terms": [
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f65",
+          "69ec991a153afb3026ff37c0"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3794",
+      "fieldData": {
+        "name": "Full Thyroid Panel",
+        "slug": "full-thyroid-panel",
+        "related-terms": [
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3780",
+          "69ec991a153afb3026ff3786",
+          "69ec991a153afb3026ff3788",
+          "69ec991a153afb3026ff378a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3796",
+      "fieldData": {
+        "name": "HbA1c",
+        "slug": "hba1c",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f93",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff3798",
+      "fieldData": {
+        "name": "Fasting Insulin",
+        "slug": "fasting-insulin",
+        "related-terms": [
+          "69ec990f8e4634d347548f8f",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff379a",
+      "fieldData": {
+        "name": "Fasting Glucose",
+        "slug": "fasting-glucose",
+        "related-terms": [
+          "69ec991a153afb3026ff3796",
+          "69ec990f8e4634d347548f93",
+          "69ec990f8e4634d347548f91"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff379c",
+      "fieldData": {
+        "name": "Cortisol (AM)",
+        "slug": "cortisol-am",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a7e",
+          "69ec991a153afb3026ff37c8",
+          "69ec990f8e4634d347548f99",
+          "69ec990f8e4634d347548f9b"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff379e",
+      "fieldData": {
+        "name": "DUTCH Test",
+        "slug": "dutch-test",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a76",
+          "69ec991c48b53ac2d2275a7e",
+          "69ec990f8e4634d347548fa5",
+          "69ec991a153afb3026ff37a8"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37a0",
+      "fieldData": {
+        "name": "Sex Hormone Binding Globulin",
+        "slug": "shbg",
+        "related-terms": [
+          "69ec991a153afb3026ff37a6",
+          "69ec990f8e4634d347548f8d",
+          "69ec991a153afb3026ff3738"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37a2",
+      "fieldData": {
+        "name": "Estradiol (Lab)",
+        "slug": "estradiol-lab",
+        "related-terms": [
+          "69ec991a153afb3026ff3738",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1",
+          "69ec991a153afb3026ff37aa"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37a4",
+      "fieldData": {
+        "name": "Progesterone (Lab)",
+        "slug": "progesterone-lab",
+        "related-terms": [
+          "69ec991a153afb3026ff373a",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa5"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37a6",
+      "fieldData": {
+        "name": "Testosterone (Total & Free)",
+        "slug": "testosterone-total-free",
+        "related-terms": [
+          "69ec990f8e4634d347548fa7",
+          "69ec991a153afb3026ff37a0",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37a8",
+      "fieldData": {
+        "name": "DHEA-S",
+        "slug": "dhea-s",
+        "related-terms": [
+          "69ec991a153afb3026ff373e",
+          "69ec990f8e4634d347548f9d",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37aa",
+      "fieldData": {
+        "name": "FSH",
+        "slug": "fsh",
+        "related-terms": [
+          "69ec991a153afb3026ff37ac",
+          "69ec990f8e4634d347548f9f",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548fa3"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37ac",
+      "fieldData": {
+        "name": "LH",
+        "slug": "lh",
+        "related-terms": [
+          "69ec991a153afb3026ff37aa",
+          "69ec990f8e4634d347548f8d"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37ae",
+      "fieldData": {
+        "name": "Prolactin",
+        "slug": "prolactin",
+        "related-terms": [
+          "69ec990f8e4634d347548fad",
+          "69ec990f8e4634d347548faf",
+          "69ec990f8e4634d347548fc3"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37b0",
+      "fieldData": {
+        "name": "hs-CRP",
+        "slug": "hs-crp",
+        "related-terms": [
+          "69ec990f8e4634d347548fc1",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548f95"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37b2",
+      "fieldData": {
+        "name": "Homocysteine",
+        "slug": "homocysteine",
+        "related-terms": [
+          "69ec991a153afb3026ff376e",
+          "69ec991a153afb3026ff3752"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37b4",
+      "fieldData": {
+        "name": "Comprehensive Metabolic Panel",
+        "slug": "comprehensive-metabolic-panel",
+        "related-terms": [
+          "69ec991a153afb3026ff37b6",
+          "69ec991a153afb3026ff379a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37b6",
+      "fieldData": {
+        "name": "Lipid Panel",
+        "slug": "lipid-panel",
+        "related-terms": [
+          "69ec990f8e4634d347548fbf",
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f95"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37b8",
+      "fieldData": {
+        "name": "Vitamin D (Lab)",
+        "slug": "vitamin-d-lab",
+        "related-terms": [
+          "69ec991a153afb3026ff3750",
+          "69ec990f8e4634d347548fc1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37ba",
+      "fieldData": {
+        "name": "Ferritin",
+        "slug": "ferritin",
+        "related-terms": [
+          "69ec991a153afb3026ff3754",
+          "69ec990f8e4634d347548fc7",
+          "69ec990f8e4634d347548fc5",
+          "69ec990f8e4634d347548ff7"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37bc",
+      "fieldData": {
+        "name": "Thyroidectomy",
+        "slug": "thyroidectomy",
+        "related-terms": [
+          "69ec991a153afb3026ff37be",
+          "69ec990f8e4634d347548f6f",
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548fb5"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37be",
+      "fieldData": {
+        "name": "Thyroid Lobectomy",
+        "slug": "thyroid-lobectomy",
+        "related-terms": [
+          "69ec991a153afb3026ff37bc",
+          "69ec990f8e4634d347548f69",
+          "69ec990f8e4634d347548f6f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37c0",
+      "fieldData": {
+        "name": "Radioactive Iodine Ablation",
+        "slug": "radioactive-iodine-ablation",
+        "related-terms": [
+          "69ec990f8e4634d347548f67",
+          "69ec990f8e4634d347548f65",
+          "69ec990f8e4634d347548f6f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37c2",
+      "fieldData": {
+        "name": "Fine Needle Aspiration",
+        "slug": "fine-needle-aspiration",
+        "related-terms": [
+          "69ec990f8e4634d347548f69",
+          "69ec991a153afb3026ff3790",
+          "69ec990f8e4634d347548f6f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37c4",
+      "fieldData": {
+        "name": "Hormone Pellet Insertion",
+        "slug": "hormone-pellet-insertion",
+        "related-terms": [
+          "69ec991a153afb3026ff3736",
+          "69ec991a153afb3026ff373c",
+          "69ec991a153afb3026ff3738"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37c6",
+      "fieldData": {
+        "name": "T4 to T3 Conversion",
+        "slug": "t4-to-t3-conversion",
+        "related-terms": [
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3780",
+          "69ec991a153afb3026ff3786",
+          "69ec991a153afb3026ff3748",
+          "69ec990f8e4634d347549021"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37c8",
+      "fieldData": {
+        "name": "HPA Axis",
+        "slug": "hpa-axis",
+        "related-terms": [
+          "69ec990f8e4634d347548f9d",
+          "69ec991c48b53ac2d2275a7e",
+          "69ec991a153afb3026ff379c"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37ca",
+      "fieldData": {
+        "name": "Functional Range vs Reference Range",
+        "slug": "functional-range-vs-reference-range",
+        "related-terms": [
+          "69ec991a153afb3026ff377c",
+          "69ec991a153afb3026ff377e",
+          "69ec991a153afb3026ff3780",
+          "69ec991a153afb3026ff37cc"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37cc",
+      "fieldData": {
+        "name": "Functional Medicine",
+        "slug": "functional-medicine",
+        "related-terms": [
+          "69ec991a153afb3026ff37ca",
+          "69ec991c48b53ac2d2275a74",
+          "69ec991c48b53ac2d2275a72"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37ce",
+      "fieldData": {
+        "name": "Goitrogens",
+        "slug": "goitrogens",
+        "related-terms": [
+          "69ec990f8e4634d347548f63",
+          "69ec990f8e4634d347548f89",
+          "69ec990f8e4634d347548f61"
+        ]
+      }
+    },
+    {
+      "id": "69ec991a153afb3026ff37d0",
+      "fieldData": {
+        "name": "Gluten and Thyroid",
+        "slug": "gluten-and-thyroid",
+        "related-terms": [
+          "69ec990f8e4634d347548f61",
+          "69ec991c48b53ac2d2275a72",
+          "69ec990f8e4634d347548fc1"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a72",
+      "fieldData": {
+        "name": "Leaky Gut",
+        "slug": "leaky-gut",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a74",
+          "69ec990f8e4634d347548f61",
+          "69ec990f8e4634d347548fc1",
+          "69ec991a153afb3026ff377a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a74",
+      "fieldData": {
+        "name": "Gut-Thyroid Connection",
+        "slug": "gut-thyroid-connection",
+        "related-terms": [
+          "69ec991c48b53ac2d2275a72",
+          "69ec990f8e4634d347548f61",
+          "69ec991a153afb3026ff377a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a76",
+      "fieldData": {
+        "name": "Estrogen Metabolism",
+        "slug": "estrogen-metabolism",
+        "related-terms": [
+          "69ec990f8e4634d347548fa5",
+          "69ec991a153afb3026ff3760",
+          "69ec991a153afb3026ff379e"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a78",
+      "fieldData": {
+        "name": "Bioidentical vs Synthetic Hormones",
+        "slug": "bioidentical-vs-synthetic-hormones",
+        "related-terms": [
+          "69ec991a153afb3026ff3736",
+          "69ec991c48b53ac2d2275a7a",
+          "69ec991a153afb3026ff3738",
+          "69ec991a153afb3026ff373a"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a7a",
+      "fieldData": {
+        "name": "Hormone Replacement Therapy",
+        "slug": "hormone-replacement-therapy",
+        "related-terms": [
+          "69ec991a153afb3026ff3736",
+          "69ec991a153afb3026ff3738",
+          "69ec991a153afb3026ff373a",
+          "69ec990f8e4634d347548fa1",
+          "69ec990f8e4634d347548f9f"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a7c",
+      "fieldData": {
+        "name": "Compounding Pharmacy",
+        "slug": "compounding-pharmacy",
+        "related-terms": [
+          "69ec991a153afb3026ff3730",
+          "69ec991a153afb3026ff3736"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a7e",
+      "fieldData": {
+        "name": "Cortisol Rhythm",
+        "slug": "cortisol-rhythm",
+        "related-terms": [
+          "69ec991a153afb3026ff379c",
+          "69ec991a153afb3026ff37c8",
+          "69ec990f8e4634d347548f9d",
+          "69ec991a153afb3026ff379e"
+        ]
+      }
+    },
+    {
+      "id": "69ec991c48b53ac2d2275a80",
+      "fieldData": {
+        "name": "Thyroid-Adrenal Connection",
+        "slug": "thyroid-adrenal-connection",
+        "related-terms": [
+          "69ec991a153afb3026ff37c8",
+          "69ec990f8e4634d347548f9d",
+          "69ec990f8e4634d347548f61",
+          "69ec991c48b53ac2d2275a7e"
+        ]
+      }
+    }
+  ]
+}

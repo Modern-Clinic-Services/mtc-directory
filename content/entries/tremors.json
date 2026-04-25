@@ -1,0 +1,30 @@
+{
+  "slug": "tremors",
+  "shortDefinition": "Tremors are involuntary shaking, most often in the hands — a classic sign of an overactive thyroid or excess thyroid medication.",
+  "fullDefinition": "## What are tremors?\n\nTremors — sometimes called **shaking** or **hand tremors** — are rhythmic, involuntary movements of a body part, most commonly the hands, but also the head, voice, or legs. The shaking is typically fine and fast, more visible when the hands are held outstretched, and often worse with caffeine, stress, or fatigue.\n\nA simple way to check: hold your hands out in front of you with fingers spread, place a sheet of paper over them, and watch for visible movement. Most people have a tiny physiologic tremor; a noticeably shaky paper is worth investigating.\n\nIn women in their 30s, 40s, and 50s, the most important hormonal cause to rule out is hyperthyroidism — but tremors have several distinct patterns, each with different implications.\n\n## What hormonal conditions cause tremors?\n\nThe most common hormonal and reversible causes include:\n\n- **[hyperthyroidism]** — Excess thyroid hormone amplifies the body's normal physiologic tremor; usually fine, fast, and most visible in outstretched hands.\n- **[graves-disease]** — Autoimmune hyperthyroidism; tremor is a classic feature alongside heat intolerance, palpitations, and weight loss.\n- **Thyroid hormone over-replacement** — Too much levothyroxine, T3, or NDT can produce iatrogenic tremor.\n- **[subclinical-hyperthyroidism]** — Even mild over-activity can cause subtle tremor.\n- **Caffeine, stimulants, decongestants, SSRIs, lithium, and certain inhalers** — Common medication and substance-related tremors.\n- **Adrenaline surges and anxiety** — Episodic tremor with sympathetic activation.\n- **Hypoglycemia** — Tremor with sweating, hunger, and mental fogginess.\n- **Essential tremor** — A common neurologic condition, often familial; tremor with action or posture, usually progressive over years.\n- **Parkinson's disease** — Resting tremor (often pill-rolling), typically asymmetric.\n\n## When is it a red flag?\n\nNew, persistent tremor with hyperthyroid symptoms — heat intolerance, weight loss, palpitations, eye changes — needs prompt thyroid testing. Asymmetric tremor, tremor at rest (when the hand is fully supported), tremor with stiffness, slowness, or balance changes warrants neurologic evaluation. Severe tremor with confusion, fever, or rapid heart rate can signal **thyroid storm** or other endocrine emergencies and requires urgent care. Tremor in someone on thyroid medication should always trigger a dose review.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, we approach tremor by first identifying the source. A complete thyroid panel — TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies, and TSI/TRAb if Graves' is suspected — is the cornerstone, alongside a careful medication and caffeine review. Glucose, electrolytes, and metabolic studies fill in the picture. Treatment depends on cause: addressing hyperthyroidism, adjusting thyroid hormone replacement, reducing stimulants, treating anxiety physiology, or referring to neurology for non-endocrine tremor. Most thyroid-driven tremors resolve fully once the underlying issue is treated.",
+  "commonQuestions": [
+    {
+      "q": "How can I tell if my tremor is from my thyroid or just stress?",
+      "a": "Both can produce a fine, fast hand tremor, so you can't always tell from the shaking alone. The differentiating clues are the company it keeps. Hyperthyroid tremor usually comes with heat intolerance, weight loss without trying, palpitations, anxiety, sweaty palms, and sometimes eye changes. Stress-related tremor tends to be episodic, tied to specific stressors, and resolves between episodes. Persistent tremor with any of the hyperthyroid markers warrants a full thyroid panel — TSH alone misses subclinical cases."
+    },
+    {
+      "q": "Can my thyroid medication be causing the shaking?",
+      "a": "Yes — over-replacement is one of the most common causes of new tremor in women on thyroid hormone. Even within the 'normal' range, a TSH suppressed near zero or an elevated Free T3 can produce fine hand tremor along with palpitations, anxiety, and insomnia. If you started a new dose or brand of levothyroxine, T3, or NDT and tremor followed, that timing matters. At Modern Thyroid Clinic we adjust based on full thyroid labs and how patients feel — not TSH alone."
+    },
+    {
+      "q": "Will the tremor go away once my thyroid is treated?",
+      "a": "In most cases, yes. Hyperthyroid tremor typically resolves within weeks of bringing thyroid hormone levels back into a healthy range. Beta-blockers can quiet the tremor faster while definitive treatment — antithyroid medication, radioactive iodine, or surgery — works on the underlying problem. If tremor persists after thyroid is well-controlled, that's a signal to look at other causes, including essential tremor or medication effects, with your clinician."
+    }
+  ],
+  "keySymptoms": [
+    "Fine, fast shaking of the hands",
+    "Tremor visible when holding hands outstretched",
+    "Trembling in the voice",
+    "Difficulty with fine motor tasks (handwriting, buttons)",
+    "Tremor worsened by caffeine or stress",
+    "Inner trembling sensation without visible shaking",
+    "Tremor of the head or chin"
+  ],
+  "seoTitle": "Tremors & Thyroid: Hormonal Causes of Hand Shaking | Modern Thyroid Clinic",
+  "seoDescription": "Tremors often signal hyperthyroidism or thyroid over-replacement. Learn the hormonal causes of hand shaking and when to seek a full evaluation."
+}

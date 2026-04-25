@@ -1,0 +1,33 @@
+{
+  "slug": "adrenal-insufficiency",
+  "shortDefinition": "Adrenal insufficiency, including Addison's disease, is a serious medical condition in which the adrenal glands cannot produce enough cortisol and sometimes aldosterone.",
+  "fullDefinition": "## What is adrenal insufficiency?\n\nAdrenal insufficiency — including **Addison's disease**, the autoimmune form known medically as **primary adrenal insufficiency** — is a serious endocrine condition in which the adrenal glands cannot produce enough cortisol, and in some cases also fail to produce aldosterone (the hormone that regulates sodium and blood pressure). It is rare, affecting roughly 1 in 10,000 people, but it is medically important because it can be life-threatening if untreated.\n\nThis is a true clinical diagnosis — distinct from the popular concept of [adrenal-fatigue], which describes a different and less severe pattern of HPA axis dysfunction. Adrenal insufficiency requires lifelong hormone replacement and ongoing medical management.\n\n## What causes adrenal insufficiency?\n\nThe causes fall into two main categories:\n\n**Primary adrenal insufficiency (Addison's disease):**\n- **Autoimmune destruction** of the adrenal cortex (most common cause in developed countries)\n- **Tuberculosis** and other infections (more common globally)\n- **Adrenal hemorrhage**, surgery, or genetic conditions\n\n**Secondary adrenal insufficiency:**\n- **Pituitary disease** that reduces ACTH (the signal that tells adrenals to make cortisol)\n- **Long-term steroid use** with abrupt withdrawal (the most common cause overall)\n- **Pituitary tumors, surgery, or radiation**\n\nWomen with Addison's disease often have other autoimmune conditions, including [hashimotos-thyroiditis], [type-1-diabetes], or premature ovarian insufficiency — together known as polyglandular autoimmune syndrome.\n\n## How is adrenal insufficiency diagnosed?\n\nDiagnosis requires specific testing, typically:\n\n- **Morning [cortisol-am]** (often very low)\n- **ACTH stimulation test** — the gold standard, measuring cortisol response to synthetic ACTH\n- **ACTH level** — high in primary, low or normal in secondary\n- **Electrolytes** — low sodium and high potassium suggest aldosterone loss\n- **Adrenal antibodies** to confirm autoimmune Addison's\n- **Imaging** of adrenals or pituitary as indicated\n\nThis is meaningfully different from the salivary cortisol curve testing used to evaluate the [hpa-axis] in non-life-threatening dysfunction.\n\n## How is adrenal insufficiency treated?\n\nTreatment is **lifelong hormone replacement**, typically:\n\n- **Hydrocortisone** or other glucocorticoids replacing cortisol\n- **Fludrocortisone** replacing aldosterone in primary disease\n- **Stress dosing** — increased steroid doses during illness, surgery, or major stress\n- **Medical alert identification**\n- **Education on adrenal crisis** — a medical emergency requiring immediate injectable steroids\n\nAdrenal insufficiency is an endocrinology condition rather than something MTC manages directly. If you suspect it — particularly if you have low blood pressure, severe fatigue, salt craving, weight loss, and skin darkening — please see a clinician for proper testing rather than self-treating. MTC works closely with endocrinologists when adrenal insufficiency overlaps with thyroid or hormonal care.",
+  "commonQuestions": [
+    {
+      "q": "How is adrenal insufficiency different from adrenal fatigue?",
+      "a": "They are different conditions. Adrenal insufficiency is a confirmed medical diagnosis in which the adrenal glands cannot make enough cortisol — a serious, sometimes life-threatening condition requiring lifelong hormone replacement. Adrenal fatigue, by contrast, describes a popular concept of HPA axis dysfunction from chronic stress, with normal-but-suboptimal cortisol patterns — not a true endocrine disease. The lab findings, treatment, and severity are very different. If you suspect adrenal insufficiency, you need ACTH stimulation testing with an endocrinologist, not adaptogens."
+    },
+    {
+      "q": "What is an adrenal crisis?",
+      "a": "An adrenal crisis is a life-threatening drop in cortisol that can occur in someone with adrenal insufficiency during illness, injury, surgery, or major stress. Symptoms include severe weakness, vomiting, low blood pressure, confusion, abdominal pain, and shock. Treatment requires immediate injectable hydrocortisone and emergency care. Anyone with adrenal insufficiency should carry an emergency injection kit, wear medical alert identification, and learn stress-dosing rules with their endocrinologist. This is the most important reason adrenal insufficiency cannot be self-managed."
+    },
+    {
+      "q": "Can adrenal insufficiency be cured?",
+      "a": "In most cases, no — it requires lifelong hormone replacement. Autoimmune Addison's disease destroys adrenal tissue permanently. Secondary adrenal insufficiency from prolonged steroid use can sometimes recover after very gradual taper, but recovery may be partial and slow, and stress dosing is still required during the transition. With proper treatment and education, however, people with adrenal insufficiency live full, normal lives. The key is consistent medication, awareness of stress-dosing rules, and a strong relationship with an endocrinologist."
+    }
+  ],
+  "keySymptoms": [
+    "Severe fatigue",
+    "Unintended weight loss",
+    "Low blood pressure or dizziness on standing",
+    "Salt cravings",
+    "Darkening of the skin (in primary disease)",
+    "Nausea, vomiting, or abdominal pain",
+    "Muscle weakness",
+    "Irritability or depression",
+    "Loss of body hair (in women)",
+    "Low blood sugar episodes"
+  ],
+  "seoTitle": "Adrenal Insufficiency & Addison's Disease: Symptoms & Diagnosis",
+  "seoDescription": "Adrenal insufficiency is a serious medical condition requiring proper diagnosis and lifelong treatment. Learn how it differs from adrenal fatigue."
+}

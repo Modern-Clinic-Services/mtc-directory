@@ -1,0 +1,30 @@
+{
+  "slug": "cold-intolerance",
+  "shortDefinition": "Cold intolerance is an unusual sensitivity to cool temperatures, often a hallmark of an underactive thyroid or low metabolic rate.",
+  "fullDefinition": "## What is cold intolerance?\n\nCold intolerance — also described as **feeling cold all the time** or **persistently cold hands and feet** — is the experience of being uncomfortable in temperatures that do not bother the people around you. You may need a sweater when others are in short sleeves, sleep with extra blankets, or notice your fingers and toes turn cold and stay cold long after coming indoors.\n\nA small amount of cold sensitivity is normal, especially in lean women. What we look for at Modern Thyroid Clinic is a *change*: when someone who used to tolerate cool weather starts shivering at room temperature, that is a metabolic signal worth investigating.\n\nThyroid hormone is a primary regulator of body heat production. When thyroid output drops, basal metabolic rate slows, peripheral circulation tightens, and core temperature can settle below the typical 98.6°F — and you feel it.\n\n## What hormonal conditions cause cold intolerance?\n\nCold intolerance is most strongly associated with:\n\n- **[hypothyroidism]** — The classic driver. Low T3/T4 means slower mitochondrial heat production.\n- **[hashimotos-thyroiditis]** — The most common cause of hypothyroidism in U.S. women.\n- **[subclinical-hypothyroidism]** — Cold intolerance can appear before TSH is overtly out of range.\n- **[low-body-temperature]** — Often coexists; consistent oral temperatures under 97.8°F suggest a sluggish metabolism.\n- **Iron deficiency / low [ferritin]** — Anemia and low iron stores impair oxygen delivery and heat regulation, even with normal thyroid labs.\n- **Adrenal dysregulation** — Chronic low cortisol output can blunt thermoregulation.\n- **Low body fat or undereating** — Insufficient calories suppress T3 conversion.\n\n## When is it a red flag?\n\nCold intolerance plus profound fatigue, slow heart rate, facial puffiness, severe constipation, or confusion can point to advanced hypothyroidism and warrants prompt evaluation. Sudden cold sensitivity with chest pain, shortness of breath, or numbness in a limb is a different problem entirely and should be assessed urgently. Color changes (white-to-blue-to-red) in fingers and toes triggered by cold may indicate Raynaud's phenomenon and merits clinical review.\n\n## What typically helps\n\nThe fix usually starts with finding the cause. A complete thyroid panel — TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies — plus a full iron panel, vitamin B12, vitamin D, and morning cortisol gives us a working map. From there, treatment may include thyroid hormone replacement, iron repletion, addressing autoimmunity, supporting adrenal physiology, and ensuring adequate calorie and protein intake. Most women feel warmer within weeks once the underlying issue is identified and treated.",
+  "commonQuestions": [
+    {
+      "q": "Why am I always cold when everyone else is comfortable?",
+      "a": "Persistent cold intolerance — especially when it is new — usually reflects a slower-than-normal metabolism. The most common culprit in women is an underactive thyroid, including subclinical Hashimoto's that has not yet pushed TSH out of range. Iron deficiency, low ferritin, and undereating can do the same thing. A thorough thyroid panel plus a full iron workup typically uncovers the driver. Generic 'normal' labs aren't enough — we look at the full picture and functional ranges, not just the reference range."
+    },
+    {
+      "q": "Can my thyroid be the problem if my TSH is normal?",
+      "a": "Yes, this is one of the most common scenarios we see. TSH alone misses subclinical hypothyroidism, low Free T3, high reverse T3, and Hashimoto's antibodies that have been elevated for years before TSH shifts. Many women with classic cold intolerance have lab results their primary doctor calls 'normal' — but a complete thyroid panel tells a different story. If your symptoms fit and a basic TSH is unrevealing, push for a full evaluation."
+    },
+    {
+      "q": "What can I do at home while I figure this out?",
+      "a": "Track your symptoms and basal body temperature with an oral thermometer first thing in the morning for two weeks — temperatures consistently under 97.8°F are useful clinical data. Make sure you are eating enough, especially adequate protein and carbohydrates, since chronic undereating tanks T3 conversion. Iron-rich foods help if ferritin is low. Layered clothing, warm hydration, and movement support comfort, but they do not replace addressing a true endocrine cause."
+    }
+  ],
+  "keySymptoms": [
+    "Feeling cold when others are comfortable",
+    "Persistently cold hands and feet",
+    "Needing extra layers indoors",
+    "Low basal body temperature (under 97.8°F)",
+    "Slow rewarming after exposure to cold",
+    "Cold sensitivity that worsens with fatigue",
+    "Color changes in fingers/toes with cold exposure"
+  ],
+  "seoTitle": "Cold Intolerance: Thyroid & Hormonal Causes | Modern Thyroid Clinic",
+  "seoDescription": "Cold intolerance often signals an underactive thyroid or low iron. Learn why women feel cold and how root-cause testing identifies what's driving it."
+}

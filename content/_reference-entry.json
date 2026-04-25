@@ -1,0 +1,35 @@
+{
+  "_instructions_for_writers": "This is the GOLD-STANDARD reference entry. Every term you write must match this structure, depth, tone, and SEO pattern. Lay-reader friendly but medically correct. Assume a woman (30-55) seeking root-cause thyroid/hormone care. Voice: warm, authoritative, non-condescending. Never give dosing or prescription advice. Always nudge toward professional care.",
+
+  "slug": "hashimotos-thyroiditis",
+  "shortDefinition": "Hashimoto's thyroiditis is an autoimmune condition in which the immune system attacks the thyroid gland, gradually causing hypothyroidism.",
+  "fullDefinition": "## What is Hashimoto's thyroiditis?\n\nHashimoto's thyroiditis is the most common cause of hypothyroidism in the United States. It is an **autoimmune condition** in which the immune system produces antibodies — primarily thyroid peroxidase antibodies (TPO) and thyroglobulin antibodies (TgAb) — that gradually damage the thyroid gland. Over months or years, this damage reduces the thyroid's ability to make thyroid hormone, which eventually produces an underactive thyroid (hypothyroidism).\n\nHashimoto's affects women up to eight times more often than men and often runs in families. It commonly appears between ages 30 and 50, but it can occur at any age.\n\n## What causes Hashimoto's?\n\nHashimoto's is multifactorial. Genetics set the stage, but specific triggers tip the immune system into attacking the thyroid. Common contributors include:\n\n- **Gut dysfunction** (including intestinal permeability, often called \"leaky gut\")\n- **Gluten and other food sensitivities** in susceptible people\n- **Nutrient deficiencies** — especially selenium, vitamin D, zinc, iron, and B12\n- **Chronic stress** and HPA axis dysregulation\n- **Infections** (e.g., Epstein-Barr virus)\n- **Environmental toxins** — halogens, heavy metals, endocrine disruptors\n- **Hormonal transitions** — pregnancy, postpartum, perimenopause\n\n## How is Hashimoto's diagnosed?\n\nHashimoto's is diagnosed with a combination of labs and clinical picture. At Modern Thyroid Clinic, a full evaluation looks at TSH, Free T4, Free T3, reverse T3, TPO antibodies, and thyroglobulin antibodies — not TSH alone. Thyroid ultrasound can confirm characteristic changes in gland texture. Antibodies can be elevated for years before TSH rises out of the lab's reference range, which is why many women are told they are \"normal\" while experiencing classic symptoms.\n\n## How is Hashimoto's treated?\n\nStandard care treats the resulting hypothyroidism with thyroid hormone replacement — most often **levothyroxine** (T4), sometimes combined with **liothyronine** (T3) or replaced with **natural desiccated thyroid (NDT)** when patients do not feel well on T4 alone. A root-cause approach goes further, addressing the triggers fueling the autoimmune process: gut healing, gluten elimination, stress and sleep, and targeted nutrients such as selenium and vitamin D.\n\nWith the right medication strategy *and* root-cause work, most women with Hashimoto's can feel like themselves again. Hashimoto's is manageable — but it rarely goes into complete remission without addressing what keeps the immune system fired up.",
+  "commonQuestions": [
+    {
+      "q": "Can Hashimoto's be reversed?",
+      "a": "Hashimoto's antibodies can be lowered substantially — and, in some cases, returned to the non-detectable range — by addressing gut health, removing dietary triggers, correcting nutrient deficiencies, and supporting stress physiology. The thyroid damage already done is generally permanent, but many people reduce or stabilize their medication needs and feel dramatically better when the autoimmune process is calmed."
+    },
+    {
+      "q": "What is the difference between Hashimoto's and hypothyroidism?",
+      "a": "Hypothyroidism is a state of low thyroid hormone. Hashimoto's is the autoimmune disease that, in most Americans, causes that low thyroid state. You can have Hashimoto's antibodies for years before your thyroid hormone levels drop out of range — and you can have hypothyroidism from causes other than Hashimoto's."
+    },
+    {
+      "q": "Is gluten really a problem with Hashimoto's?",
+      "a": "For many people with Hashimoto's, yes. Gluten shares molecular similarities with thyroid tissue, which can cross-react and fuel the autoimmune attack. At Modern Thyroid Clinic we commonly see antibody levels drop meaningfully after a strict gluten-free trial, especially in patients who also have gut symptoms or other autoimmune conditions."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue",
+    "Weight gain",
+    "Hair loss",
+    "Brain fog",
+    "Cold intolerance",
+    "Dry skin",
+    "Constipation",
+    "Heavy or irregular periods",
+    "Depression",
+    "Joint pain"
+  ],
+  "seoTitle": "Hashimoto's Thyroiditis: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Hashimoto's thyroiditis is an autoimmune disease causing hypothyroidism. Learn the symptoms, causes, labs, and root-cause treatment options."
+}

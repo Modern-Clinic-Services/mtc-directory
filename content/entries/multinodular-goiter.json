@@ -1,0 +1,31 @@
+{
+  "slug": "multinodular-goiter",
+  "shortDefinition": "Multinodular goiter is an enlarged thyroid gland that contains multiple distinct nodules, often developing slowly over years.",
+  "fullDefinition": "## What is multinodular goiter?\n\nMultinodular goiter — abbreviated **MNG** and sometimes called **nodular goiter** — describes a thyroid gland that is both enlarged and contains two or more distinct nodules. It develops gradually, typically over years or decades, and is more common in women and in people over 50. Many multinodular goiters are discovered incidentally on imaging done for another reason. They can exist with normal thyroid function (nontoxic MNG) or with overactive thyroid function when one or more nodules begin producing thyroid hormone autonomously (toxic MNG).\n\n## What causes multinodular goiter?\n\nMultinodular goiter usually evolves from long-standing [goiter] in which different parts of the gland respond unevenly to growth signals. Iodine deficiency is the leading global cause, while in the United States the picture often involves chronic autoimmunity, genetic susceptibility, prior radiation exposure, and natural changes with age. Hormonal transitions, particularly perimenopause and menopause, can be a time when previously stable nodules begin to grow or become noticeable. Some women have a family history of nodular thyroid disease.\n\n## How is multinodular goiter diagnosed?\n\nThyroid ultrasound is the cornerstone — it measures the gland, characterizes each nodule, and assigns a TI-RADS risk score. Lab work includes TSH, Free T4, Free T3, and thyroid antibodies (TPO and TgAb) to assess function and screen for autoimmunity. If the TSH is suppressed, a radioactive iodine uptake scan can identify which nodules are producing hormone. Nodules with concerning features or those above a size threshold are biopsied via fine-needle aspiration. At Modern Thyroid Clinic, we evaluate the entire thyroid picture — including [thyroid-nodules] characteristics and antibody status — rather than just rechecking TSH year after year.\n\n## How is multinodular goiter treated?\n\nMost nontoxic, asymptomatic multinodular goiters are monitored with periodic ultrasound. Treatment is needed when the goiter compresses the airway or esophagus, when nodules show concerning features on biopsy, or when the goiter becomes toxic and produces [hyperthyroidism]. Options include radioactive iodine ablation (which can shrink the gland and end hyperthyroidism), surgical removal (thyroidectomy), and, for select benign nodules, minimally invasive radiofrequency ablation. Toxic MNG is also managed with anti-thyroid medication. Treatment after thyroid removal usually means lifelong [hypothyroidism] requiring thyroid hormone replacement, which is why the right plan considers long-term function, not just the immediate problem.",
+  "commonQuestions": [
+    {
+      "q": "Is multinodular goiter cancerous?",
+      "a": "The risk of cancer in any individual nodule within a multinodular goiter is similar to that of a solitary nodule — roughly 5-10%. The overall risk per gland is slightly higher because there are more nodules to evaluate. The standard approach is to use ultrasound features and size to identify which nodules need biopsy, rather than biopsying every nodule. With careful evaluation, the small percentage of cancers can be identified and treated, while the majority of benign nodules are simply monitored."
+    },
+    {
+      "q": "Can multinodular goiter shrink without surgery?",
+      "a": "Multinodular goiters rarely regress significantly on their own. Levothyroxine suppression therapy, once popular, is no longer routinely recommended because the modest benefit usually does not outweigh the risks of suppressed TSH long-term. Radioactive iodine can shrink the gland substantially over six to twelve months and is sometimes used even for nontoxic MNG. Radiofrequency ablation can shrink individual benign nodules. For large, symptomatic goiters, surgery remains the most reliable size reduction."
+    },
+    {
+      "q": "Does multinodular goiter cause symptoms?",
+      "a": "Many multinodular goiters cause no symptoms at all. When symptoms occur, they typically come from size or function. Compressive symptoms include neck fullness or pressure, hoarseness, difficulty swallowing, and shortness of breath, especially when lying down. Toxic MNG causes hyperthyroid symptoms — palpitations, weight loss, heat intolerance, anxiety. Some women feel a tight collar, see a visible swelling, or notice a cosmetic change in their neck contour. Any of these warrants a thorough thyroid evaluation."
+    }
+  ],
+  "keySymptoms": [
+    "Visible neck swelling or asymmetry",
+    "Sensation of fullness or pressure",
+    "Difficulty swallowing",
+    "Hoarseness",
+    "Shortness of breath when lying flat",
+    "Palpitations (if toxic MNG)",
+    "Unexplained weight loss (if toxic MNG)",
+    "Often asymptomatic and found incidentally"
+  ],
+  "seoTitle": "Multinodular Goiter: Causes, Symptoms & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Multinodular goiter is an enlarged thyroid with multiple nodules. Learn how it's evaluated, monitored, and treated when nodules grow or become toxic."
+}

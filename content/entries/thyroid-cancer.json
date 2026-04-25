@@ -1,0 +1,30 @@
+{
+  "slug": "thyroid-cancer",
+  "shortDefinition": "Thyroid cancer is a malignant tumor arising from thyroid cells; most types grow slowly and have excellent outcomes when diagnosed and treated promptly.",
+  "fullDefinition": "## What is thyroid cancer?\n\nThyroid cancer is a malignancy that begins in the cells of the thyroid gland. The most common types are **papillary thyroid cancer** (about 80% of cases), **follicular thyroid cancer**, **medullary thyroid cancer**, and the rare and aggressive **anaplastic thyroid cancer**. Thyroid cancer is roughly three times more common in women than men and is most often diagnosed between ages 30 and 60. The reassuring reality is that the most common types are slow-growing and highly treatable, with five-year survival rates above 95% for papillary and follicular cancer caught at early stages.\n\n## What causes thyroid cancer?\n\nMost thyroid cancers develop without an identifiable single cause. Known risk factors include prior radiation exposure to the head or neck (especially in childhood), a family history of thyroid cancer or certain genetic syndromes (such as MEN2 for medullary cancer), being female, and possibly long-standing iodine imbalance. Some thyroid cancers arise within preexisting [thyroid-nodules], which is why suspicious nodules are evaluated thoroughly. Hashimoto's thyroiditis is associated with a slightly increased risk of papillary thyroid cancer, although the absolute risk remains low.\n\n## How is thyroid cancer diagnosed?\n\nMost thyroid cancers are first identified as a thyroid nodule on ultrasound or physical exam. Suspicious features — irregular borders, microcalcifications, taller-than-wide shape, increased blood flow, or extension beyond the gland — prompt **fine-needle aspiration (FNA)** biopsy. Cytology results are reported using the Bethesda system, which estimates the likelihood of malignancy. In some cases, molecular testing of the biopsy sample helps clarify indeterminate results. Lab work includes TSH, calcitonin (for medullary cancer), and, after diagnosis, thyroglobulin as a tumor marker. Imaging may include neck ultrasound and, in some cases, CT or PET scans for staging.\n\n## How is thyroid cancer treated?\n\nTreatment depends on the type and stage. Most papillary and follicular cancers are treated with surgical removal of part or all of the thyroid (lobectomy or total thyroidectomy). Some patients also receive **radioactive iodine ablation** to destroy any remaining thyroid tissue and microscopic disease. Lifelong thyroid hormone replacement is required after total thyroidectomy and serves a dual role: replacing hormone and suppressing TSH (which can stimulate any residual cancer cells). Medullary and anaplastic cancers require different approaches, including specialized surgery and, in some cases, targeted therapy. Long-term monitoring includes thyroglobulin levels, ultrasound, and regular endocrinology follow-up. Modern Thyroid Clinic does not treat thyroid cancer itself but supports patients before and after surgery, particularly with optimizing thyroid hormone replacement and addressing the resulting [hypothyroidism].",
+  "commonQuestions": [
+    {
+      "q": "Is thyroid cancer fatal?",
+      "a": "The most common thyroid cancers — papillary and follicular — have excellent outcomes when treated. Five-year survival exceeds 95% for these types caught at early stages, and even later-stage disease often responds well to treatment. Medullary thyroid cancer is more variable, depending on stage and genetics. Anaplastic thyroid cancer, while rare, is aggressive and has a poor prognosis. The vast majority of women diagnosed with thyroid cancer go on to live full, normal lifespans, though they typically require lifelong monitoring and thyroid hormone replacement."
+    },
+    {
+      "q": "Will I need to take thyroid medication after thyroid cancer surgery?",
+      "a": "Yes, in most cases. After total thyroidectomy, you must take thyroid hormone for life because your body can no longer make it. After a lobectomy (removal of one lobe), some women have enough function in the remaining lobe to avoid medication, while others develop hypothyroidism over time. Medication serves two purposes: replacing hormone and keeping TSH suppressed to reduce the risk of cancer recurrence. Getting the right dose and the right formulation matters enormously for how you feel afterward."
+    },
+    {
+      "q": "Why does my doctor still want to monitor me years after thyroid cancer treatment?",
+      "a": "Thyroid cancers, particularly papillary and follicular types, can recur many years — sometimes decades — after initial treatment, which is why long-term surveillance matters. Monitoring typically includes thyroglobulin (a tumor marker after total thyroidectomy), thyroid antibody testing, and periodic neck ultrasound. The frequency decreases over time when the disease remains undetectable. Ongoing monitoring is also important for keeping thyroid hormone replacement optimized — both for cancer suppression and for how you feel."
+    }
+  ],
+  "keySymptoms": [
+    "Painless lump in the neck",
+    "Persistent hoarseness",
+    "Difficulty swallowing",
+    "Difficulty breathing",
+    "Swollen lymph nodes in the neck",
+    "Neck pain extending to the ears",
+    "Often asymptomatic and found on imaging"
+  ],
+  "seoTitle": "Thyroid Cancer: Symptoms, Types & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Thyroid cancer is usually slow-growing and highly treatable. Learn the types, diagnosis with biopsy, and treatment with surgery and radioactive iodine."
+}

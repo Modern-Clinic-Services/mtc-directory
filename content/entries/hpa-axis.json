@@ -1,0 +1,31 @@
+{
+  "slug": "hpa-axis",
+  "shortDefinition": "The HPA axis (hypothalamic-pituitary-adrenal axis) is the body's central stress response system, regulating cortisol and influencing thyroid, sex hormones, and immune function.",
+  "fullDefinition": "## What is the HPA axis?\n\nThe **HPA axis** — short for the **hypothalamic-pituitary-adrenal axis** — is the body's central stress response system. It is a coordinated communication loop between three glands:\n\n- The **hypothalamus** in the brain, which senses stress and releases CRH\n- The **pituitary** gland, which responds with ACTH\n- The **adrenal glands**, which sit on top of the kidneys and release **cortisol** and other stress hormones\n\nCortisol is the main downstream output. It rises and falls in a daily rhythm — high in the morning to wake you up, tapering down through the day, low at night so you can sleep. This pattern is called the [cortisol-rhythm] or diurnal cortisol curve.\n\n## Why the HPA axis matters\n\nThe HPA axis is designed for short-term stress: a deadline, a near-miss in traffic, a hard workout. Cortisol spikes, the body mobilizes energy, and then the system resets. Modern life rarely allows that reset. Chronic stress — work pressure, poor sleep, caloric restriction, infections, unprocessed emotions, relationship strain — keeps the axis activated for years on end.\n\nWhen the HPA axis is dysregulated, it does not affect cortisol alone. It influences nearly every other hormone system, including:\n\n- **Thyroid function** — chronic cortisol suppresses TSH, slows [t4-to-t3-conversion], and raises [reverse-t3] (see [thyroid-adrenal-connection])\n- **Sex hormones** — progesterone is preferentially shunted into cortisol production (\"pregnenolone steal\"), worsening estrogen-progesterone balance\n- **Blood sugar** and insulin sensitivity\n- **Immune function** — chronic activation suppresses healthy immunity and can drive autoimmunity\n- **Sleep**, mood, and digestion\n\nThe term [adrenal-fatigue] is often used colloquially to describe HPA axis dysregulation, though the more accurate clinical framing is HPA axis dysfunction — the adrenals are not failing, the signaling is off.\n\n## How MTC applies the HPA axis\n\nAt Modern Thyroid Clinic, the HPA axis is treated as foundational. You can prescribe perfect thyroid medication and the most precise [hormone-replacement-therapy], but if cortisol is dysregulated, women rarely feel fully well.\n\nEvaluation typically includes a four-point salivary cortisol test or a [dutch-test] — both of which capture the daily cortisol rhythm rather than a single morning blood draw. Patterns reveal whether cortisol is too high, too low, flat, or reversed (low in the morning, high at night).\n\nTreatment is layered:\n\n- **Lifestyle foundations** — sleep, blood sugar stability, sufficient protein and calories, gentle movement\n- **Stress physiology work** — breathwork, nervous system regulation, time outdoors, relational support\n- **Targeted nutrients** — magnesium, B vitamins, vitamin C, adaptogens like ashwagandha when appropriate\n- **Addressing root drivers** — chronic infection, gut dysfunction (see [leaky-gut]), inflammation, trauma\n\nThe HPA axis cannot be supplemented past chronic stress. The work is to remove what is keeping it activated, then rebuild capacity. Done well, women feel a return of energy, sleep, mood, and resilience that thyroid medication alone could never produce.",
+  "commonQuestions": [
+    {
+      "q": "Is HPA axis dysfunction the same as adrenal fatigue?",
+      "a": "They describe the same experience but use different language. \"[Adrenal-fatigue]\" is the popular term and implies the adrenals are exhausted. The more accurate framing is \"HPA axis dysfunction\" — the adrenals themselves are usually fine; it is the brain-gland signaling that is dysregulated. Either way, the symptoms are real: persistent fatigue, poor stress tolerance, sleep disruption, brain fog, salt or sugar cravings, and feeling \"tired but wired.\" At Modern Thyroid Clinic, we evaluate cortisol patterns objectively and treat the underlying drivers, not just the labels."
+    },
+    {
+      "q": "How is the HPA axis tested?",
+      "a": "A single morning serum cortisol — the typical conventional test — captures one moment in time and misses the bigger picture. Better tools include a four-point salivary cortisol test (saliva collected at waking, midday, late afternoon, and bedtime) or a [dutch-test], which uses dried urine to map cortisol, cortisone, and their metabolites across the day. These tests reveal the rhythm — whether cortisol is high, low, flat, or reversed — which guides treatment far better than a single number ever could."
+    },
+    {
+      "q": "Can HPA axis dysfunction cause thyroid symptoms?",
+      "a": "Yes — and it is one of the most common reasons women feel hypothyroid even with normal thyroid labs. Chronic cortisol elevation suppresses TSH, impairs [t4-to-t3-conversion], and raises [reverse-t3], producing fatigue, weight gain, brain fog, and cold intolerance that look exactly like hypothyroidism. The thyroid is downstream of stress physiology. Until the HPA axis is supported, thyroid medication adjustments often deliver only partial relief. This is why MTC evaluates both systems together — see [thyroid-adrenal-connection]."
+    }
+  ],
+  "keySymptoms": [
+    "Persistent fatigue",
+    "Sleep disturbance",
+    "Tired but wired",
+    "Brain fog",
+    "Poor stress tolerance",
+    "Salt or sugar cravings",
+    "Anxiety",
+    "Low mood"
+  ],
+  "seoTitle": "HPA Axis: How Stress Affects Thyroid & Hormones | MTC",
+  "seoDescription": "The HPA axis controls cortisol and influences thyroid, sex hormones, and immunity. Learn how chronic stress dysregulates it and how to support recovery."
+}

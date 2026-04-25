@@ -1,0 +1,33 @@
+{
+  "slug": "type-2-diabetes",
+  "shortDefinition": "Type 2 diabetes (T2D) is a chronic condition of high blood sugar driven by insulin resistance and declining insulin production from the pancreas.",
+  "fullDefinition": "## What is type 2 diabetes?\n\nType 2 diabetes — **T2D**, **T2DM**, or sometimes **adult-onset diabetes** — is a chronic metabolic condition in which blood sugar (glucose) stays elevated because the body's cells no longer respond well to insulin and the pancreas eventually cannot produce enough to compensate. T2D typically develops after years of [insulin-resistance] and [prediabetes], during which the pancreas works overtime to keep glucose normal. When that compensation fails, blood sugar climbs into the diabetic range.\n\nUnlike type 1 diabetes (an autoimmune destruction of insulin-producing cells), type 2 is largely a disease of metabolic dysfunction — and that means it is, in many cases, modifiable and even reversible, especially when caught early.\n\n## What causes type 2 diabetes?\n\nT2D develops from the same forces that drive insulin resistance, accumulated over years:\n\n- **Genetics and family history**\n- **Visceral fat and excess body weight**\n- **Diets heavy in refined carbohydrates and ultra-processed foods**\n- **Inactivity and low muscle mass**\n- **Chronic stress and disrupted sleep**\n- **Hormonal transitions** — pregnancy (gestational diabetes), perimenopause\n- **Certain medications** (long-term steroids, some antipsychotics)\n- **Polycystic ovary syndrome and other insulin-driven conditions**\n\n## How is type 2 diabetes diagnosed?\n\nDiagnosis is straightforward and relies on standard labs:\n\n- **HbA1c** of 6.5% or higher (a 3-month average of blood sugar) — see [hba1c]\n- **Fasting glucose** of 126 mg/dL or higher on two occasions\n- **Oral glucose tolerance test** ≥200 mg/dL at 2 hours\n- **Random glucose** ≥200 mg/dL with classic symptoms (thirst, frequent urination, unintended weight loss)\n\nA more complete metabolic picture also includes [fasting-insulin], lipid panel, kidney function, and a thyroid panel — type 2 diabetes and thyroid disease often coexist.\n\n## How is type 2 diabetes treated?\n\nTreatment combines lifestyle and, when needed, medication. The foundation is the same as for insulin resistance:\n\n- **Nutrition** — protein and fiber at every meal, sharply reduced refined carbs and sugary drinks\n- **Strength training** to build glucose-burning muscle\n- **Daily movement**, particularly after meals\n- **Sleep** and stress management\n\nMedications are individualized and may include [metformin] (typically first-line), [glp-1-agonists] such as semaglutide or tirzepatide, SGLT-2 inhibitors, and others. Insulin is reserved for advanced cases. At Modern Thyroid Clinic, T2D is treated as a metabolic condition that intersects with thyroid, hormones, and weight — not in isolation. Many women see dramatic improvements in A1c, energy, and weight with the right combined plan.",
+  "commonQuestions": [
+    {
+      "q": "Can type 2 diabetes be reversed?",
+      "a": "In many cases, yes — particularly when it has been present for fewer than five to ten years. \"Reversal\" generally means achieving an A1c in the non-diabetic range without medications. This typically requires meaningful changes in diet (especially reducing refined carbs), building muscle, improving sleep, and, often, losing visceral fat. GLP-1 medications can accelerate the process for some patients. Once beta-cell function is significantly impaired, full reversal is harder but improvement is still possible. A clinician can help you set a realistic plan based on your timeline."
+    },
+    {
+      "q": "What is the difference between type 1 and type 2 diabetes?",
+      "a": "Type 1 is an autoimmune disease in which the immune system destroys the insulin-producing cells of the pancreas, usually in childhood or young adulthood, requiring lifelong insulin. Type 2 is a metabolic condition driven by insulin resistance and gradual pancreatic burnout, typically developing in adults after years of metabolic stress, and is often partially reversible with lifestyle change and medications. The treatments, prognosis, and underlying causes are very different, even though both produce high blood sugar."
+    },
+    {
+      "q": "Should I be on a GLP-1 medication for type 2 diabetes?",
+      "a": "GLP-1 medications such as semaglutide and tirzepatide can be excellent tools for many people with T2D — they lower A1c, support weight loss, reduce cardiovascular risk, and ease some of the metabolic burden on the pancreas. They are not appropriate for everyone, however, and side effects, cost, and long-term considerations matter. The decision is best made with a clinician who knows your full picture, including thyroid history, kidney function, and personal goals. They are a tool, not a replacement for the foundational work."
+    }
+  ],
+  "keySymptoms": [
+    "Frequent urination",
+    "Excessive thirst",
+    "Fatigue",
+    "Blurred vision",
+    "Slow-healing cuts or infections",
+    "Numbness or tingling in hands or feet",
+    "Unintended weight loss (in advanced cases)",
+    "Dark patches on the skin",
+    "Frequent yeast infections",
+    "Increased hunger"
+  ],
+  "seoTitle": "Type 2 Diabetes: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Type 2 diabetes is driven by insulin resistance and is often reversible. Learn the labs, symptoms, and root-cause treatment options."
+}

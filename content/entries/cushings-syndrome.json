@@ -1,0 +1,33 @@
+{
+  "slug": "cushings-syndrome",
+  "shortDefinition": "Cushing's syndrome — also called hypercortisolism — is a condition of chronically elevated cortisol that produces weight gain, skin changes, and metabolic disease.",
+  "fullDefinition": "## What is Cushing's syndrome?\n\nCushing's syndrome — also called **hypercortisolism** — is an endocrine condition in which the body is exposed to abnormally high levels of cortisol over an extended period. Cortisol is a vital hormone, but when it stays elevated month after month, it produces a constellation of changes: central weight gain, a rounded \"moon\" face, a fatty hump between the shoulders, purple stretch marks, thinning skin, easy bruising, muscle weakness, mood changes, high blood pressure, and elevated blood sugar.\n\nCushing's is uncommon but serious. Untreated, it raises the risk of cardiovascular disease, [type-2-diabetes], osteoporosis, infections, and clotting disorders. Diagnosis often takes years because symptoms overlap with [polycystic-ovary-syndrome], [metabolic-syndrome], and depression.\n\n## What causes Cushing's syndrome?\n\nThe causes fall into two categories:\n\n**Exogenous (most common):**\n- **Long-term high-dose corticosteroid use** — oral, injected, or even high-potency topical/inhaled steroids over time\n\n**Endogenous (the body produces too much cortisol):**\n- **Pituitary adenoma** — a tumor on the pituitary that secretes excess ACTH (called **Cushing's disease**, the most common endogenous cause)\n- **Adrenal tumor** producing cortisol directly\n- **Ectopic ACTH** from tumors elsewhere in the body (rare)\n\nWomen are affected three times more often than men, typically diagnosed between 25 and 50.\n\n## How is Cushing's syndrome diagnosed?\n\nDiagnosis requires careful, stepwise testing because cortisol naturally fluctuates. Standard initial tests include:\n\n- **24-hour urinary free cortisol** — measures total daily cortisol output\n- **Late-night salivary cortisol** — high in Cushing's because cortisol should be low at midnight\n- **Low-dose dexamethasone suppression test** — cortisol fails to suppress in Cushing's\n- **Morning [cortisol-am]** alone is not sufficient\n\nIf testing confirms hypercortisolism, **ACTH levels** and imaging (MRI of pituitary, CT of adrenals) help identify the source. This is endocrinology territory and requires a thorough workup.\n\n## How is Cushing's syndrome treated?\n\nTreatment depends on the cause:\n\n- **Exogenous Cushing's**: gradual taper of the offending steroid under physician supervision (never stop abruptly)\n- **Pituitary adenoma**: transsphenoidal surgery to remove the tumor\n- **Adrenal tumor**: surgical removal of the affected adrenal gland\n- **Medications** to block cortisol production when surgery is not possible or curative\n- **Radiation** in selected cases\n\nCushing's syndrome is managed by endocrinology rather than directly at MTC, but the condition matters in our world because it overlaps with so many midlife women's symptoms — central weight gain, fatigue, mood changes, blood sugar issues. When something does not fit the usual perimenopause or PCOS picture, ruling out Cushing's is part of thorough care.",
+  "commonQuestions": [
+    {
+      "q": "How is Cushing's syndrome different from elevated stress cortisol?",
+      "a": "They are different categories. Stress-related cortisol elevation produces transient or modestly elevated cortisol with normal daily rhythm — measurable on a salivary cortisol curve, often improvable with sleep, stress reduction, and lifestyle work. Cushing's syndrome is sustained, dramatically elevated cortisol from a tumor or chronic steroid use, with a loss of normal rhythm and physical signs like purple stretch marks, easy bruising, and central weight gain. Cushing's requires definitive testing — 24-hour urine cortisol, midnight salivary cortisol, dexamethasone suppression — not just morning labs."
+    },
+    {
+      "q": "Can long-term steroid use cause Cushing's?",
+      "a": "Yes — and this is actually the most common cause overall. Oral steroids like prednisone are the obvious culprits, but high-dose inhaled steroids for asthma, frequent steroid joint injections, potent topical steroids over large areas, or repeated steroid courses can all contribute. The risk depends on dose, duration, and route. If you are on long-term steroids and developing Cushing's-like symptoms, do not stop the medication abruptly — that can trigger adrenal crisis. A clinician can help plan a safe, gradual taper while addressing the underlying condition that required steroids."
+    },
+    {
+      "q": "Why is Cushing's syndrome often missed?",
+      "a": "Because the symptoms overlap heavily with much more common conditions — PCOS, metabolic syndrome, perimenopause, depression, and uncontrolled diabetes. Women may be told for years that they have hormonal weight gain or stress before the right testing is ordered. Telltale features that should raise suspicion include purple stretch marks (especially abdominal), thinning skin and easy bruising, a rounded face with a fatty hump between the shoulders, severe muscle weakness, and rapid central weight gain that does not respond to typical interventions. When in doubt, ask about screening."
+    }
+  ],
+  "keySymptoms": [
+    "Weight gain centered in the face, neck, and abdomen",
+    "Rounded 'moon' face",
+    "Fatty hump between the shoulders",
+    "Purple stretch marks on abdomen, hips, or thighs",
+    "Thin skin that bruises easily",
+    "Muscle weakness, especially in the thighs",
+    "High blood pressure",
+    "Elevated blood sugar",
+    "Mood changes or depression",
+    "Irregular periods or new facial hair (in women)"
+  ],
+  "seoTitle": "Cushing's Syndrome (Hypercortisolism): Symptoms & Causes",
+  "seoDescription": "Cushing's syndrome causes high cortisol, weight gain, skin changes, and metabolic issues. Learn how it is diagnosed and why it is often missed."
+}

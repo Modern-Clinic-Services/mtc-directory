@@ -1,0 +1,31 @@
+{
+  "slug": "leaky-gut",
+  "shortDefinition": "Leaky gut (intestinal permeability) is a condition in which the lining of the small intestine becomes excessively permeable, allowing particles to enter the bloodstream and trigger immune reactions.",
+  "fullDefinition": "## What is leaky gut?\n\n**Leaky gut** — clinically known as **intestinal permeability** — describes a state in which the tight junctions between cells lining the small intestine loosen, letting particles cross into the bloodstream that should have stayed in the gut.\n\nThe gut lining is meant to be selectively permeable: nutrients pass through, while bacteria, toxins, and undigested food particles are kept out. When this barrier is compromised, those particles leak through and the immune system — which lives largely in the gut wall — reacts. Over time, this systemic immune activation drives inflammation, food sensitivities, and autoimmune disease.\n\nIntestinal permeability used to be considered fringe. It is now a well-described phenomenon in mainstream gastroenterology, with measurable markers like **zonulin** (a regulator of tight junctions) and lactulose-mannitol urine testing.\n\n## Why leaky gut matters\n\nLeaky gut is one of the most consequential upstream drivers in [functional-medicine] because it links seemingly unrelated symptoms to a single mechanism.\n\nCommon contributors include:\n\n- **Gluten** — the strongest known trigger of zonulin release, in everyone, not just celiacs (see [gluten-and-thyroid])\n- **Chronic stress** and HPA axis activation — see [hpa-axis]\n- **Gut infections and dysbiosis** — overgrowth of unfavorable bacteria, yeast, or parasites\n- **NSAIDs**, frequent antibiotics, and certain medications\n- **Alcohol** and ultra-processed food intake\n- **Low stomach acid** and impaired digestion\n- **Nutrient deficiencies** — especially zinc, vitamin A, and L-glutamine\n\nWhen the barrier is leaky, downstream effects include:\n\n- **Autoimmune disease** — including [hashimotos-thyroiditis] and other thyroid autoimmunity\n- **Food sensitivities** that seem to multiply over time\n- **Skin conditions** — eczema, rosacea, acne\n- **Joint pain** and unexplained inflammation\n- **Brain fog**, anxiety, and mood symptoms (the gut-brain axis)\n- **Nutrient malabsorption** — especially iron, B12, magnesium, and zinc\n\n## How MTC applies leaky gut\n\nFor any woman with autoimmune thyroid disease, leaky gut is assumed to be playing a role until proven otherwise. The research is too consistent to ignore: you cannot have autoimmunity without intestinal permeability somewhere in the picture. Repairing the gut lining is foundational to calming the autoimmune fire.\n\nAt Modern Thyroid Clinic, the gut work usually layers in this order:\n\n- **Remove triggers** — typically gluten first, often dairy and processed foods, sometimes individualized food sensitivities\n- **Repair the lining** — L-glutamine, zinc carnosine, vitamin A, collagen, deglycyrrhizinated licorice, slippery elm\n- **Reinoculate** — targeted probiotics and fermented foods to rebuild a healthy microbial community\n- **Address infections** — SIBO, yeast overgrowth, H. pylori, parasites, when present, with appropriate testing and treatment\n- **Restore digestion** — adequate stomach acid, digestive enzymes, bile flow\n- **Calm the nervous system** — chronic stress keeps the gut leaky no matter what supplements you take\n\nThis work pairs naturally with the broader [gut-thyroid-connection]. Many women find that as the gut heals, thyroid antibodies fall, food sensitivities ease, and the systemic inflammation that fueled fatigue, joint pain, and brain fog quietly resolves. The thyroid medication may stay the same — but the experience of being in your body changes.",
+  "commonQuestions": [
+    {
+      "q": "Is leaky gut a real diagnosis?",
+      "a": "Yes — though the terminology varies. \"Leaky gut\" is the popular term; \"increased intestinal permeability\" is the clinical equivalent and is well-established in gastroenterology research. Markers like zonulin and lactulose-mannitol testing can quantify it. The controversy is mostly about how reliably we can test it and whether specific over-the-counter products fix it. The underlying physiology — that the gut barrier can become more permeable and contribute to autoimmunity, food sensitivities, and inflammation — is no longer in serious dispute."
+    },
+    {
+      "q": "How do I know if I have leaky gut?",
+      "a": "There is no single perfect test, so diagnosis is usually clinical — based on the pattern of symptoms and conditions present. Strong indicators include autoimmune disease (especially [hashimotos-thyroiditis]), multiple food sensitivities, bloating, irregular stools, skin conditions, joint pain, brain fog, and a history of antibiotics, NSAIDs, alcohol, or chronic stress. At Modern Thyroid Clinic, comprehensive stool testing and sometimes specialized permeability testing add detail, but the broader picture usually tells the story before a lab does."
+    },
+    {
+      "q": "How long does it take to heal a leaky gut?",
+      "a": "Foundational improvement is often felt within four to eight weeks of a focused protocol — less bloating, more energy, calmer skin, fewer reactions. Full repair, especially in the context of long-standing autoimmune disease, typically takes three to six months and sometimes longer. Healing is not linear; flares happen with stress, travel, illness, and dietary slips. The goal is not perfection but resilience — a gut that can handle ordinary life without immediately collapsing back into inflammation. Patient consistency tends to be more decisive than any single supplement."
+    }
+  ],
+  "keySymptoms": [
+    "Bloating",
+    "Food sensitivities",
+    "Brain fog",
+    "Skin issues",
+    "Joint pain",
+    "Fatigue",
+    "Irregular stools",
+    "Autoimmune symptoms"
+  ],
+  "seoTitle": "Leaky Gut: How Intestinal Permeability Drives Thyroid Issues | MTC",
+  "seoDescription": "Leaky gut allows particles to cross into the bloodstream, fueling autoimmunity, food sensitivities, and Hashimoto's. Learn causes and a healing approach."
+}

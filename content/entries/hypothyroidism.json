@@ -1,0 +1,33 @@
+{
+  "slug": "hypothyroidism",
+  "shortDefinition": "Hypothyroidism is an underactive thyroid state in which the body does not have enough thyroid hormone to meet its metabolic needs.",
+  "fullDefinition": "## What is hypothyroidism?\n\nHypothyroidism — also called **underactive thyroid** or **low thyroid** — is a condition in which the thyroid gland does not produce enough thyroid hormone to keep the body's metabolism running normally. Thyroid hormone affects nearly every cell, so when levels fall, women often notice fatigue, weight gain, brain fog, hair loss, cold intolerance, dry skin, constipation, and heavy or irregular periods. Hypothyroidism is far more common in women than men and tends to appear in the 30s, 40s, and 50s, though it can occur at any age.\n\n## What causes hypothyroidism?\n\nIn the United States, the leading cause is autoimmune thyroid disease — specifically [hashimotos-thyroiditis], which damages the gland over time. Other contributors include thyroid surgery, radioactive iodine treatment, certain medications, pituitary problems, severe iodine deficiency, and the postpartum period. At Modern Thyroid Clinic, we look beyond the standard diagnosis to identify *why* the thyroid is struggling — including gut health, nutrient status, chronic stress, environmental toxins, and hormonal transitions like perimenopause.\n\n## How is hypothyroidism diagnosed?\n\nMost primary-care offices test only TSH and call it normal if it falls anywhere within the lab reference range. A complete evaluation includes TSH, Free T4, Free T3, reverse T3, and thyroid antibodies (TPO and thyroglobulin). Many women have classic symptoms long before TSH rises out of range — a state often called [subclinical-hypothyroidism]. The functional range used at MTC is tighter than the standard lab range, which is why patients told they are \"normal\" elsewhere are often clearly hypothyroid on a thorough workup.\n\n## How is hypothyroidism treated?\n\nTreatment replaces the thyroid hormone the body is no longer making. The most common medication is **levothyroxine** (synthetic T4), but many women feel better on a combination of T4 and T3 (liothyronine) or on **natural desiccated thyroid (NDT)**, which contains both hormones. The right medication, the right dose, and the right monitoring — based on how a patient feels in addition to labs — make an enormous difference. A root-cause approach also addresses the underlying drivers: autoimmunity, gut function, nutrient deficiencies, and stress. Most women with hypothyroidism can feel like themselves again with thoughtful care.",
+  "commonQuestions": [
+    {
+      "q": "Can hypothyroidism be cured?",
+      "a": "Most cases of hypothyroidism are not curable in the strict sense, because the underlying cause — usually Hashimoto's autoimmune damage — is permanent. However, symptoms can be fully resolved with the right medication, the right dose, and root-cause work to calm the autoimmune process. Some women with very early or mild thyroid dysfunction can stabilize without medication by addressing nutrients, gut health, and stress. The goal at Modern Thyroid Clinic is not just normal labs, but feeling well — and that is achievable for the vast majority of patients."
+    },
+    {
+      "q": "Why do I still feel terrible if my TSH is normal?",
+      "a": "TSH alone is a poor measure of how thyroid hormone is actually working in your tissues. You can have a \"normal\" TSH with low Free T3, elevated reverse T3, or high antibodies — all of which produce hypothyroid symptoms. Many women also fall in the upper end of the lab range while feeling clearly unwell. A complete thyroid panel and a clinician who treats the patient, not the number, usually uncovers what's been missed. This is one of the most common patterns we see in new patients at MTC."
+    },
+    {
+      "q": "Is levothyroxine the only option for hypothyroidism?",
+      "a": "No. Levothyroxine (T4) is the most-prescribed option, but some women do not convert T4 to the active T3 hormone well and feel undertreated despite normal labs. Other options include adding liothyronine (T3), switching to natural desiccated thyroid, or using a compounded T3/T4 formulation. The best choice depends on your labs, symptoms, and how you respond. A thoughtful trial under medical supervision often makes the difference between surviving and thriving on thyroid medication."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue",
+    "Weight gain",
+    "Hair loss",
+    "Brain fog",
+    "Cold intolerance",
+    "Dry skin",
+    "Constipation",
+    "Heavy or irregular periods",
+    "Depression",
+    "Puffy face"
+  ],
+  "seoTitle": "Hypothyroidism: Symptoms, Causes & Treatment | Modern Thyroid Clinic",
+  "seoDescription": "Hypothyroidism is an underactive thyroid causing fatigue, weight gain, and brain fog. Learn the symptoms, complete labs, and root-cause treatment options."
+}

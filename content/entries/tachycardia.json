@@ -1,0 +1,31 @@
+{
+  "slug": "tachycardia",
+  "shortDefinition": "Tachycardia is a heart rate consistently above 100 beats per minute at rest — often a sign of an overactive thyroid or other treatable cause.",
+  "fullDefinition": "## What is tachycardia?\n\nTachycardia — also known as **fast heart rate** — is a resting heart rate consistently over 100 beats per minute (bpm) in adults. A normal resting heart rate is roughly 60-100 bpm, with most healthy adults running 60-90. Tachycardia can be steady (sinus tachycardia) or irregular (atrial fibrillation, supraventricular tachycardia, and others), and the workup differs by type.\n\nUnlike isolated palpitations — which are an *awareness* of heartbeat — tachycardia is an *objective* finding. You can confirm it with a pulse check, fitness tracker, or pulse oximeter. When it's persistent, especially at rest, the body is being asked to work harder than it should, and identifying the driver matters.\n\n## What hormonal conditions cause tachycardia?\n\nThe most common hormonal and medical causes in women include:\n\n- **[hyperthyroidism]** — One of the most common endocrine causes. Excess thyroid hormone speeds the heart through direct beta-adrenergic stimulation.\n- **[graves-disease]** — Autoimmune hyperthyroidism; tachycardia is often the first sign.\n- **[subclinical-hyperthyroidism]** — Even modest TSH suppression with normal T4/T3 can produce resting tachycardia.\n- **Thyroid hormone over-replacement** — Too high a dose of levothyroxine, T3, or NDT.\n- **[heart-palpitations]** patterns and atrial fibrillation — Often co-occur with longstanding hyperthyroidism.\n- **Anemia and iron deficiency** — The heart compensates for low oxygen-carrying capacity by beating faster.\n- **Dehydration, fever, and infection** — Common reversible causes.\n- **Anxiety and HPA axis dysregulation** — Chronic sympathetic overactivity drives elevated heart rate.\n- **Caffeine, stimulants, decongestants, and certain SSRIs** — Pharmacologic contributors.\n\n## When is it a red flag?\n\nSeek emergency care for tachycardia with chest pain, severe shortness of breath, fainting or near-fainting, confusion, or signs of shock. New irregular rapid heart rate raises concern for atrial fibrillation and warrants prompt evaluation, especially in women over 50 or those with cardiovascular risk factors. Tachycardia paired with classic hyperthyroid signs — weight loss, heat intolerance, tremor, eye changes — needs urgent thyroid testing because untreated severe hyperthyroidism can progress to **thyroid storm**, a life-threatening emergency.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, persistent tachycardia prompts a thyroid-first evaluation: TSH, Free T4, Free T3, reverse T3, TPO and thyroglobulin antibodies, plus TSI and TRAb if Graves' is suspected. We also assess ferritin and iron studies, electrolytes, hydration, and medications. EKG and sometimes ambulatory monitoring identify rhythm-specific issues. Treatment depends on cause: antithyroid medications and beta-blockers for hyperthyroidism, dose adjustment for over-replacement, iron repletion for anemia, and addressing autonomic and stress contributors. Once the driver is treated, resting heart rate typically normalizes within weeks.",
+  "commonQuestions": [
+    {
+      "q": "How fast is too fast?",
+      "a": "A resting heart rate consistently over 100 bpm is, by definition, tachycardia. But context matters — a heart rate of 95 in someone whose baseline is 60 is also a meaningful change worth investigating. Wearables and fitness trackers make trends visible: if your resting heart rate is climbing steadily over weeks or months without explanation, that's a clinical signal. Pair the data with how you feel — palpitations, anxiety, weight changes, heat intolerance — and bring all of it to your evaluation."
+    },
+    {
+      "q": "Can hyperthyroidism really speed my heart that much?",
+      "a": "Yes, dramatically. Thyroid hormone increases the heart's sensitivity to adrenaline and directly accelerates the sinus node. Many women with new hyperthyroidism walk in with resting heart rates of 110-130 bpm, and severe cases can run higher. Beta-blockers are often used acutely to control heart rate while definitive treatment — antithyroid medication, radioactive iodine, or surgery — addresses the thyroid itself. Untreated hyperthyroid tachycardia raises atrial fibrillation risk, which is why prompt diagnosis matters."
+    },
+    {
+      "q": "Should I worry about my fitness tracker showing high heart rate?",
+      "a": "Trackers are useful for trends but imperfect for diagnosis — they can misread irregular rhythms or drop signal during movement. A resting heart rate trend climbing over weeks, persistent values over 100 bpm, or new irregular readings deserve a clinical EKG and a thyroid panel. False alarms happen, but so do real findings — many women have caught their hyperthyroidism or atrial fibrillation through their watch. If the data feels off, get it checked rather than dismissing it."
+    }
+  ],
+  "keySymptoms": [
+    "Resting heart rate consistently above 100 bpm",
+    "Awareness of fast heartbeat",
+    "Lightheadedness or dizziness",
+    "Shortness of breath with mild activity",
+    "Chest discomfort or pressure",
+    "Fatigue out of proportion to exertion",
+    "Anxiety or sense of internal restlessness",
+    "Reduced exercise tolerance"
+  ],
+  "seoTitle": "Tachycardia: Thyroid & Hormonal Causes in Women | Modern Thyroid Clinic",
+  "seoDescription": "A fast resting heart rate often signals hyperthyroidism or thyroid over-replacement. Learn the causes of tachycardia and when to seek care."
+}

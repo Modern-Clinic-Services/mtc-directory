@@ -1,0 +1,31 @@
+{
+  "slug": "insomnia",
+  "shortDefinition": "Insomnia is difficulty falling or staying asleep. In women, perimenopause, cortisol rhythm, and thyroid imbalance are common, treatable drivers.",
+  "fullDefinition": "## What is insomnia?\n\nInsomnia — also called **sleeplessness** or **sleep disturbance** — is difficulty falling asleep, staying asleep, or returning to sleep after waking, occurring at least three nights per week and producing daytime consequences (fatigue, mood changes, brain fog, reduced function). It's typically described as acute (short-term, often situational) or chronic (lasting three months or more).\n\nMany women describe a specific 3am wake-up — falling asleep easily, then waking around 2-4am wired and unable to return to sleep. That pattern almost always has a hormonal driver: a cortisol surge, falling progesterone, blood sugar drop, or perimenopausal hot flash. At Modern Thyroid Clinic, we treat insomnia not as a sleep hygiene problem alone but as a clue to upstream physiology.\n\n## What hormonal conditions cause insomnia?\n\nThe most common drivers in women are:\n\n- **[perimenopause]** and **[menopause]** — Falling progesterone (which supports GABA and sleep) and erratic estradiol disrupt sleep architecture; hot flashes and night sweats fragment sleep.\n- **[hyperthyroidism]** — Excess thyroid hormone produces wired, racing-mind insomnia with palpitations and heat intolerance.\n- **Thyroid hormone over-replacement** — Too high a dose of levothyroxine, T3, or NDT can mimic hyperthyroid insomnia.\n- **HPA axis dysregulation and elevated nighttime [cortisol-rhythm]** — Reversed cortisol patterns wake women in the early morning hours.\n- **[adrenal-fatigue]** — Often presents with difficulty falling asleep and 3am wake-ups.\n- **[hypothyroidism]** — Less classic, but can fragment sleep through restless legs, sleep apnea, or general malaise.\n- **Blood sugar instability** — Glucose drops at night trigger adrenaline and waking.\n- **Low magnesium and B6** — Common, easily corrected contributors.\n- **Sleep apnea** — Often missed in women; deserves screening when sleep is unrefreshing.\n\n## When is it a red flag?\n\nInsomnia with witnessed apneas, loud snoring, gasping awakenings, or unrefreshing sleep needs sleep apnea evaluation. Insomnia with new hyperthyroid symptoms — palpitations, heat intolerance, weight loss, tremor — warrants a thyroid panel. Insomnia with severe depression, anxiety, or thoughts of self-harm needs prompt mental health support; in crisis, call or text 988 in the U.S. Sudden severe insomnia after starting a new medication should be flagged to the prescribing clinician.\n\n## What typically helps\n\nAt Modern Thyroid Clinic, chronic insomnia prompts a full hormonal workup: a complete thyroid panel (TSH, Free T4, Free T3, reverse T3, antibodies), four-point cortisol rhythm (saliva or urine), FSH and estradiol if perimenopause is on the table, [magnesium], vitamin D, B12, and ferritin. Treatment may layer thyroid optimization, bioidentical [progesterone-bioidentical] for perimenopausal sleep, cortisol rhythm support, blood sugar stabilization (especially a small protein-fat snack before bed for some women), magnesium glycinate, light hygiene, and consistent sleep timing. CBT for insomnia (CBT-I) is the gold-standard behavioral therapy and pairs well with biological work. Sleep medication is a tool, not a long-term solution.",
+  "commonQuestions": [
+    {
+      "q": "Why am I waking up at 3am wide awake?",
+      "a": "The 3am wake-up is one of the most common patterns we see — and it's almost always physiologic. The most likely drivers are: a cortisol surge (HPA dysregulation), falling progesterone in perimenopause, a blood sugar drop triggering adrenaline release, or a subtle hot flash. Some women have all four. A four-point cortisol test, hormone panel, and an honest look at evening eating and alcohol typically identify the cause. Treating the upstream physiology works far better than sleeping pills."
+    },
+    {
+      "q": "Can perimenopause really wreck my sleep?",
+      "a": "Yes — it's one of the most common and underrecognized symptoms. Progesterone is profoundly calming and sleep-promoting, and it falls early and steeply in perimenopause. Estradiol fluctuations also trigger hot flashes and night sweats that fragment sleep. Many women in their 40s describe sleep falling apart years before their periods stop. Bioidentical micronized progesterone in the evening, prescribed and monitored by a clinician, can be transformative. It's not appropriate for everyone, but it's worth discussing as part of a complete plan."
+    },
+    {
+      "q": "Could my thyroid medication be keeping me up?",
+      "a": "Yes. Over-replacement with levothyroxine, T3, or NDT can cause wired insomnia, palpitations, anxiety, and racing thoughts at night. Even within the 'normal' range, a TSH suppressed near zero or a high Free T3 can produce these symptoms. If insomnia started or worsened after a dose change, that timing matters. At Modern Thyroid Clinic we adjust based on full thyroid labs and how patients actually feel — and insomnia is a meaningful dosing signal we take seriously."
+    }
+  ],
+  "keySymptoms": [
+    "Difficulty falling asleep",
+    "Waking in the middle of the night",
+    "Waking too early and unable to return to sleep",
+    "Unrefreshing sleep despite adequate hours",
+    "Daytime fatigue from poor sleep",
+    "Racing mind at bedtime",
+    "Frequent 3am awakenings",
+    "Sleep fragmented by hot flashes or night sweats"
+  ],
+  "seoTitle": "Insomnia in Women: Hormonal & Thyroid Causes | Modern Thyroid Clinic",
+  "seoDescription": "Insomnia in women is often hormonal — driven by perimenopause, cortisol rhythm, or thyroid imbalance. Learn the root causes and how to sleep again."
+}

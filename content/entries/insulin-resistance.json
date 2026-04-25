@@ -1,0 +1,32 @@
+{
+  "slug": "insulin-resistance",
+  "shortDefinition": "Insulin resistance (IR) is a metabolic state in which cells respond poorly to insulin, driving fatigue, weight gain, hormonal imbalance, and eventually diabetes.",
+  "fullDefinition": "## What is insulin resistance?\n\nInsulin resistance — sometimes shortened to **IR** or called **metabolic insulin resistance** — is a state in which the body's cells stop responding well to insulin, the hormone that moves glucose out of the bloodstream and into cells. To compensate, the pancreas makes more insulin, often a great deal more. Blood sugar may stay normal for years, but insulin runs high. Over time, this combination drives weight gain (especially around the midsection), fatigue after meals, hormonal imbalance, increased cardiovascular risk, and eventual progression to [prediabetes] and [type-2-diabetes].\n\nInsulin resistance is also a major driver of [polycystic-ovary-syndrome], non-alcoholic fatty liver disease, and worsens many thyroid and hormonal conditions seen at Modern Thyroid Clinic.\n\n## What causes insulin resistance?\n\nInsulin resistance develops from a combination of inputs over years:\n\n- **Diet patterns** — frequent refined carbs, ultra-processed foods, sugary drinks\n- **Inactivity and low muscle mass**\n- **Sleep deprivation** and disrupted circadian rhythm\n- **Chronic stress** with elevated cortisol\n- **Visceral fat** (the metabolically active fat around organs)\n- **Genetics and family history**\n- **Hormonal transitions** — perimenopause, postpartum, PCOS\n- **Medications** — long-term steroids, some antipsychotics\n\nIt is not caused by one bad food or one missed workout — it is a slow drift, often invisible until weight or labs change.\n\n## How is insulin resistance diagnosed?\n\nStandard primary-care testing — fasting glucose and [hba1c] — often misses early insulin resistance because blood sugar stays normal for years while insulin climbs. A more sensitive workup includes:\n\n- **[fasting-insulin]** (often elevated long before glucose)\n- **HOMA-IR** (a calculated score from fasting glucose and insulin)\n- **Lipid panel** — high triglycerides and low HDL are strong clues\n- **Waist circumference**\n- **A1c and fasting glucose** for context\n\nAt MTC, insulin is checked routinely because it tells the metabolic story years earlier than glucose alone.\n\n## How is insulin resistance treated?\n\nInsulin resistance is highly reversible, especially when caught early. The foundation is lifestyle:\n\n- **Protein and fiber at every meal**, fewer refined carbs and sugary drinks\n- **Strength training** — muscle is the largest sink for blood sugar\n- **Daily movement**, especially after meals\n- **Quality sleep** and stress management\n\nWhen lifestyle alone is not enough, medications such as [metformin], [berberine], or [glp-1-agonists] can be added. Reversing insulin resistance often resolves stubborn weight, hormonal symptoms, and energy crashes that have lingered for years.",
+  "commonQuestions": [
+    {
+      "q": "Can I have insulin resistance with normal blood sugar?",
+      "a": "Absolutely — and this is the most commonly missed pattern. Insulin resistance starts years before blood sugar moves out of range. The pancreas compensates by pumping out more insulin to keep glucose normal. You can have a perfect A1c and fasting glucose while your fasting insulin is significantly elevated, your triglycerides are high, and your HDL is low. This is why testing fasting insulin and calculating HOMA-IR matter. Catching insulin resistance early — before glucose climbs — is when reversal is easiest."
+    },
+    {
+      "q": "Is insulin resistance reversible?",
+      "a": "Yes, particularly in earlier stages. Targeted nutrition, strength training, sleep optimization, and stress management can dramatically improve insulin sensitivity within months. Weight loss helps but is not always required — many women see major improvements simply from changing meal composition and adding muscle. Once frank type 2 diabetes has been present for years, full reversal is harder but improvement is still very possible. A clinician can help you build a plan that fits your body, schedule, and stage of metabolic dysfunction."
+    },
+    {
+      "q": "How is insulin resistance connected to PCOS and weight gain?",
+      "a": "High insulin signals the ovaries to make extra androgens, which drives the irregular periods, acne, and hirsutism characteristic of PCOS. High insulin also tells the body to store fat — especially around the midsection — and makes it very hard to release stored fat for fuel. So weight gain that resists diet and exercise, along with hormonal symptoms, is often a sign that insulin is the upstream driver. Treating the insulin resistance often unlocks both the metabolic and hormonal symptoms simultaneously."
+    }
+  ],
+  "keySymptoms": [
+    "Fatigue after meals or mid-afternoon energy crashes",
+    "Weight gain around the midsection",
+    "Sugar and carbohydrate cravings",
+    "Difficulty losing weight despite effort",
+    "Skin tags",
+    "Dark velvety patches on the neck or armpits (acanthosis nigricans)",
+    "Brain fog",
+    "Frequent hunger",
+    "Elevated triglycerides on labs"
+  ],
+  "seoTitle": "Insulin Resistance: Symptoms, Causes & How to Reverse It",
+  "seoDescription": "Insulin resistance drives weight gain, fatigue, and hormonal imbalance years before diabetes. Learn the labs to ask for and how to reverse it."
+}

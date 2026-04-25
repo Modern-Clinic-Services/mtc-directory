@@ -1,0 +1,32 @@
+{
+  "slug": "polycystic-ovary-syndrome",
+  "shortDefinition": "Polycystic ovary syndrome (PCOS) is a hormonal condition causing irregular periods, elevated androgens, and metabolic changes, often driven by insulin resistance.",
+  "fullDefinition": "## What is PCOS?\n\nPolycystic ovary syndrome — **PCOS**, sometimes called polycystic ovarian syndrome — is one of the most common hormonal conditions in women of reproductive age, affecting roughly 1 in 10. Despite the name, the defining problem is not the ovaries themselves but a wider hormonal and metabolic pattern: irregular ovulation, elevated androgens (testosterone-family hormones), and frequently [insulin-resistance].\n\nWomen with PCOS often experience irregular or missing periods, acne, unwanted hair growth on the face and body (hirsutism), thinning hair on the scalp, weight changes that resist effort, and difficulty conceiving. The ovaries may show many small follicles on ultrasound — the \"polycystic\" appearance — but those follicles are not true cysts and not the cause of symptoms.\n\n## What causes PCOS?\n\nPCOS is multifactorial. The most common driver in modern women is **insulin resistance**: when cells respond poorly to insulin, the pancreas pumps out more, and high insulin signals the ovaries to make extra androgens. Other contributors include:\n\n- **Genetics** — PCOS often runs in families\n- **Chronic inflammation**\n- **Stress and HPA axis dysfunction**\n- **Disrupted sleep**\n- **Environmental endocrine disruptors**\n- **Post-pill PCOS** — a hormonal shift after stopping oral contraceptives\n\nNot every woman with PCOS has insulin resistance, which is why a single treatment plan does not fit everyone.\n\n## How is PCOS diagnosed?\n\nPCOS is diagnosed using the **Rotterdam criteria** — meeting two of three:\n\n1. Irregular or absent ovulation\n2. Clinical or lab evidence of high androgens (acne, hirsutism, elevated total or free testosterone, DHEA-S)\n3. Polycystic-appearing ovaries on ultrasound\n\nA thorough work-up at MTC also includes [fasting-insulin], glucose, [hba1c], a full lipid panel, thyroid labs, and prolactin to rule out look-alike conditions and identify the specific drivers in your case.\n\n## How is PCOS treated?\n\nRoot-cause treatment targets the upstream drivers — usually insulin and inflammation — rather than only suppressing symptoms with the pill. Approaches include:\n\n- **Nutrition** focused on blood-sugar stability (protein, fiber, fewer refined carbs)\n- **Strength training** to improve insulin sensitivity\n- **Targeted nutrients**: [myo-inositol], magnesium, vitamin D, omega-3s\n- **Medications when appropriate**: [metformin], spironolactone for androgen symptoms, [glp-1-agonists] for metabolic PCOS\n- **Sleep, stress, and gut work**\n\nAt Modern Thyroid Clinic, PCOS is treated as a whole-body metabolic and hormonal condition. Many women see periods regulate, skin clear, and energy return when the right drivers are addressed.",
+  "commonQuestions": [
+    {
+      "q": "Can you have PCOS without cysts on your ovaries?",
+      "a": "Yes — and the name is genuinely misleading. PCOS is a hormonal and metabolic syndrome, not a cyst disease. Diagnosis requires meeting two of three Rotterdam criteria, so a woman with irregular ovulation and high androgens (acne, hirsutism, elevated testosterone) qualifies for PCOS even if her ovaries look completely normal on ultrasound. Conversely, polycystic-appearing ovaries on imaging without other features are not PCOS. This is why thorough labs and clinical history matter more than ultrasound alone."
+    },
+    {
+      "q": "Will losing weight cure my PCOS?",
+      "a": "Weight loss can dramatically improve PCOS symptoms in women who carry excess weight, particularly because it improves insulin sensitivity. Periods often regularize, androgens drop, and fertility improves. But PCOS occurs in lean women too — roughly 20 to 30 percent — and for them, weight loss is not the answer. The underlying issue is still insulin signaling, inflammation, or stress physiology. Treatment should target the actual drivers, not assume weight is the universal fix. A clinician can help identify your specific PCOS pattern."
+    },
+    {
+      "q": "Is the birth control pill the best treatment for PCOS?",
+      "a": "The pill masks PCOS symptoms by suppressing ovulation and lowering free androgens, which can be helpful short-term — especially for severe acne or contraception. But it does not treat the underlying insulin resistance, inflammation, or hormonal imbalance, and symptoms typically return when the pill is stopped. A root-cause approach addresses the metabolic drivers so your body can make its own balanced hormones. The pill remains a reasonable tool in the right context, but it is rarely the only or best long-term plan."
+    }
+  ],
+  "keySymptoms": [
+    "Irregular or missing periods",
+    "Acne, especially along the jawline",
+    "Excess hair on the face, chest, or abdomen (hirsutism)",
+    "Thinning hair on the scalp",
+    "Difficulty losing weight",
+    "Difficulty conceiving",
+    "Skin tags or dark patches (acanthosis nigricans)",
+    "Mood changes",
+    "Fatigue after meals"
+  ],
+  "seoTitle": "PCOS: Symptoms, Causes & Root-Cause Treatment | Modern Thyroid Clinic",
+  "seoDescription": "PCOS causes irregular periods, acne, hair changes, and metabolic issues. Learn the root drivers and treatment options beyond the birth control pill."
+}

@@ -49,17 +49,33 @@ export default {
     const trigger = payload?.triggerType || '';
     const directoryCollectionId = '69ec1ea64d23f0cbe5590856';
 
+    // Log the actual shape of the payload so we can verify what Webflow sends.
+    // Visible in `wrangler tail` and the Cloudflare dashboard "Logs" tab.
+    console.log('webhook received', {
+      trigger,
+      collectionIdNested: payload?.payload?.collectionId,
+      collectionIdTopLevel: payload?.collectionId,
+      itemId: payload?.payload?.id || payload?.id,
+      payloadKeys: Object.keys(payload || {}),
+      nestedKeys: Object.keys(payload?.payload || {}),
+    });
+
+    const collectionId = payload?.payload?.collectionId || payload?.collectionId;
     const isRelevant =
       trigger === 'site_publish' ||
+      trigger === 'site_publishing' ||
       ((trigger === 'collection_item_created' ||
         trigger === 'collection_item_changed' ||
+        trigger === 'collection_item_updated' ||
         trigger === 'collection_item_deleted' ||
         trigger === 'collection_item_unpublished') &&
-        payload?.payload?.collectionId === directoryCollectionId);
+        (!collectionId || collectionId === directoryCollectionId));
 
     if (!isRelevant) {
-      return new Response(`Ignored: ${trigger || 'unknown trigger'}`, { status: 200 });
+      console.log('ignored', { trigger, collectionId });
+      return new Response(`Ignored: ${trigger || 'unknown'} / collection: ${collectionId || 'unknown'}`, { status: 200 });
     }
+    console.log('dispatching to GitHub', { trigger, collectionId });
 
     const ghRes = await fetch(`https://api.github.com/repos/${REPO}/dispatches`, {
       method: 'POST',

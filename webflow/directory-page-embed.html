@@ -3,6 +3,10 @@
      so it powers BOTH /directory and /search with the same baked index.
      (Alternatively, paste into a Page-level Embed on each of those two pages.) -->
 <style>
+  /* Load brand fonts (matches detail-page imports). Split to avoid HTML-escape gotchas. */
+  @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
   /* MTC brand tokens (mirrors CSS variables on modernthyroidclinic.com)
        --teal-dark      #376c74   primary brand teal
        --dark-salmon    #dda792   primary CTA bg (Book Appointment pattern)
@@ -14,10 +18,17 @@
        Body:     Source Sans Pro, Inter, system-ui, sans-serif
   */
 
-  /* ===== Layout: clear the fixed site navbar ===== */
-  .dir-home__hero { padding-top: 7rem; }
-  @media (max-width: 991px) { .dir-home__hero { padding-top: 5.5rem; } }
-  @media (max-width: 479px) { .dir-home__hero { padding-top: 4.5rem; } }
+  /* ===== Layout: clear the fixed site navbar (high specificity to win over Webflow defaults) ===== */
+  body .dir-home .dir-home__hero,
+  body main.dir-home > section.dir-home__hero { padding-top: 8rem !important; }
+  @media (max-width: 991px) {
+    body .dir-home .dir-home__hero,
+    body main.dir-home > section.dir-home__hero { padding-top: 6rem !important; }
+  }
+  @media (max-width: 479px) {
+    body .dir-home .dir-home__hero,
+    body main.dir-home > section.dir-home__hero { padding-top: 5rem !important; }
+  }
 
   /* ===== /directory hero typography (override Webflow defaults) ===== */
   body .dir-home .dir-home__title { font-family: "Playfair Display", Georgia, serif; color: #376c74; }

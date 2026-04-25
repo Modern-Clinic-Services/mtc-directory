@@ -1,0 +1,8 @@
+name = "mtc-website-directory-update-hook"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# Secrets (set via `wrangler secret put`):
+#   WEBFLOW_WEBHOOK_SECRET — the secret you configure on the Webflow webhook (HMAC key)
+#   GITHUB_PAT             — fine-grained PAT with Contents:write on the mtc-directory repo
+#                            (used to fire `repository_dispatch` so the Action runs)

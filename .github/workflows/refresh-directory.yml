@@ -1,0 +1,44 @@
+name: Refresh directory bundle
+
+on:
+  # Fired by the Cloudflare Worker when Webflow publishes a CMS change.
+  repository_dispatch:
+    types: [webflow_changed]
+  # Safety-net cron in case a webhook is dropped: every 6 hours.
+  schedule:
+    - cron: '0 */6 * * *'
+  # Manual run button in the Actions tab.
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-directory
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rebuild directory bundle from Webflow CMS
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
+        run: node scripts/build-directory-embed.mjs
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- dist webflow/directory-page-embed.html; then
+            echo "Directory is already up to date — no commit needed."
+            exit 0
+          fi
+          git add dist webflow/directory-page-embed.html
+          trigger="${{ github.event_name }}"
+          git commit -m "chore: refresh directory bundle (${trigger}, $(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

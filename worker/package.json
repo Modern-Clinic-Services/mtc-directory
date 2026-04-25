@@ -1,0 +1,11 @@
+{
+  "name": "mtc-website-directory-update-hook",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker that relays Webflow CMS webhooks to a GitHub repository_dispatch event.",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail"
+  }
+}

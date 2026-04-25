@@ -28,16 +28,27 @@ export default {
     const tsHeader = request.headers.get('x-webflow-timestamp') || '';
 
     if (!sigHeader || !tsHeader) {
+      console.log('reject: missing headers', { hasSig: !!sigHeader, hasTs: !!tsHeader });
       return new Response('Missing signature headers', { status: 401 });
     }
 
     const ts = Number(tsHeader);
-    if (!Number.isFinite(ts) || Math.abs(Date.now() - ts) > TIMESTAMP_TOLERANCE_MS) {
+    const skewMs = Date.now() - ts;
+    if (!Number.isFinite(ts) || Math.abs(skewMs) > TIMESTAMP_TOLERANCE_MS) {
+      console.log('reject: stale or invalid timestamp', { ts, skewMs });
       return new Response('Stale or invalid timestamp', { status: 401 });
     }
 
+    const secretLen = (env.WEBFLOW_WEBHOOK_SECRET || '').length;
     const expected = await hmacSha256Hex(env.WEBFLOW_WEBHOOK_SECRET, `${tsHeader}:${rawBody}`);
     if (!constantTimeEqual(sigHeader, expected)) {
+      console.log('reject: signature mismatch', {
+        secretLen,
+        gotSigPrefix: sigHeader.slice(0, 12),
+        expectedSigPrefix: expected.slice(0, 12),
+        bodyLen: rawBody.length,
+        ts: tsHeader,
+      });
       return new Response('Invalid signature', { status: 401 });
     }
 

@@ -385,7 +385,46 @@
   // as styled pill chips. Hides the wrapper if the list is empty.
   // Lives here because Webflow HTML-escapes content inside inline <script> tags,
   // which breaks any inline JS using quotes/angle brackets.
+  // Map chip label (uppercased category display name) to /directory category slug.
+  var CHIP_TO_CATEGORY = {
+    'CONDITION': 'condition', 'SYMPTOM': 'symptom', 'MEDICATION': 'medication',
+    'SUPPLEMENT': 'supplement', 'LAB OR TEST': 'lab', 'PROCEDURE': 'procedure',
+    'CONCEPT': 'concept'
+  };
+  // Plural display label for the breadcrumb.
+  var CATEGORY_PLURAL = {
+    condition: 'Conditions', symptom: 'Symptoms', medication: 'Medications',
+    supplement: 'Supplements', lab: 'Labs & Tests', procedure: 'Procedures',
+    concept: 'Concepts'
+  };
+
+  function injectCategoryCrumb(){
+    var crumb = document.querySelector('.dir-detail__crumb');
+    if (!crumb) return;
+    if (crumb.querySelector('.mtc-crumb-cat')) return; // already injected
+    var chipEl = document.querySelector('.dir-detail__chip-1, .dir-detail__chip');
+    var chipText = chipEl ? (chipEl.textContent || '').trim().toUpperCase() : '';
+    var slug = CHIP_TO_CATEGORY[chipText];
+    if (!slug) return;
+    var current = crumb.querySelector('.dir-detail__crumb-current-1, .dir-detail__crumb-current, [id="bind-name-crumb"]');
+    if (!current) return;
+    // Find the separator immediately before the current item — we'll insert
+    // category + new separator BEFORE that, so order becomes: Directory > Category > Current
+    var prevSep = current.previousElementSibling;
+    var insertBefore = prevSep && prevSep.classList.contains('dir-detail__crumb-sep') ? prevSep : current;
+    var link = document.createElement('a');
+    link.href = '/directory?category=' + encodeURIComponent(slug);
+    link.className = 'mtc-crumb-cat';
+    link.textContent = CATEGORY_PLURAL[slug] || slug;
+    var sep = document.createElement('span');
+    sep.className = 'dir-detail__crumb-sep mtc-crumb-cat-sep';
+    sep.textContent = '›';
+    crumb.insertBefore(link, insertBefore);
+    crumb.insertBefore(sep, insertBefore);
+  }
+
   function initDetailPage(){
+    injectCategoryCrumb();
     var wrap = document.querySelector('.dir-detail__symptoms-1, .dir-detail__symptoms');
     if (!wrap) return;
     var list = wrap.querySelector('.dir-detail__symptom-list');

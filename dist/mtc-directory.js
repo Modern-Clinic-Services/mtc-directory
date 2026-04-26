@@ -241,7 +241,10 @@
     if (!list) { wrap.style.display = 'none'; return; }
     var raw = (list.textContent || '').trim();
     if (!raw) { wrap.style.display = 'none'; return; }
-    list.innerHTML = raw.split(',').map(function(s){
+    // Prefer semicolons (so item names can contain commas naturally).
+    // Fall back to commas if the field has none — supports legacy data during migration.
+    var sep = raw.indexOf(';') >= 0 ? ';' : ',';
+    list.innerHTML = raw.split(sep).map(function(s){
       s = s.trim();
       return s ? '<span class="dir-detail__symptom-pill">' + escapeHtml(s) + '</span>' : '';
     }).filter(Boolean).join('');

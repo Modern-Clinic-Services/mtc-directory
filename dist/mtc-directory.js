@@ -257,10 +257,9 @@
     if (!slug) return;
     var current = crumb.querySelector('.dir-detail__crumb-current-1, .dir-detail__crumb-current, [id="bind-name-crumb"]');
     if (!current) return;
-    // Find the separator immediately before the current item — we'll insert
-    // category + new separator BEFORE that, so order becomes: Directory > Category > Current
-    var prevSep = current.previousElementSibling;
-    var insertBefore = prevSep && prevSep.classList.contains('dir-detail__crumb-sep') ? prevSep : current;
+    // Insert AFTER the existing "Directory ›" separator (which is current.previousElementSibling)
+    // so the order is: Directory › [new Category] › Current.
+    // Easiest: insert link + new separator immediately before `current`.
     var link = document.createElement('a');
     link.href = '/directory?category=' + encodeURIComponent(slug);
     link.className = 'mtc-crumb-cat';
@@ -268,8 +267,8 @@
     var sep = document.createElement('span');
     sep.className = 'dir-detail__crumb-sep mtc-crumb-cat-sep';
     sep.textContent = '›';
-    crumb.insertBefore(link, insertBefore);
-    crumb.insertBefore(sep, insertBefore);
+    crumb.insertBefore(link, current);
+    crumb.insertBefore(sep, current);
   }
 
   function initDetailPage(){

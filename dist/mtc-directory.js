@@ -229,12 +229,32 @@
     }, 200);
   }
 
+  // ===== Detail page (/directory/<slug>) =====
+  // Renders the comma-separated key-symptoms text inside .dir-detail__symptom-list
+  // as styled pill chips. Hides the wrapper if the list is empty.
+  // Lives here because Webflow HTML-escapes content inside inline <script> tags,
+  // which breaks any inline JS using quotes/angle brackets.
+  function initDetailPage(){
+    var wrap = document.querySelector('.dir-detail__symptoms-1, .dir-detail__symptoms');
+    if (!wrap) return;
+    var list = wrap.querySelector('.dir-detail__symptom-list');
+    if (!list) { wrap.style.display = 'none'; return; }
+    var raw = (list.textContent || '').trim();
+    if (!raw) { wrap.style.display = 'none'; return; }
+    list.innerHTML = raw.split(',').map(function(s){
+      s = s.trim();
+      return s ? '<span class="dir-detail__symptom-pill">' + escapeHtml(s) + '</span>' : '';
+    }).filter(Boolean).join('');
+  }
+
   function init(){
     var path = location.pathname.replace(/\/$/, '');
     if (path === '/directory') {
       initDirectoryPage();
     } else if (path === '/search') {
       initSearchPage();
+    } else if (path.indexOf('/directory/') === 0) {
+      initDetailPage();
     }
   }
 
